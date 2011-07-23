@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent" android:background="@drawable/sfondo">
+
+	<LinearLayout android:id="@+id/linearLayout1"
+		android:layout_width="match_parent" android:layout_height="wrap_content"
+		android:background="#000000">
+		<ImageButton android:id="@+id/btnHome" android:src="@drawable/homeicon"
+			android:layout_width="25dp" android:layout_height="28dp"></ImageButton>
+	</LinearLayout>
+
+	<TextView android:id="@+id/txt10Mandamentos"
+		android:layout_width="wrap_content"
+		android:text="\n
+		1 - Amar a Deus sobre todas as coisas\n
+		2 - Não tomar o seu Santo Nome em vão\n
+		3 - Guardar domingos e festas de guarda\n
+		4 - Honrar pai e mãe\n
+		5 - Não matar\n
+		6 - Não pecar contra a castidade\n
+		7 - Não roubar\n
+		8 - Não levantar falso testemunho\n
+		9 - Não desejar a mulher do próximo\n
+		10 - Não cobiçar as coisas alheias"
+		android:layout_height="wrap_content" style="@style/mainStyle" />
+
+</LinearLayout>
