@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="@drawable/sfondo" android:columnWidth="90dp"
+	android:numColumns="1" android:verticalSpacing="10dp"
+	android:horizontalSpacing="10dp" android:stretchMode="columnWidth"
+	android:gravity="center" android:id="@+id/gridViewOpcoes" style="@style/mainStyle">
+</GridView>
