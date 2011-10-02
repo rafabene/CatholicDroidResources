@@ -1,26 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">Catholic Droid</string>
-	<string name="version">v 0.1</string>
-	<string name="dezmandamentos">
-		\n
-		1 - Amar a Deus sobre todas as coisas\n
-		2 - Não
-		tomar o seu Santo Nome
-		em vão\n
-		3 - Guardar domingos e festas de
-		guarda\n
-		4 - Honrar pai e
-		mãe\n
-		5 - Não matar\n
-		6 - Não pecar contra a
-		castidade\n
-		7 - Não roubar\n
-		8 - Não levantar falso testemunho\n
-		9 - Não
-		desejar a mulher do
-		próximo\n
-		10 - Não cobiçar as coisas alheias
-	</string>
-	
+	<string name="biblia">Bíblia</string>
+	<string name="dezmandamentos">Dez Mandamentos</string>
+	<string name="sair">Sair</string>
+	<string name="mandamentosIgreja">Mandamentos da Igreja</string>
+	<string name="oracoes">Orações</string>
+	<string name="donsespiritosanto">Dons do Espírito Santo</string>
+	<string name="sacramentos">Sacramentos</string>
+	<string name="antigotestamento">Antigo Testamento</string>
+	<string name="novotestamento">Novo Testamento</string>
+	<string-array name="dezmandamentos">
+		<item>1 - Amar a Deus sobre todas as coisas</item>
+		<item>2 - Não tomar o seu Santo Nome em vão</item>
+		<item>3 - Guardar domingos e festas de guarda</item>
+		<item>4 - Honrar pai e mãe</item>
+		<item>5 - Não matar</item>
+		<item>6 - Não pecar contra a castidade</item>
+		<item>7 - Não roubar</item>
+		<item>8 - Não levantar falso testemunho</item>
+		<item>9 - Não desejar a mulher do próximo</item>
+		<item>10 - Não cobiçar as coisas alheias</item>
+	</string-array>
+	<string-array name="mandamentosIgreja">
+		<item>1 - Participar da missa inteira nos domingos e outras festas de guarda e abster-se de ocupações de trabalho</item>
+		<item>2 - Confessar-se ao menos uma vez por ano</item>
+		<item>3 - Receber o sacramento da Eucaristia ao menos pela Páscoa da ressurreição</item>
+		<item>4 - Jejuar e abster-se de carne, conforme manda a Santa Mãe Igreja</item>
+		<item>5 - Ajudar a Igreja em suas necessidades</item>
+	</string-array>
+	<string-array name="donsEspiritoSanto">
+		<item>1 - Fortaleza</item>
+		<item>2 - Sabedoria</item>
+		<item>3 - Ciência</item>
+		<item>4 - Conselho</item>
+		<item>5 - Entendimento</item>
+		<item>6 - Pierdade</item>
+		<item>7 - Temor a Deus</item>
+	</string-array>
+	<string-array name="sacramentos">
+		<item>1 - Batismo</item>
+		<item>2 - Confirmação ou Crisma</item>
+		<item>3 - Eucaristia</item>
+		<item>4 - Reconsciliação ou Penitência</item>
+		<item>5 - Unção dos enfermos</item>
+		<item>6 - Ordem</item>
+		<item>7 - Matrimônio</item>
+	</string-array>
+		<string name="nomeLivro">Livro</string>
+		<string name="traducao">Tradução</string>
 </resources>

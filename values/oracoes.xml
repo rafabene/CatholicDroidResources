@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="oracao.saofrancisco.name">Oração de São Francisco</string>
 	<string name="oracao.saofrancisco">
 		Senhor: Fazei de mim um instrumento de vossa Paz.\n
 		Onde houver Ódio, que eu leve o Amor,
@@ -30,6 +31,7 @@
 		Amém
 	</string>
 
+	<string name="oracao.avemaria.name">Ave Maria</string>
 	<string name="oracao.avemaria">
 		Ave Maria, cheia de graça, o Senhor é convosco.
 		Bendita sois Vós entre as
@@ -42,6 +44,8 @@
 		\n
 		Amém
 	</string>
+	
+	<string name="oracao.painosso.name">Pai Nosso</string>
 	<string name="oracao.painosso">
 		Pai nosso, que estais no cëu, santificado seja o
 		vosso nome, venha a nós o vosso reino e seja feita a vossa vontade,
@@ -56,6 +60,8 @@
 		\n
 		Amém
 	</string>
+	
+	<string name="oracao.salveRainha.name">Salve Rainha</string>
 	<string name="oracao.salveRainha">
 		Salve, Rainha, Mãe de misericórdia, vida, doçura,
 		esperança nossa, salve! A Vós bradamos, os degredados filhos de Eva. A
@@ -70,6 +76,8 @@
 		\n
 		Amém
 	</string>
+	
+	<string name="oracao.credo.name">Credo</string>
 	<string name="oracao.credo">
 		Creio em Deus Pai todo-poderoso, criador do céu e
 		da terra; e em Jesus
@@ -91,6 +99,8 @@
 		\n
 		Amém
 	</string>
+	
+	<string name="oracao.gloriaPai.name">Glória ao Pai</string>
 	<string name="oracao.gloriaPai">
 		Glória ao Pai, ao Filho e ao Espírito Santo!
 		Assim
@@ -98,6 +108,8 @@
 		\n
 		Amém
 	</string>
+	
+	<string name="oracao.credoNiceia.name">Credo de Nicéia</string>
 	<string name="oracao.credoNiceia">
 		Creio em um só Deus, Pai Toto-Poderoso, Criador do
 		Céu e da Terra; de todas as coisas visíveis e invisíveis.
@@ -148,6 +160,8 @@
 		\n
 		Amém
 	</string>
+	
+	<string name="oracao.cantico.criaturas.name">Cântico das Criaturas</string>
 	<string name="oracao.cantico.criaturas">
 		Altíssimo, omnipotente, bom Senhor,
 		a ti o louvor, a
@@ -214,6 +228,8 @@
 		e servi-o
 		com grande humildade...
 	</string>
+	
+	<string name="oracao.espirito.santo.name">Oração Espírito Santo</string>
 	<string name="oracao.espirito.santo">
 		Vinde Espírito Santo, enchei os corações dos vosso
 		fiéis e acendei neles o fogo do Vosso amor.
@@ -231,6 +247,8 @@
 		\n
 		Amém
 	</string>
+	
+	<string name="oracao.ato.contricao.name">Ato de Contrição</string>
 	<string name="oracao.ato.contricao">
 		Meu Deus , eu me arrependo de todo o coração de vos
 		Ter ofendido , porque

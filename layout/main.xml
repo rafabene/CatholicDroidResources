@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<GridView xmlns:android="http://schemas.android.com/apk/res/android"
-	android:layout_width="fill_parent" android:layout_height="fill_parent"
-	android:background="@drawable/sfondo" android:columnWidth="90dp"
-	android:numColumns="2" android:verticalSpacing="10dp"
-	android:horizontalSpacing="10dp" android:stretchMode="columnWidth"
-	android:gravity="center" android:id="@+id/gridViewMain">
-</GridView>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="@drawable/background">
+
+
+	<TextView android:id="@+id/txtSplashScreenMain" android:text="@string/app_name"
+		android:textColor="@color/fontColor" android:gravity="center"
+		android:textSize="40dp" android:layout_gravity="center_horizontal"
+		android:background="@android:color/transparent" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" />
+
+	<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="vertical" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:numColumns="2"
+		android:verticalSpacing="25dp" android:horizontalSpacing="10dp"
+		android:paddingTop="20dp" android:id="@+id/gridViewMain"
+		android:background="@android:color/transparent" />
+
+</LinearLayout>
