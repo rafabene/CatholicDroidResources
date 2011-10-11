@@ -4,14 +4,19 @@
 	android:layout_height="fill_parent">
 
 	<include layout="@layout/biblia_cabecalho"
-		android:layout_width="fill_parent" android:layout_height="wrap_content"/>
+		android:layout_width="fill_parent" android:layout_height="wrap_content" />
 	<LinearLayout android:id="@+id/linearLayout1"
 		android:layout_width="fill_parent" android:orientation="vertical"
 		android:layout_height="fill_parent" android:background="@drawable/background">
 		<ViewFlipper android:layout_height="wrap_content"
 			android:layout_width="fill_parent" android:id="@+id/viewFlipperBibliaLivros">
-			<TextView android:layout_height="wrap_content"
-				android:layout_width="wrap_content" android:text="Teste"></TextView>
+			<LinearLayout android:layout_height="fill_parent" android:layout_width="fill_parent">
+				<ProgressBar android:layout_height="wrap_content"
+					android:layout_width="wrap_content" style="?android:attr/progressBarStyleLarge"
+					android:id="@+id/bibliaDownloadProgress" android:visibility="gone"></ProgressBar>
+				<TextView android:layout_height="wrap_content"
+					android:layout_width="wrap_content"></TextView>
+			</LinearLayout>
 			<include layout="@layout/biblia_livros" />
 		</ViewFlipper>
 	</LinearLayout>
