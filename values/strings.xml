@@ -10,7 +10,7 @@
 	<string name="sacramentos">Sacramentos</string>
 	<string name="antigotestamento">Antigo Testamento</string>
 	<string name="novotestamento">Novo Testamento</string>
-	<string-array name="dezmandamentos">
+	<string name="nomeLivro">Livro</string><string name="traducao">Tradução</string><string-array name="dezmandamentos">
 		<item>1 - Amar a Deus sobre todas as coisas</item>
 		<item>2 - Não tomar o seu Santo Nome em vão</item>
 		<item>3 - Guardar domingos e festas de guarda</item>
@@ -47,6 +47,7 @@
 		<item>6 - Ordem</item>
 		<item>7 - Matrimônio</item>
 	</string-array>
-		<string name="nomeLivro">Livro</string>
-		<string name="traducao">Tradução</string>
+		
+		
+	<string name="dialogSelecionaCapitulo">Selecione o Capítulo</string>
 </resources>
