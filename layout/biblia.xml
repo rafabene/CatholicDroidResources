@@ -10,13 +10,15 @@
 		android:layout_height="fill_parent" android:background="@drawable/background">
 		<ViewFlipper android:layout_height="wrap_content"
 			android:layout_width="fill_parent" android:id="@+id/viewFlipperBibliaLivros">
-			<LinearLayout android:layout_height="fill_parent" android:layout_width="fill_parent">
+			<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"> 
+			<LinearLayout android:layout_height="fill_parent" android:layout_width="fill_parent" android:id="@+id/bibliaConteudo" android:orientation="vertical">
 				<ProgressBar android:layout_height="wrap_content"
 					android:layout_width="wrap_content" style="?android:attr/progressBarStyleLarge"
-					android:id="@+id/bibliaDownloadProgress" android:visibility="gone"></ProgressBar>
-				<TextView android:layout_height="wrap_content"
-					android:layout_width="wrap_content"></TextView>
+					android:id="@+id/bibliaDownloadProgress" android:visibility="gone" android:layout_gravity="center"></ProgressBar>
 			</LinearLayout>
+			
+			</ScrollView>
+			
 			<include layout="@layout/biblia_livros" />
 		</ViewFlipper>
 	</LinearLayout>
