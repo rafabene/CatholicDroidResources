@@ -14,11 +14,11 @@
 		android:cursorVisible="true" android:textColor="@color/selector_home_text"
 		android:background="@color/selector_home_background"
 		android:layout_height="fill_parent" android:gravity="center_vertical"></TextView>
-	<TextView android:textSize="16dp" android:id="@+id/cabecalho_biblia_traducao"
+	<!-- TextView android:textSize="16dp" android:id="@+id/cabecalho_biblia_traducao"
 		android:text="@string/traducao" android:paddingRight="10dp"
 		android:clickable="true" android:textColor="@color/selector_home_text"
 		android:background="@color/selector_home_background"
 		android:layout_height="fill_parent" android:layout_width="wrap_content"
-		android:gravity="center_vertical"></TextView>
+		android:gravity="center_vertical"></TextView -->
 
 </LinearLayout>

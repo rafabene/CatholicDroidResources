@@ -5,6 +5,7 @@
 
 	<TextView android:text="TextView" android:id="@+id/textViewOracao"
 		android:layout_width="wrap_content" android:layout_height="wrap_content"
-		android:textColor="@color/fontColor" android:textSize="20dp" android:typeface="serif"></TextView>
+		android:textColor="@color/fontColor" android:textSize="20dp"
+		android:typeface="serif" android:padding="20dp"></TextView>
 
 </ScrollView>
