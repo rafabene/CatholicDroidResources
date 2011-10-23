@@ -16,9 +16,10 @@
 	<string name="antigotestamento">Antigo Testamento</string>
 	<string name="novotestamento">Novo Testamento</string>
 	<string name="sugerirOracao">Sugerir uma Oração</string>
+	<string name="sugestaoEnviada">Sugestão Enviada com sucesso!</string>
 	<string name="dialogSelecionaCapitulo">Selecione o Capítulo</string>
 	<string name="avisoGestoNaoReconhecido">Gesto não reconhecido</string>
-	<string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia
+	<string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia ou então arraste para direita ou esquerda
 	</string>
 	<string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração
 	</string>
