@@ -5,19 +5,25 @@
 	<string name="dezmandamentos">Dez Mandamentos</string>
 	<string name="sair">Sair</string>
 	<string name="voltar">Voltar</string>
+	<string name="enviar">Enviar</string>
+	<string name="fim">Fim</string>
+	<string name="inicio">Início</string>
+	<string name="aguarde">Aguarde...</string>
 	<string name="mandamentosIgreja">Mandamentos da Igreja</string>
 	<string name="oracoes">Orações</string>
 	<string name="donsespiritosanto">Dons do Espírito Santo</string>
 	<string name="sacramentos">Sacramentos</string>
 	<string name="antigotestamento">Antigo Testamento</string>
 	<string name="novotestamento">Novo Testamento</string>
-	<string name="fim">Fim</string>
-	<string name="inicio">Início</string>
 	<string name="sugerirOracao">Sugerir uma Oração</string>
+	<string name="dialogSelecionaCapitulo">Selecione o Capítulo</string>
 	<string name="avisoGestoNaoReconhecido">Gesto não reconhecido</string>
-	<string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia</string>
-	<string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração</string>
-	<string name="nomeLivro">Livro</string><string name="traducao">Tradução</string><string-array name="dezmandamentos">
+	<string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia
+	</string>
+	<string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração
+	</string>
+	<string name="traducao">Tradução</string>
+	<string-array name="dezmandamentos">
 		<item>1 - Amar a Deus sobre todas as coisas</item>
 		<item>2 - Não tomar o seu Santo Nome em vão</item>
 		<item>3 - Guardar domingos e festas de guarda</item>
@@ -30,10 +36,13 @@
 		<item>10 - Não cobiçar as coisas alheias</item>
 	</string-array>
 	<string-array name="mandamentosIgreja">
-		<item>1 - Participar da missa inteira nos domingos e outras festas de guarda e abster-se de ocupações de trabalho</item>
+		<item>1 - Participar da missa inteira nos domingos e outras festas de
+			guarda e abster-se de ocupações de trabalho</item>
 		<item>2 - Confessar-se ao menos uma vez por ano</item>
-		<item>3 - Receber o sacramento da Eucaristia ao menos pela Páscoa da ressurreição</item>
-		<item>4 - Jejuar e abster-se de carne, conforme manda a Santa Mãe Igreja</item>
+		<item>3 - Receber o sacramento da Eucaristia ao menos pela Páscoa da
+			ressurreição</item>
+		<item>4 - Jejuar e abster-se de carne, conforme manda a Santa Mãe
+			Igreja</item>
 		<item>5 - Ajudar a Igreja em suas necessidades</item>
 	</string-array>
 	<string-array name="donsEspiritoSanto">
@@ -54,7 +63,6 @@
 		<item>6 - Ordem</item>
 		<item>7 - Matrimônio</item>
 	</string-array>
-		
-		
-	<string name="dialogSelecionaCapitulo">Selecione o Capítulo</string>
+
+
 </resources>

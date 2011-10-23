@@ -8,7 +8,7 @@
 		android:layout_gravity="right" android:layout_width="45dp"
 		android:layout_height="45dp" />
 	<TextView android:id="@+id/cabecalho_biblia_livros"
-		android:text="@string/nomeLivro" android:layout_width="fill_parent"
+		android:text="@string/aguarde" android:layout_width="fill_parent"
 		android:layout_weight="1" android:paddingLeft="10dp"
 		android:clickable="true" android:textSize="18dp"
 		android:cursorVisible="true" android:textColor="@color/selector_home_text"
