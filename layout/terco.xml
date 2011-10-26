@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<include layout="@layout/actionbar" android:layout_height="wrap_content"
+		android:layout_width="fill_parent"></include>
+	<LinearLayout android:orientation="vertical"
+		android:layout_height="fill_parent" android:layout_width="fill_parent"
+		android:background="@drawable/background">
+		<LinearLayout android:layout_width="fill_parent"
+			android:orientation="vertical" android:layout_height="0dp"
+			android:layout_weight="5">
+			<ScrollView android:layout_width="fill_parent"
+				android:layout_height="fill_parent" android:layout_weight="5">
+				<LinearLayout android:layout_width="fill_parent"
+					android:layout_height="fill_parent" android:orientation="vertical">
+					<LinearLayout android:layout_width="fill_parent"
+						android:layout_height="fill_parent">
+						<ToggleButton android:layout_width="wrap_content"
+							android:padding="10dp" android:layout_height="wrap_content"
+							android:background="@drawable/selector_cruxifixo" android:id="@+id/tercoCruxifixoToggleButton"
+							android:textOn="" android:textOff="" />
+						<TextView android:layout_height="wrap_content"
+							android:textColor="@color/fontColor" android:paddingLeft="10dp"
+							android:layout_width="wrap_content" android:layout_gravity="center_vertical"
+							android:text="@string/terco.sinalCruzeCreio"></TextView>
+					</LinearLayout>
+					<LinearLayout android:layout_width="fill_parent"
+						android:layout_height="fill_parent">
+						<ToggleButton android:layout_width="wrap_content"
+							android:layout_height="wrap_content" android:src="@drawable/biblia"
+							android:id="@+id/tercoPaiNosso1ToggleButton" android:textOn=""
+							android:textOff="" android:background="@drawable/selector_bolona" />
+						<TextView android:layout_height="wrap_content"
+							android:text="@string/oracao.painosso.name" android:textColor="@color/fontColor"
+							android:paddingLeft="10dp" android:layout_width="wrap_content"
+							android:layout_gravity="center_vertical"></TextView>
+					</LinearLayout>
+					<LinearLayout android:layout_width="fill_parent"
+						android:layout_height="fill_parent">
+						<ToggleButton android:layout_width="wrap_content"
+							android:id="@+id/tercoAveMaria1ToggleButton" android:background="@drawable/selector_bolinha"
+							android:layout_height="wrap_content" android:textOn=""
+							android:textOff="" />
+						<TextView android:layout_height="wrap_content"
+							android:text="@string/oracao.avemaria.name" android:paddingLeft="10dp"
+							android:textColor="@color/fontColor" android:layout_width="wrap_content"
+							android:layout_gravity="center_vertical"></TextView>
+					</LinearLayout>
+					<LinearLayout android:layout_width="fill_parent"
+						android:layout_height="fill_parent">
+						<ToggleButton android:layout_width="wrap_content"
+							android:id="@+id/tercoAveMaria2ToggleButton" android:background="@drawable/selector_bolinha"
+							android:layout_height="wrap_content" android:textOn=""
+							android:textOff="" />
+						<TextView android:layout_height="wrap_content"
+							android:text="@string/oracao.avemaria.name" android:textColor="@color/fontColor"
+							android:paddingLeft="10dp" android:layout_width="wrap_content"
+							android:layout_gravity="center_vertical"></TextView>
+					</LinearLayout>
+					<LinearLayout android:layout_width="fill_parent"
+						android:layout_height="fill_parent">
+						<ToggleButton android:layout_width="wrap_content"
+							android:background="@drawable/selector_bolinha"
+							android:layout_height="wrap_content" android:textOn=""
+							android:textOff="" android:id="@+id/tercoAveMaria3ToggleButton" />
+						<TextView android:layout_height="wrap_content"
+							android:text="@string/oracao.avemaria.name" android:textColor="@color/fontColor"
+							android:paddingLeft="10dp" android:layout_width="wrap_content"
+							android:layout_gravity="center_vertical"></TextView>
+					</LinearLayout>
+					<LinearLayout android:layout_width="fill_parent"
+						android:layout_height="fill_parent">
+						<ToggleButton android:layout_width="wrap_content"
+							android:layout_height="wrap_content" android:id="@+id/tercoPaiNosso2ToggleButton"
+							android:textOn="" android:textOff="" android:background="@drawable/selector_bolona" />
+						<TextView android:layout_height="wrap_content"
+							android:paddingLeft="10dp" android:text="@string/terco.GloriaPainosso"
+							android:textColor="@color/fontColor" android:layout_width="wrap_content"
+							android:layout_gravity="center_vertical"></TextView>
+					</LinearLayout>
+				</LinearLayout>
+			</ScrollView>
+		</LinearLayout>
+		<LinearLayout android:layout_width="fill_parent"
+			android:orientation="vertical" android:layout_height="0dp"
+			android:layout_weight="5">
+			<ScrollView android:layout_width="fill_parent"
+				android:layout_height="fill_parent">
+				<TextView android:layout_height="wrap_content"
+					android:text="" android:layout_width="wrap_content"
+					android:id="@+id/tercoConteudoOracao" android:textColor="@color/fontColor"
+					android:textSize="17dp"></TextView>
+			</ScrollView>
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+
+</LinearLayout>

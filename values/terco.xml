@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="terco">O Terço</string>
+	<string name="terco.oferecimento.title">Oferecimento</string>
+	<string name="terco.sinalCruzeCreio">Sinal da Cruz e Credo</string>
+	<string name="terco.GloriaPainosso">Glória e Pai Nosso</string>
+	<string name="terco.contemplacao">Neste mistério contemplamos: </string>
+	<string name="terco.jaculatoria">Ó meu Jesus! Perdoai-nos e livrai-nos do fogo do
+		inferno. Levai as almas todas para o céu e socorrei principalmente as
+		que mais precisarem.
+	</string>
+	<string name="terco.oferecimento">Divino Jesus, nós Vos oferecemos este terço que
+		vamos rezar, meditando nos mistérios da Vossa Redenção. Concedei-nos,
+		por intercessão da Virgem Maria, Mãe de Deus e nossa Mãe, as virtudes
+		que nos são necessárias para bem rezá-lo e a graça de ganharmos as
+		indulgências desta santa devoção.
+	</string>
+	<string name="terco_selecioneMisterio">Selecione o mistério (Padrão: Mistério do dia)
+	</string>
+	<string name="ok">Ok</string>
+	<string-array name="terco_misterios">
+		<item>Mistérios Gozosos</item>
+		<item>Mistérios Luminosos</item>
+		<item>Mistérios Dolorosos</item>
+		<item>Mistérios Gloriosos</item>
+	</string-array>
+	<string-array name="misterios_gozoso">
+		<item>Anunciação do anjo São Gabriel a Nossa Senhora</item>
+		<item>Visita de Nossa Senhora à sua prima Santa Isabel</item>
+		<item>Nascimento de Jesus em Belem</item>
+		<item>Apresentação do Menino Jesus no templo</item>
+		<item>Encontro de Jesus no templo entre os doutores da lei</item>
+	</string-array>
+	<string-array name="misterios_dolorosos">
+		<item>Agonia morta de Jesus no horto das Oliveiras</item>
+		<item>Flagelação de Jesus atado à coluna</item>
+		<item>Coroação de espinhos de Jesus por seus algozes</item>
+		<item>Subida dolorosa do Calvário </item>
+		<item>Crucificação de Jesus</item>
+	</string-array>
+	<string-array name="misterios_gloriosos">
+		<item>Ressurreição de Nosso Senhor Jesus Cristo </item>
+		<item>A ascensão Gloriosa de Jesus ao Céu</item>
+		<item>Descida do Espírito Santo sobre os apóstolos</item>
+		<item>Assunção Gloriosa de Nossa Senhora ao céu </item>
+		<item>Coroação de Nossa Senhora no Céu</item>
+	</string-array>
+	<string-array name="misterios_luminosos">
+		<item>Batismo do Senhor no Jordão</item>
+		<item>Bodas de Caná</item>
+		<item>A proclamação do Reino</item>
+		<item>A Transfiguração de Jesus</item>
+		<item>Instituição da Eucaristia </item>
+	</string-array>
+</resources>
