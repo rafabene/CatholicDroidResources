@@ -15,69 +15,81 @@
 				<LinearLayout android:layout_width="fill_parent"
 					android:layout_height="fill_parent" android:orientation="vertical">
 					<LinearLayout android:layout_width="fill_parent"
-						android:layout_height="fill_parent">
-						<ToggleButton android:layout_width="wrap_content"
-							android:padding="10dp" android:layout_height="wrap_content"
-							android:background="@drawable/selector_cruxifixo" android:id="@+id/tercoCruxifixoToggleButton"
+						android:layout_height="wrap_content" android:baselineAligned="false">
+						<ToggleButton android:layout_width="150px"
+							android:layout_gravity="top" android:background="@drawable/selector_cruxifixo"
+							android:layout_height="150px" android:id="@+id/tercoCruxifixoToggleButton"
 							android:textOn="" android:textOff="" />
 						<TextView android:layout_height="wrap_content"
 							android:textColor="@color/fontColor" android:paddingLeft="10dp"
-							android:layout_width="wrap_content" android:layout_gravity="center_vertical"
-							android:text="@string/terco.sinalCruzeCreio"></TextView>
+							android:text="@string/terco.sinalCruzeCreio"
+							android:layout_width="wrap_content" android:layout_gravity="center_vertical" />
 					</LinearLayout>
 					<LinearLayout android:layout_width="fill_parent"
-						android:layout_height="fill_parent">
-						<ToggleButton android:layout_width="wrap_content"
-							android:layout_height="wrap_content" android:src="@drawable/biblia"
-							android:id="@+id/tercoPaiNosso1ToggleButton" android:textOn=""
-							android:textOff="" android:background="@drawable/selector_bolona" />
+						android:layout_height="wrap_content">
+						<ToggleButton android:layout_width="150px"
+							android:layout_height="150px" android:id="@+id/tercoPaiNosso1ToggleButton"
+							android:textOn="" android:textOff="" android:background="@drawable/selector_bolona" />
 						<TextView android:layout_height="wrap_content"
 							android:text="@string/oracao.painosso.name" android:textColor="@color/fontColor"
 							android:paddingLeft="10dp" android:layout_width="wrap_content"
 							android:layout_gravity="center_vertical"></TextView>
 					</LinearLayout>
 					<LinearLayout android:layout_width="fill_parent"
-						android:layout_height="fill_parent">
-						<ToggleButton android:layout_width="wrap_content"
-							android:id="@+id/tercoAveMaria1ToggleButton" android:background="@drawable/selector_bolinha"
-							android:layout_height="wrap_content" android:textOn=""
-							android:textOff="" />
+						android:layout_height="wrap_content">
+						<ToggleButton android:id="@+id/tercoAveMaria1ToggleButton"
+							android:background="@drawable/selector_bolinha"
+							android:layout_width="150px" android:layout_height="150px"
+							android:textOn="" android:textOff="" />
 						<TextView android:layout_height="wrap_content"
 							android:text="@string/oracao.avemaria.name" android:paddingLeft="10dp"
 							android:textColor="@color/fontColor" android:layout_width="wrap_content"
 							android:layout_gravity="center_vertical"></TextView>
 					</LinearLayout>
 					<LinearLayout android:layout_width="fill_parent"
-						android:layout_height="fill_parent">
-						<ToggleButton android:layout_width="wrap_content"
-							android:id="@+id/tercoAveMaria2ToggleButton" android:background="@drawable/selector_bolinha"
-							android:layout_height="wrap_content" android:textOn=""
-							android:textOff="" />
-						<TextView android:layout_height="wrap_content"
-							android:text="@string/oracao.avemaria.name" android:textColor="@color/fontColor"
-							android:paddingLeft="10dp" android:layout_width="wrap_content"
-							android:layout_gravity="center_vertical"></TextView>
-					</LinearLayout>
-					<LinearLayout android:layout_width="fill_parent"
-						android:layout_height="fill_parent">
-						<ToggleButton android:layout_width="wrap_content"
+						android:layout_height="wrap_content">
+						<ToggleButton android:id="@+id/tercoAveMaria2ToggleButton"
 							android:background="@drawable/selector_bolinha"
-							android:layout_height="wrap_content" android:textOn=""
-							android:textOff="" android:id="@+id/tercoAveMaria3ToggleButton" />
+							android:layout_width="150px" android:layout_height="150px"
+							android:textOn="" android:textOff="" />
 						<TextView android:layout_height="wrap_content"
 							android:text="@string/oracao.avemaria.name" android:textColor="@color/fontColor"
 							android:paddingLeft="10dp" android:layout_width="wrap_content"
 							android:layout_gravity="center_vertical"></TextView>
 					</LinearLayout>
 					<LinearLayout android:layout_width="fill_parent"
-						android:layout_height="fill_parent">
-						<ToggleButton android:layout_width="wrap_content"
-							android:layout_height="wrap_content" android:id="@+id/tercoPaiNosso2ToggleButton"
+						android:layout_height="wrap_content">
+						<ToggleButton android:background="@drawable/selector_bolinha"
+							android:layout_width="150px" android:layout_height="150px"
+							android:textOn="" android:textOff=""
+							android:id="@+id/tercoAveMaria3ToggleButton" />
+						<TextView android:layout_height="wrap_content"
+							android:text="@string/oracao.avemaria.name" android:textColor="@color/fontColor"
+							android:paddingLeft="10dp" android:layout_width="wrap_content"
+							android:layout_gravity="center_vertical"></TextView>
+					</LinearLayout>
+					<LinearLayout android:layout_width="fill_parent"
+						android:layout_height="wrap_content">
+						<ToggleButton android:layout_width="150px"
+							android:layout_height="150px" android:id="@+id/tercoPaiNosso2ToggleButton"
 							android:textOn="" android:textOff="" android:background="@drawable/selector_bolona" />
 						<TextView android:layout_height="wrap_content"
 							android:paddingLeft="10dp" android:text="@string/terco.GloriaPainosso"
 							android:textColor="@color/fontColor" android:layout_width="wrap_content"
 							android:layout_gravity="center_vertical"></TextView>
+					</LinearLayout>
+					<LinearLayout android:layout_width="fill_parent"
+						android:layout_weight="5" android:layout_height="0dp">
+						<kankan.wheel.widget.WheelView
+							android:id="@+id/tercoContasPaiNosso" android:layout_height="110dp"
+							android:layout_width="100px" android:layout_gravity="center_vertical"
+							android:layout_weight="1" />
+
+						<kankan.wheel.widget.WheelView
+							android:id="@+id/tercoContasAveMarias" android:layout_height="110dp"
+							android:layout_width="wrap_content" android:layout_gravity="center_vertical"
+							android:layout_marginLeft="10dp" android:layout_weight="1.5" />
+
 					</LinearLayout>
 				</LinearLayout>
 			</ScrollView>
@@ -88,9 +100,8 @@
 			<ScrollView android:layout_width="fill_parent"
 				android:layout_height="fill_parent">
 				<TextView android:layout_height="wrap_content"
-					android:text="" android:layout_width="wrap_content"
-					android:id="@+id/tercoConteudoOracao" android:textColor="@color/fontColor"
-					android:textSize="17dp"></TextView>
+					android:text="" android:layout_width="wrap_content" android:id="@+id/tercoConteudoOracao"
+					android:textColor="@color/fontColor" android:textSize="17dp"></TextView>
 			</ScrollView>
 
 		</LinearLayout>
