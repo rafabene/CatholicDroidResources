@@ -7,7 +7,7 @@
 		android:text="@string/terco.oferecimento" android:padding="10dp" />
 	<TextView android:layout_height="wrap_content"
 		android:paddingTop="20dp" android:layout_width="wrap_content"
-		android:id="@+id/textView1" android:text="@string/terco_selecioneMisterio"></TextView>
+		android:id="@+id/textView1" android:text="@string/terco.selecioneMisterio"></TextView>
 	<Spinner android:layout_width="fill_parent" android:id="@+id/terco_comboMisterios" android:layout_height="wrap_content"></Spinner>
 	<Button android:layout_height="wrap_content"
 		android:layout_gravity="center_horizontal" android:id="@+id/tercoBtnDialogOk"
