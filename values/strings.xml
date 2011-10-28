@@ -23,6 +23,7 @@
 	</string>
 	<string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração
 	</string>
+	<string name="avisoTerco">Toque nas contas do Terço para Acompanhar a oração</string>
 	<string name="traducao">Tradução</string>
 	<string-array name="dezmandamentos">
 		<item>1 - Amar a Deus sobre todas as coisas</item>
