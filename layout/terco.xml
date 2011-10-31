@@ -11,7 +11,8 @@
 			android:orientation="vertical" android:layout_height="0dp"
 			android:layout_weight="5">
 			<ScrollView android:layout_width="fill_parent"
-				android:layout_height="fill_parent" android:layout_weight="5">
+				android:layout_height="fill_parent" android:layout_weight="5"
+				android:id="@+id/tercoContasScroll">
 				<LinearLayout android:layout_width="fill_parent"
 					android:layout_height="fill_parent" android:orientation="vertical">
 					<LinearLayout android:layout_width="fill_parent"
@@ -40,7 +41,7 @@
 							android:layout_width="150px" android:layout_height="150px"
 							android:textOn="" android:textOff="" />
 						<TextView android:layout_height="wrap_content"
-							android:text="@string/oracao.avemaria.name" style="@style/terco"
+							android:text="@string/terco.aveMaria1" style="@style/terco"
 							android:layout_width="wrap_content" android:layout_gravity="center_vertical"></TextView>
 					</LinearLayout>
 					<LinearLayout android:layout_width="fill_parent"
@@ -50,7 +51,7 @@
 							android:layout_width="150px" android:layout_height="150px"
 							android:textOn="" android:textOff="" />
 						<TextView android:layout_height="wrap_content"
-							android:text="@string/oracao.avemaria.name" style="@style/terco"
+							android:text="@string/terco.aveMaria2" style="@style/terco"
 							android:layout_width="wrap_content" android:layout_gravity="center_vertical"></TextView>
 					</LinearLayout>
 					<LinearLayout android:layout_width="fill_parent"
@@ -60,7 +61,7 @@
 							android:textOn="" android:textOff=""
 							android:id="@+id/tercoAveMaria3ToggleButton" />
 						<TextView android:layout_height="wrap_content"
-							android:text="@string/oracao.avemaria.name" style="@style/terco"
+							android:text="@string/terco.aveMaria3" style="@style/terco"
 							android:layout_width="wrap_content" android:layout_gravity="center_vertical"></TextView>
 					</LinearLayout>
 					<LinearLayout android:layout_width="fill_parent"
@@ -75,20 +76,20 @@
 					<LinearLayout android:layout_width="fill_parent"
 						android:layout_weight="5" android:layout_height="0dp">
 						<kankan.wheel.widget.WheelView
-							android:id="@+id/tercoContasAveMarias" android:layout_height="200px"
+							android:id="@+id/tercoContasAveMarias" android:layout_height="150px"
 							android:layout_width="150px" />
 						<TextView android:layout_height="wrap_content"
 							android:id="@+id/contaRezada" style="@style/terco"
 							android:layout_width="wrap_content" android:layout_gravity="center_vertical"></TextView>
 					</LinearLayout>
-					<LinearLayout android:id="@+id/layoutMedalha" android:layout_width="fill_parent"
-						android:layout_height="wrap_content" android:visibility="gone">
+					<LinearLayout android:id="@+id/layoutMedalha"
+						android:layout_width="fill_parent" android:layout_height="wrap_content">
 						<ToggleButton android:layout_width="150px"
 							android:layout_height="150px" android:id="@+id/tercoMedalhaToggleButton"
 							android:textOn="" android:textOff="" android:background="@drawable/selector_medalha" />
 						<TextView android:layout_height="wrap_content" style="@style/terco"
-							android:text="@string/terco.agradecimento.title" android:layout_width="wrap_content"
-							android:layout_gravity="center_vertical"></TextView>
+							android:text="@string/terco.agradecimento.title"
+							android:layout_width="wrap_content" android:layout_gravity="center_vertical"></TextView>
 					</LinearLayout>
 				</LinearLayout>
 			</ScrollView>
