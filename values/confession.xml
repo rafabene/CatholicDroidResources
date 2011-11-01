@@ -3,5 +3,60 @@
 	<string name="exameConsciencia">Exame de Consciência</string>
 	<string name="exame">Exame</string>
 	<string name="confissao">Confissão</string>
+	<string name="sim">Sim</string>
+	<string name="nao">Não</string>
+	<string-array name="confissao_mandamentos">
+		<item>Primeiro Mandamento: Eu sou o Senhor teu Deus, Não terás deuses
+			estranhos perante Mim (incluindo pecados contra a Fé, Esperança e
+			Caridade)
+		</item>
+		<item>Segundo Mandamento: Não tomarás o Nome do Senhor teu Deus em
+			vão.
+		</item>
+		<item>Terceiro Mandamento: Recorda-te de santificar o Dia de Sábado
+		</item>
+		<item>Quarto Mandamento: Honra o teu pai e a tua mãe.</item>
+		<item>Quinto Mandamento: Não matarás.</item>
+		<item>Sexto e Nono Mandamentos: Não cometerás adultério. Não cobiçarás
+			a mulher do próximo.
+		</item>
+		<item>Sétimo e Décimo Mandamentos: Não roubarás. Não cobiçarás os bens
+			do teu próximo.
+		</item>
+		<item>Oitavo Mandamento: Não levantarás falsos testemunhos contra o
+			teu próximo.
+		</item>
+	</string-array>
+	<string-array name="confissao_primeiroMandamento">
+		<item>Descuidei o conhecimento da minha fé, tal como o Catecismo a ensina, tal como o Credo dos Apóstolos, os Dez Mandamentos, os Sete Sacramentos, o Pai Nosso, etc?</item>
+		<item>Alguma vez duvidei deliberadamente de algum ensinamento da Igreja, ou o neguei?</item>
+		<item>Tomei parte num ato de culto não católico?</item>
+		<item>Sou membro de alguma organização religiosa não católica, de alguma sociedade secreta ou de um grupo anti-católico?</item>
+	</string-array>
+	<string-array name="confissao_segundoMandamento">
+		<item></item>
+	</string-array>
+	<string-array name="confissao_terceiroMandamento">
+		<item></item>
+	</string-array>
+	<string-array name="confissao_quartoMandamento">
+		<item></item>
+	</string-array>
+	<string-array name="confissao_quintoMandamento">
+		<item></item>
+	</string-array>
+	<string-array name="confissao_sextoEnonoMandamento">
+		<item></item>
+	</string-array>
+	<string-array name="confissao_setimoEdecimoMandamento">
+		<item></item>
+	</string-array>
+	<string-array name="confissao_oitavoMandamento">
+		<item></item>
+	</string-array>
+
+
+
+
 
 </resources>

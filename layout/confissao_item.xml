@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:baselineAligned="false" android:orientation="vertical"
+	android:background="@android:color/background_dark">
+	<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+		android:text="" android:layout_height="wrap_content" android:id="@+id/textViewConfissaoItem"
+		android:layout_width="wrap_content"></TextView>
+	<ToggleButton android:id="@+id/toggleButton1"
+		android:text="ToggleButton" android:textOn="@string/sim"
+		android:textOff="@string/nao" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_gravity="left"></ToggleButton>
+
+</LinearLayout>

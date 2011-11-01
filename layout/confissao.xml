@@ -15,7 +15,11 @@
 				android:layout_height="fill_parent" android:id="@android:id/tabcontent"
 				android:background="@drawable/background">
 				<LinearLayout android:layout_width="fill_parent"
-					android:layout_height="fill_parent" android:id="@+id/tab1"></LinearLayout>
+					android:layout_height="fill_parent" android:id="@+id/tab1">
+					<ExpandableListView android:layout_width="fill_parent" android:layout_height="fill_parent" android:id="@+id/expandableExame">
+					
+					</ExpandableListView>
+				</LinearLayout>
 				<LinearLayout android:layout_width="fill_parent"
 					android:layout_height="fill_parent" android:id="@+id/tab2"></LinearLayout>
 			</FrameLayout>
