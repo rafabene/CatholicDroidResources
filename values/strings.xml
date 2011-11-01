@@ -2,6 +2,7 @@
 <resources>
 	<string name="app_name">Catholic Droid</string>
 	<string name="biblia">Bíblia</string>
+	<string name="ok">Ok</string>
 	<string name="dezmandamentos">Dez Mandamentos</string>
 	<string name="sair">Sair</string>
 	<string name="voltar">Voltar</string>
@@ -19,11 +20,13 @@
 	<string name="sugestaoEnviada">Sugestão Enviada com sucesso!</string>
 	<string name="dialogSelecionaCapitulo">Selecione o Capítulo</string>
 	<string name="avisoGestoNaoReconhecido">Gesto não reconhecido</string>
-	<string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia ou então arraste para direita ou esquerda
+	<string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia ou
+		então arraste para direita ou esquerda
 	</string>
 	<string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração
 	</string>
-	<string name="avisoTerco">Toque nas contas do Terço para Acompanhar a oração</string>
+	<string name="avisoTerco">Toque nas contas do Terço para Acompanhar a oração
+	</string>
 	<string name="traducao">Tradução</string>
 	<string-array name="dezmandamentos">
 		<item>1 - Amar a Deus sobre todas as coisas</item>
@@ -39,12 +42,15 @@
 	</string-array>
 	<string-array name="mandamentosIgreja">
 		<item>1 - Participar da missa inteira nos domingos e outras festas de
-			guarda e abster-se de ocupações de trabalho</item>
+			guarda e abster-se de ocupações de trabalho
+		</item>
 		<item>2 - Confessar-se ao menos uma vez por ano</item>
 		<item>3 - Receber o sacramento da Eucaristia ao menos pela Páscoa da
-			ressurreição</item>
+			ressurreição
+		</item>
 		<item>4 - Jejuar e abster-se de carne, conforme manda a Santa Mãe
-			Igreja</item>
+			Igreja
+		</item>
 		<item>5 - Ajudar a Igreja em suas necessidades</item>
 	</string-array>
 	<string-array name="donsEspiritoSanto">
@@ -53,14 +59,14 @@
 		<item>3 - Ciência</item>
 		<item>4 - Conselho</item>
 		<item>5 - Entendimento</item>
-		<item>6 - Pierdade</item>
+		<item>6 - Piedade</item>
 		<item>7 - Temor a Deus</item>
 	</string-array>
 	<string-array name="sacramentos">
 		<item>1 - Batismo</item>
 		<item>2 - Confirmação ou Crisma</item>
 		<item>3 - Eucaristia</item>
-		<item>4 - Reconsciliação ou Penitência</item>
+		<item>4 - Reconciliação ou Penitência</item>
 		<item>5 - Unção dos enfermos</item>
 		<item>6 - Ordem</item>
 		<item>7 - Matrimônio</item>

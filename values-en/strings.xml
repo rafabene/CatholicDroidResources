@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Catholic Droid</string>
+	<string name="biblia">Bible</string>
+	<string name="dezmandamentos">Ten Commandments</string>
+	<string name="sair">Exit</string>
+	<string name="voltar">Back</string>
+	<string name="enviar">Send</string>
+	<string name="fim">End</string>
+	<string name="inicio">Home</string>
+	<string name="aguarde">Wait ...</string>
+	<string name="mandamentosIgreja">Commandments of the Church </string>
+	<string name="oracoes">Prayers</string>
+	<string name="donsespiritosanto">Gifts of the Holy Spirit </string>
+	<string name="sacramentos">Sacraments</string>
+	<string name="antigotestamento">Old Testament</string>
+	<string name="novotestamento">New Testament</string>
+	<string name="sugerirOracao">Suggest a Prayer</string>
+	<string name="sugestaoEnviada">Suggestion Posted successfully </string>
+	<string name="dialogSelecionaCapitulo">Select Chapter</string>
+	<string name="avisoGestoNaoReconhecido">gesture not recognized</string>
+	<string name="avisoToqueTituloBiblia"> Tap the title to browse the book in the Bible or then drag left or right</string>
+	<string name="avisoSugerirOracao"> Click the menu to suggest a new prayer</string>
+	<string name="avisoTerco"> Touch the rosary prayer to Accompany </string>
+	<string name="traducao">Translation</string>
+	<string-array name="dezmandamentos">
+		<item>1 - Love God above all things</item>
+		<item>2 - Do not take your Holy Name in vain</item>
+		<item>3 - Save Sundays and holidays guard</item>
+		<item>4 - Honor your father and mother</item>
+		<item>5 - Do not kill</item>
+		<item>6 - Do not sin against chastity</item>
+		<item>7 - Do not steal</item>
+		<item>8 - Do not bear false witness</item>
+		<item>9 - You do not want your neighbor\'s wife</item>
+		<item>10 - Do not covet the things of others</item>
+	</string-array>
+	<string-array name="mandamentosIgreja">
+		<item>1 - Attend Mass on Sundays and other parties guard and abstain from labor occupations</item>
+		<item>2 - to confess at least once a year </item>
+		<item>3 - Receive the sacrament of the Eucharist at least during the Easter	Resurrection</item>
+		<item>4 - Fast and abstain from meat as sends the Holy Mother Church</item>
+		<item>5 - Helping the Church in your needs </item>
+	</string-array>
+	<string-array name="donsEspiritoSanto">
+		<item>1 - Fortress </item>
+		<item>2 - Wisdom </item>
+		<item>3 - Science </item>
+		<item>4 - Council </item>
+		<item>5 - Understanding </item>
+		<item>6 - Pity </item>
+		<item>7 - Fear God </item>
+	</string-array>
+	<string-array name="sacramentos">
+		<item>1 - Baptism </item>
+		<item>2 - Confirmation or Chrismation </item>
+		<item>3 - Eucharist </item>
+		<item>4 - Reconciliation or Penance</item>
+		<item>5 - Anointing of the Sick</item>
+		<item>6 - Order </item>
+		<item>7 - Marriage </item>
+	</string-array>
+</resources>

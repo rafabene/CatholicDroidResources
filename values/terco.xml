@@ -31,7 +31,6 @@
 	<string name="terco.selecioneMisterio">Selecione o mistério (Padrão: Mistério do dia)
 	</string>
 	<string name="terco.misterioOrdinal">º Mistério</string>
-	<string name="ok">Ok</string>
 	<string-array name="terco_misterios">
 		<item>Mistérios Gozosos</item>
 		<item>Mistérios Luminosos</item>

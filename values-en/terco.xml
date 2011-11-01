@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="terco">Rosary</string>
+	<string name="terco.oferecimento.title">Offering</string>
+	<string name="terco.agradecimento.title">Thanks</string>
+	<string name="terco.sinalCruzeCreio">Sign of the Cross and Creed</string>
+	<string name="terco.aveMaria1">Ave Maria 1</string>
+	<string name="terco.aveMaria2">Ave Maria 2</string>
+	<string name="terco.aveMaria3">Ave Maria 3</string>
+	<string name="terco.GloriaPainosso">Our Father and Glory</string>
+	<string name="terco.contemplacao">contemplate this mystery:</string>
+	<string name="terco.jaculatoria">Oh my Jesus! Forgive us and deliver us from the
+		fires of hell. Lead all souls to heaven and succor especially most in
+		need.
+	</string>
+	<string name="terco.oferecimento"> Divine Jesus, we offer you this rosary which
+		let us
+		pray, meditating on the mysteries of Thy Redemption. Grant us,
+		through
+		the intercession of the Virgin Mary, Mother of God and our
+		Mother, the
+		virtues we are required to recite it well and earn the grace of
+		indulgences of the holy devotion.
+	</string>
+	<string name="terco.agradecimento">
+		Infinite thanks give you, Sovereign Queen, by
+		benefits all day Liberals received at your hands.
+		Deign to now and
+		forever
+		take us under your powerful
+		for more support and you require us
+		welcome with a Hail Mary ...
+	</string>
+
+	<string name="terco.selecioneMisterio">Select the mystery (Default: Mystery of the day)
+	</string>
+	<string name="terco.misterioOrdinal">º Mystery</string>
+	<string-array name="terco_misterios">
+		<item>Joyful Mysteries</item>
+		<item>Luminous Mysteries</item>
+		<item>Sorrowful Mysteries</item>
+		<item>Glorious Mysteries</item>
+	</string-array>
+	<string-array name="misterios_gozoso">
+		<item>Annunciation of the angel Gabriel to Our Lady St.</item>
+		<item>Visit of Our Lady to Saint Elizabeth</item>
+		<item>Birth of Jesus in Bethlehem</item>
+		<item>Presentation of the Child Jesus in the temple</item>
+		<item>Meeting Jesus in the temple among the doctors of the law</item>
+	</string-array>
+	<string-array name="misterios_dolorosos">
+		<item>dead Agony of Jesus in the Garden of Olives</item>
+		<item>Flagellation of Jesus tied to the column</item>
+		<item>Crowning of thorns of Jesus by his captors</item>
+		<item>painful Ascent of Calvary</item>
+		<item>Crucifixion of Jesus</item>
+	</string-array>
+	<string-array name="misterios_gloriosos">
+		<item>Resurrection of Our Lord Jesus Christ</item>
+		<item>Glorious Ascension of Jesus to Heaven</item>
+		<item>Descent of the Holy Spirit upon the apostles</item>
+		<item>Glorious Assumption of Our Lady into heaven</item>
+		<item>Coronation of Our Lady in Heaven</item>
+	</string-array>
+	<string-array name="misterios_luminosos">
+		<item>Baptism of the Lord in the Jordan</item>
+		<item>Wedding at Cana</item>
+		<item>The proclamation of the Kingdom</item>
+		<item>The Transfiguration of Jesus</item>
+		<item>Institution of the Eucharist</item>
+	</string-array>
+</resources>
