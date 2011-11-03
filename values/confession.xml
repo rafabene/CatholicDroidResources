@@ -5,6 +5,10 @@
 	<string name="confissao">Confissão</string>
 	<string name="sim">Sim</string>
 	<string name="nao">Não</string>
+	<string name="confissao.ritoInicial">
+		Abençõe-me padre porque pequei
+		Há [tempo] fiz minha última confissão. Meus pecados são os seguintes...
+	</string>
 	<string-array name="confissao_mandamentos">
 		<item>Primeiro Mandamento: Eu sou o Senhor teu Deus, Não terás deuses
 			estranhos perante Mim (incluindo pecados contra a Fé, Esperança e
@@ -28,35 +32,189 @@
 		</item>
 	</string-array>
 	<string-array name="confissao_primeiroMandamento">
-		<item>Descuidei o conhecimento da minha fé, tal como o Catecismo a ensina, tal como o Credo dos Apóstolos, os Dez Mandamentos, os Sete Sacramentos, o Pai Nosso, etc?</item>
-		<item>Alguma vez duvidei deliberadamente de algum ensinamento da Igreja, ou o neguei?</item>
-		<item>Tomei parte num ato de culto não católico?</item>
-		<item>Sou membro de alguma organização religiosa não católica, de alguma sociedade secreta ou de um grupo anti-católico?</item>
+		<item>Descuidei o conhecimento da minha fé, tal como o Catecismo a
+			ensina, tal como o Credo dos Apóstolos, os Dez Mandamentos, os Sete
+			Sacramentos, o Pai Nosso, etc</item>
+		<item>Alguma vez duvidei deliberadamente de algum ensinamento da
+			Igreja, ou o neguei</item>
+		<item>Tomei parte num ato de culto não católico</item>
+		<item>Sou membro de alguma organização religiosa não católica, de
+			alguma sociedade secreta ou de um grupo anti-católico</item>
+		<item>Alguma vez li, com consciência do que fazia, alguma literatura
+			herética, blasfema ou anti-católica</item>
+		<item>Pratiquei alguma superstição (tal como horóscopos, adivinhação,
+			tábua Ouija, etc.)</item>
+		<item>Deixo de recomendar-me a Deus diàriamente</item>
+		<item>Deixei de rezar fielmente as minhas orações diárias</item>
+		<item>Abusei os Sacramentos de alguma maneira</item>
+		<item>Zombei de Deus, de Nossa Senhora, dos Santos, da Igreja, dos
+			Sacramentos, ou de quaisquer coisas santas</item>
+		<item>Fui culpado de grande irreverência na igreja, como, por exemplo,
+			em conversas, comportamento ou modo como estava vestido</item>
+		<item>Fui indiferente quanto à minha Fé Católica — acreditando que uma
+			pessoa pode salvar-se em qualquer religião, ou que todas as religiões
+			são iguais</item>
+		<item>Presumi em qualquer altura que tinha garantida a misericórdia de
+			Deus</item>
+		<item>Desesperei da misericórdia de Deus</item>
+		<item>Detestei a Deus</item>
+		<item>Dei demasiada importância a alguma criatura, atividade, objeto
+			ou opinião</item>
 	</string-array>
 	<string-array name="confissao_segundoMandamento">
-		<item></item>
+		<item>Jurei pelo nome de Deus falsamente, impensadamente, ou em
+			assuntos triviais e sem importância</item>
+		<item>Murmurei ou queixei-me contra Deus (blasfêmia)</item>
+		<item>Amaldiçoei-me a mim próprio, ou a outra pessoa ou criatura
+		</item>
+		<item>Provoquei alguém à ira, para o fazer praguejar ou blasfemar a
+			Deus</item>
+		<item>Quebrei uma promessa feita a Deus</item>
 	</string-array>
 	<string-array name="confissao_terceiroMandamento">
-		<item></item>
+		<item>Faltei à Missa nos Domingos ou Festas de guarda</item>
+		<item>Cheguei atrasado à Missa nos Domingos e Dias Santos de guarda,
+			ou saí mais cedo por minha culpa</item>
+		<item>Fiz com que outras pessoas faltassem à Missa nos Domingos e Dias
+			Santos de guarda, ou saíssem mais cedo, ou chegassem atrasados à
+			Missa</item>
+		<item>Estive distraído propositadamente durante a Missa</item>
+		<item>Fiz ou mandei fazer trabalho servil desnecessário num Domingo ou
+			Festa de guarda</item>
+		<item>Comprei ou vendi coisas sem necessidade nos Domingos e Dias
+			Santos de guarda</item>
 	</string-array>
 	<string-array name="confissao_quartoMandamento">
-		<item></item>
+		<item>Desobedeci aos meus pais, faltei-lhes ao respeito, descuidei-me
+			em ajudá-los nas suas necessidades ou na compilação do seu
+			testamento, ou recusei-me a fazê-lo</item>
+		<item>Mostrei irreverência em relação a pessoas em posições de
+			autoridade</item>
+		<item>Insultei ou disse mal de sacerdotes ou de outras pessoas
+			consagradas a Deus</item>
+		<item>Tive menos reverência para com pessoas de idade</item>
+		<item>Tratei mal a minha esposa ou os meus filhos</item>
+		<item>Fui desobediente ao meu marido, ou faltei-lhe ao respeito</item>
+		<item>Descuidei as suas necessidades materiais dos meus filhos</item>
+		<item>Não tratei de batizar meus filhos cedo</item>
+		<item>Descuidei a educação religiosa correta de meus filhos</item>
+		<item>Permiti que meus filhos descuidassem dos seus deveres religiosos
+		</item>
+		<item>Deixei de vigiar as companhias com quem meus filhos andam</item>
+		<item>Deixei de os disciplinar quando meus filhos necessitassem de tal
+		</item>
+		<item>Dei mau exemplo aos meus filhos</item>
+		<item>Escandalizei meus filhos, discutindo com o meu cônjuge em frente
+			deles</item>
+		<item>Escandalizei meus ao dizer obscenidades à sua frente</item>
+		<item>Deixei de guardar modéstia na minha casa</item>
+		<item>Permiti aos meus filhos que usassem roupa imodesta</item>
+		<item>Neguei aos meus filhos a liberdade de casar ou seguir uma
+			vocação religiosa</item>
 	</string-array>
 	<string-array name="confissao_quintoMandamento">
-		<item></item>
+		<item>Procurei, desejei ou apressei a morte ou o ferimento de alguém
+		</item>
+		<item>Alimentei ódio para com alguém</item>
+		<item>Oprimi alguém</item>
+		<item>Desejei vingar-me</item>
+		<item>Provoquei a inimizade entre outras pessoas</item>
+		<item>Discuti ou lutei com alguém</item>
+		<item>Desejei mal a alguém</item>
+		<item>Quis ferir ou maltratar alguém, ou tentei fazê-lo</item>
+		<item>Recuso-me a falar com alguém, ou ressentimento de alguém</item>
+		<item>Regozijei-me com a desgraça alheia</item>
+		<item>Tive ciúmes ou inveja de alguém</item>
+		<item>Fiz ou tentei fazer um aborto, ou aconselhei alguém a que o
+			fizesse</item>
+		<item>Mutilei o meu corpo desnecessàriamente de alguma maneira</item>
+		<item>Consenti em pensamentos de suicídio, desejei suicidar-me ou
+			tentar suicidar-me</item>
+		<item>Embriaguei-me ou usei drogas ilícitas</item>
+		<item>Comi demais, ou não como o suficiente por descuido</item>
+		<item>Deixei de corrigir alguém dentro das normas da caridade</item>
+		<item>Causei dano à alma de alguém, especialmente crianças, dando
+			escândalo através de mau exemplo</item>
+		<item>Fiz mal à minha alma, expondo-a intencionalmente e sem
+			necessidade a tentações, como maus programas de TV, música
+			reprovável, praias, etc.</item>
 	</string-array>
 	<string-array name="confissao_sextoEnonoMandamento">
-		<item></item>
+		<item>Neguei ao meu cônjuge os seus direitos matrimoniais</item>
+		<item>Pratiquei o controlo de natalidade (com pílulas, dispositivos,
+			interrupção)</item>
+		<item>Abusei dos meus direitos matrimoniais de algum outro modo</item>
+		<item>Cometi adultério ou fornicação (sexo pré-marital)</item>
+		<item>Cometi algum pecado impuro contra a natureza (homosexualidade ou
+			lesbianismo, etc.)</item>
+		<item>Pequei impuramente contra mim próprio (masturbação)</item>
+		<item>Consenti em pensamentos impuros, ou tive prazer neles</item>
+		<item>Consenti em desejos impuros para com alguém, ou desejei
+			conscientemente ver ou fazer alguma coisa impura</item>
+		<item>Entreguei-me conscientemente a prazeres sexuais, completos ou
+			incompletos</item>
+		<item>Fui ocasião de pecado para os outros, por usar roupa justa,
+			reveladora ou imodesta</item>
+		<item>Fiz alguma coisa, deliberadamente ou por descuido, que
+			provocasse pensamentos ou desejos impuros noutra pessoa</item>
+		<item>Li livros indecentes ou vi figuras obscenas</item>
+		<item>Vi filmes ou programas de televisão sugestivos, ou pornografia
+			na Internet, ou permiti que os meus filhos os vissem</item>
+		<item>Usei linguagem indecente ou contei histórias indecentes</item>
+		<item>Ouvi histórias indecentes de boa vontade</item>
+		<item>Gabei-me dos meus pecados, ou deleitei-me em recordar pecados
+			antigos</item>
+		<item>Estive com companhias indecentes</item>
+		<item>Consenti em olhares impuros</item>
+		<item>Deixei de controlar a minha imaginação</item>
+		<item>Deixei de Rezar imediatamente, para afastar maus pensamentos e
+			tentações</item>
+		<item>Evitei a preguiça, a gula, a ociosidade, e as ocasiões de
+			impureza</item>
+		<item>Fui a bailes imodestos ou peças de teatro indecentes</item>
 	</string-array>
 	<string-array name="confissao_setimoEdecimoMandamento">
-		<item></item>
+		<item>Roubei alguma coisa? O quê, ou quanto</item>
+		<item>Danifiquei a propriedade de outrem</item>
+		<item>Deixei estragar, por negligência, a propriedade de outrem</item>
+		<item>Fui negligente na guarda do dinheiro ou bens de outrem</item>
+		<item>Fiz trapaça ou defraudei alguém</item>
+		<item>Joguei em excesso</item>
+		<item>Recusei-me a pagar alguma dívida, ou descuidei-me no seu
+			pagamento</item>
+		<item>Adquiri alguma coisa que sabia ter sido roubada</item>
+		<item>Deixei de restituir alguma coisa emprestada</item>
+		<item>Lesei o meu patrão, não trabalhando como se esperava de mim
+		</item>
+		<item>Fui desonesto com o salário dos meus empregados</item>
+		<item>Recusei-me a ajudar alguém que precisasse urgentemente de ajuda,
+			ou descuidei-me a fazê-lo</item>
+		<item>Deixei de restituir o que roubei, ou obtive por embusted ou
+			fraude (Pergunte ao sacerdote como poderá fazer a restituição, ou
+			seja, devolver ao legítimo dono o que lhe tirou)</item>
+		<item>Tive inveja de alguém, por ter algo que eu não tenho</item>
+		<item>Invejei os bens de alguém</item>
+		<item>Tenho sido avarento</item>
+		<item>Tenho dado demasiada importância aos bens e confortos materiais
+		</item>
 	</string-array>
 	<string-array name="confissao_oitavoMandamento">
-		<item></item>
+		<item>Menti a respeito de alguém (calúnia)</item>
+		<item>As minhas mentiras causaram a alguém danos materiais ou
+			espirituais</item>
+		<item>Fiz julgamentos temerários a respeito de alguém (isto é,
+			acreditei firmemente, sem provas suficientes, que eram culpados de
+			algum defeito moral ou crime)</item>
+		<item>Atingi o bom nome de alguém, revelando faltas autênticas mas
+			ocultas (maledicência)</item>
+		<item>Revelei os pecados de outra pessoa</item>
+		<item>Fui culpado de fazer intrigas (isto é, de contar alguma coisa
+			desfavorável que alguém disse de outra pessoa, para criar inimizade
+			entre eles)</item>
+		<item>Dei crédito ou apoio à divulgação de escândalos sobre o meu
+			próximo</item>
+		<item>Jurei falso ou assinei documentos falsos</item>
+		<item>Sou crítico ou negativo sem necessidade ou falto à caridade nas
+			minhas conversas</item>
 	</string-array>
-
-
-
-
-
 </resources>
