@@ -4,11 +4,12 @@
 	android:layout_height="fill_parent" android:background="@android:color/transparent">
 
 	<ImageView android:layout_gravity="center_horizontal"
-		android:id="@+id/opcaoMain_icon" android:layout_width="wrap_content" android:layout_height="wrap_content"></ImageView>
+		android:id="@+id/opcaoMain_icon" android:layout_width="72px"
+		android:layout_height="72px"></ImageView>
 
 	<TextView android:id="@+id/opcaoMain_nomeOpcao" android:text="@string/app_name"
 		android:layout_height="wrap_content" android:layout_width="wrap_content"
-		android:layout_gravity="center_horizontal" android:textColor="@color/fontColor" android:gravity="center_horizontal"
-		android:textSize="17dp"/>
+		android:layout_gravity="center_horizontal" android:textColor="@color/fontColor"
+		android:gravity="center_horizontal" android:textSize="17dp" />
 
 </LinearLayout>
