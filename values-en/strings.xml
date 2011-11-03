@@ -8,6 +8,8 @@
 	<string name="enviar">Send</string>
 	<string name="fim">End</string>
 	<string name="inicio">Home</string>
+	<string name="sim">Yes</string>
+	<string name="nao">No</string>
 	<string name="aguarde">Wait ...</string>
 	<string name="mandamentosIgreja">Commandments of the Church </string>
 	<string name="oracoes">Prayers</string>
@@ -19,7 +21,8 @@
 	<string name="sugestaoEnviada">Suggestion Posted successfully </string>
 	<string name="dialogSelecionaCapitulo">Select Chapter</string>
 	<string name="avisoGestoNaoReconhecido">gesture not recognized</string>
-	<string name="avisoToqueTituloBiblia"> Tap the title to browse the book in the Bible or then drag left or right</string>
+	<string name="avisoToqueTituloBiblia"> Tap the title to browse the book in the Bible or
+		then drag left or right</string>
 	<string name="avisoSugerirOracao"> Click the menu to suggest a new prayer</string>
 	<string name="avisoTerco"> Touch the rosary prayer to Accompany </string>
 	<string name="traducao">Translation</string>
@@ -36,10 +39,13 @@
 		<item>10 - Do not covet the things of others</item>
 	</string-array>
 	<string-array name="mandamentosIgreja">
-		<item>1 - Attend Mass on Sundays and other parties guard and abstain from labor occupations</item>
+		<item>1 - Attend Mass on Sundays and other parties guard and abstain
+			from labor occupations</item>
 		<item>2 - to confess at least once a year </item>
-		<item>3 - Receive the sacrament of the Eucharist at least during the Easter	Resurrection</item>
-		<item>4 - Fast and abstain from meat as sends the Holy Mother Church</item>
+		<item>3 - Receive the sacrament of the Eucharist at least during the
+			Easter Resurrection</item>
+		<item>4 - Fast and abstain from meat as sends the Holy Mother Church
+		</item>
 		<item>5 - Helping the Church in your needs </item>
 	</string-array>
 	<string-array name="donsEspiritoSanto">

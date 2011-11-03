@@ -3,8 +3,6 @@
 	<string name="exameConsciencia">Exame de Consciência</string>
 	<string name="exame">Exame</string>
 	<string name="confissao">Confissão</string>
-	<string name="sim">Sim</string>
-	<string name="nao">Não</string>
 	<string name="confissao.aviso">ATENÇÃO: Seu exame de consciência será perdido por
 		questões de privacidade,
 		se você sair desta tela!
