@@ -1,5 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="oracao.santoexpedito.name">Oração a Santo Expedito</string>
+	<string name="oracao.santoexpedito">
+		Meu Santo Expedito das Causas Justas e Urgentes, Socorrei-me nesta Hora
+		de Aflição e Desespero, intercedei por mim junto ao Nosso Senhor JESUS
+		CRISTO! Vós que sois um Santo Guerreiro. Vós que sois o Santo dos
+		Aflitos. Vós que sois o Santo dos Desesperados, Vós que sois o Santo
+		das Causas Urgentes, Protegei-me, Ajudai-me, Dai-me Força, Coragem e
+		Serenidade. Atendei ao meu pedido (pedido). Ajudai-me a superar estas
+		Horas Difíceis, protegei-me de todos que possam me prejudicar,
+		Protegei a Minha Família, atendei ao meu pedido com urgência.
+		Devolvei-me a Paz e a Tranqüilidade. Serei grato pelo resto de minha
+		vida e levarei seu nome a todos que tem fé. Obrigado.
+	</string>
+	<string name="oracao.meninojesusdepraga.name">Oração ao Menino Jesus de Praga</string>
+	<string name="oracao.meninojesusdepraga">
+		Ó Jesus que dissestes em vosso Evangelho: “Pedi e
+		recebereis, procurai
+		e achareis, batei à porta e ela se abrirá” por
+		intermédio de Maria,
+		vossa Mãe santíssima, com fé e confiança eu bato à
+		porta do vosso
+		Coração e humildemente peço a vossa divina graça.
+		Atendei, Senhor, à
+		humilde prece que neste dia vos dirijo (pedido).
+		Ó
+		Jesus, que prometestes: “Tudo que pedires ao meu Pai em meu nome, Ele
+		vo-lo concederá, a Deus, vosso Pai e meu Pai celestial, apresento a
+		minha oração. Intercedei, Senhor, junto ao Pai de bondade e Deus de
+		toda consolação para que Ele ouça nesta hora a minha súplica (pedido)
+		Ó Jesus, que afirmastes: “Passarão o céu e a terra, porém minhas
+		palavras não passarão”, confio em vossa promessa, Senhor, e espero que
+		o vosso poder e imensa bondade me consolarão e me darão o que vos peço
+		neste momento. (pedido)
+	</string>
+	<string name="oracao.saojorge.name">Oração a São Jorge</string>
+	<string name="oracao.saojorge">
+		Ó São Jorge, meu Santo Guerreiro, invencível na fé
+		em Deus, que trazeis
+		em vosso rosto a esperança e confiança, abre meus
+		caminhos. Eu andarei
+		vestido e armado com vossas armas para que meus
+		inimigos tendo pés não
+		me alcancem, tendo mãos não peguem, tendo olhos
+		não me enxerguem e nem
+		pensamentos possam ter para me fazerem mal.
+		Armas de fogo o meu corpo
+		não alcançarão, facas e lanças se quebrarão
+		sem ao meu corpo chegar,
+		cordas e correntes se arrebentarão sem o meu
+		corpo amarrar. Glorioso
+		São Jorge, em nome de Deus, estendei vosso
+		escudo e vossas poderosas
+		armas, defendendo-me com vossa força e
+		grandeza. Ajudai-me a superar
+		todo desânimo e a alcançar a graça que
+		vos peço (pedido).
+		Dai-me coragem e esperança, fortalecei minha fé e
+		auxiliai-me nesta
+		necessidade.
+	</string>
+
+	<string name="oracao.saomiguel.name">Oração a São Miguel Arcanjo</string>
+	<string name="oracao.saomiguel">
+		São Miguel arcanjo, protegei-nos no combate,
+		cobri-nos com vosso escudo
+		contra os embustes e ciladas do demônio.
+		Subjugue-o Deus,
+		instantemente o pedimos, e vós, príncipe da milícia
+		celeste, pelo
+		divino poder, precipitai no inferno a satanás e aos
+		outros espíritos
+		malígnos que andam pelo mundo para perder as almas.
+		Amém.
+	</string>
+	<string name="oracao.almadecristo.name">Alma de Cristo</string>
+	<string name="oracao.almadecristo">
+		Alma de Cristo, santificai-me.
+		Corpo de Cristo,
+		salvai-me.
+		Sangue de Cristo, inebriai-me.
+		Agua do lado de Cristo,
+		purificai-me.
+		Paixão de Cristo, confortai-me.
+		Ó bom Jesus, ouvi-me.
+		Dentro de vossas Chagas, escondei-me.
+		Não permitais que eu me separe de
+		vós.
+		Do inimigo maligno, defendei-me.
+		Na hora de minha morte, chamai-me.
+		E mandai-me ir para vós,
+		Para que eu, com vossos Santos, vos louve
+		por
+		todos os séculos dos séculos.
+		Amém.
+	</string>
 	<string name="oracao.saofrancisco.name">Oração de São Francisco</string>
 	<string name="oracao.saofrancisco">
 		Senhor: Fazei de mim um instrumento de vossa Paz.\n
@@ -44,7 +139,7 @@
 		\n
 		Amém
 	</string>
-	
+
 	<string name="oracao.painosso.name">Pai Nosso</string>
 	<string name="oracao.painosso">
 		Pai nosso, que estais no céu, santificado seja o
@@ -60,7 +155,7 @@
 		\n
 		Amém
 	</string>
-	
+
 	<string name="oracao.salveRainha.name">Salve Rainha</string>
 	<string name="oracao.salveRainha">
 		Salve, Rainha, Mãe de misericórdia, vida, doçura,
@@ -76,7 +171,7 @@
 		\n
 		Amém
 	</string>
-	
+
 	<string name="oracao.credo.name">Credo</string>
 	<string name="oracao.credo">
 		Creio em Deus Pai todo-poderoso, criador do céu e
@@ -99,7 +194,7 @@
 		\n
 		Amém
 	</string>
-	
+
 	<string name="oracao.gloriaPai.name">Glória ao Pai</string>
 	<string name="oracao.gloriaPai">
 		Glória ao Pai, ao Filho e ao Espírito Santo!
@@ -108,7 +203,7 @@
 		\n
 		Amém
 	</string>
-	
+
 	<string name="oracao.credoNiceia.name">Credo de Nicéia</string>
 	<string name="oracao.credoNiceia">
 		Creio em um só Deus, Pai Todo-Poderoso, Criador do
@@ -160,7 +255,7 @@
 		\n
 		Amém
 	</string>
-	
+
 	<string name="oracao.cantico.criaturas.name">Cântico das Criaturas</string>
 	<string name="oracao.cantico.criaturas">
 		Altíssimo, omnipotente, bom Senhor,
@@ -228,7 +323,7 @@
 		e servi-o
 		com grande humildade...
 	</string>
-	
+
 	<string name="oracao.espirito.santo.name">Oração Espírito Santo</string>
 	<string name="oracao.espirito.santo">
 		Vinde Espírito Santo, enchei os corações dos vosso
@@ -247,7 +342,7 @@
 		\n
 		Amém
 	</string>
-	
+
 	<string name="oracao.ato.contricao.name">Ato de Contrição</string>
 	<string name="oracao.ato.contricao">
 		Meu Deus , eu me arrependo de todo o coração de vos
