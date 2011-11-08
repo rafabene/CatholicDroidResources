@@ -1,79 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">Catholic Droid</string>
-	<string name="biblia">Bíblia</string>
+	<string name="biblia">Bible</string>
 	<string name="ok">Ok</string>
-	<string name="dezmandamentos">Dez Mandamentos</string>
-	<string name="sair">Sair</string>
-	<string name="voltar">Voltar</string>
-	<string name="enviar">Enviar</string>
-	<string name="fim">Fim</string>
-	<string name="inicio">Início</string>
-	<string name="sim">Sim</string>
-	<string name="nao">Não</string>
-	<string name="aguarde">Aguarde...</string>
-	<string name="mandamentosIgreja">Mandamentos da Igreja</string>
-	<string name="oracoes">Orações</string>
-	<string name="donsespiritosanto">Dons do Espírito Santo</string>
-	<string name="sacramentos">Sacramentos</string>
-	<string name="antigotestamento">Antigo Testamento</string>
-	<string name="novotestamento">Novo Testamento</string>
-	<string name="sugerirOracao">Sugerir uma Oração</string>
-	<string name="sugestaoEnviada">Sugestão Enviada com sucesso!</string>
-	<string name="dialogSelecionaCapitulo">Selecione o Capítulo</string>
-	<string name="avisoGestoNaoReconhecido">Gesto não reconhecido</string>
-	<string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia ou
-		então arraste para direita ou esquerda
-	</string>
-	<string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração
-	</string>
-	<string name="avisoTerco">Toque nas contas do Terço para Acompanhar a oração
-	</string>
-	<string name="traducao">Tradução</string>
+	<string name="dezmandamentos">Ten Commandments</string>
+	<string name="sair">Exit</string>
+	<string name="voltar">Back</string>
+	<string name="enviar">Send</string>
+	<string name="fim">End</string>
+	<string name="inicio">Home</string>
+	<string name="sim">Yes</string>
+	<string name="nao">No</string>
+	<string name="aguarde">Wait ...</string>
+	<string name="mandamentosIgreja">Commandments of the Church </string>
+	<string name="oracoes">Prayers</string>
+	<string name="donsespiritosanto">Gifts of the Holy Spirit </string>
+	<string name="sacramentos">Sacraments</string>
+	<string name="antigotestamento">Old Testament</string>
+	<string name="novotestamento">New Testament</string>
+	<string name="sugerirOracao">Suggest a Prayer</string>
+	<string name="sugestaoEnviada">Suggestion Posted successfully </string>
+	<string name="dialogSelecionaCapitulo">Select Chapter</string>
+	<string name="avisoGestoNaoReconhecido">gesture not recognized</string>
+	<string name="avisoToqueTituloBiblia"> Tap the title to browse the book in the Bible or
+		then drag left or right</string>
+	<string name="avisoSugerirOracao"> Click the menu to suggest a new prayer</string>
+	<string name="avisoTerco"> Touch the rosary prayer to Accompany </string>
+	<string name="traducao">Translation</string>
 	<string-array name="dezmandamentos">
-		<item>1 - Amar a Deus sobre todas as coisas</item>
-		<item>2 - Não tomar o seu Santo Nome em vão</item>
-		<item>3 - Guardar domingos e festas de guarda</item>
-		<item>4 - Honrar pai e mãe</item>
-		<item>5 - Não matar</item>
-		<item>6 - Não pecar contra a castidade</item>
-		<item>7 - Não roubar</item>
-		<item>8 - Não levantar falso testemunho</item>
-		<item>9 - Não desejar a mulher do próximo</item>
-		<item>10 - Não cobiçar as coisas alheias</item>
+		<item>1 - Love God above all things</item>
+		<item>2 - Do not take your Holy Name in vain</item>
+		<item>3 - Save Sundays and holidays guard</item>
+		<item>4 - Honor your father and mother</item>
+		<item>5 - Do not kill</item>
+		<item>6 - Do not sin against chastity</item>
+		<item>7 - Do not steal</item>
+		<item>8 - Do not bear false witness</item>
+		<item>9 - You do not want your neighbor\'s wife</item>
+		<item>10 - Do not covet the things of others</item>
 	</string-array>
 	<string-array name="mandamentosIgreja">
-		<item>1 - Participar da missa inteira nos domingos e outras festas de
-			guarda e abster-se de ocupações de trabalho
+		<item>1 - Attend Mass on Sundays and other parties guard and abstain
+			from labor occupations</item>
+		<item>2 - to confess at least once a year </item>
+		<item>3 - Receive the sacrament of the Eucharist at least during the
+			Easter Resurrection</item>
+		<item>4 - Fast and abstain from meat as sends the Holy Mother Church
 		</item>
-		<item>2 - Confessar-se ao menos uma vez por ano</item>
-		<item>3 - Receber o sacramento da Eucaristia ao menos pela Páscoa da
-			ressurreição
-		</item>
-		<item>4 - Jejuar e abster-se de carne, conforme manda a Santa Mãe
-			Igreja
-		</item>
-		<item>5 - Ajudar a Igreja em suas necessidades</item>
+		<item>5 - Helping the Church in your needs </item>
 	</string-array>
 	<string-array name="donsEspiritoSanto">
-		<item>1 - Fortaleza</item>
-		<item>2 - Sabedoria</item>
-		<item>3 - Ciência</item>
-		<item>4 - Conselho</item>
-		<item>5 - Entendimento</item>
-		<item>6 - Piedade</item>
-		<item>7 - Temor a Deus</item>
+		<item>1 - Fortress </item>
+		<item>2 - Wisdom </item>
+		<item>3 - Science </item>
+		<item>4 - Council </item>
+		<item>5 - Understanding </item>
+		<item>6 - Pity </item>
+		<item>7 - Fear God </item>
 	</string-array>
 	<string-array name="sacramentos">
-		<item>1 - Batismo</item>
-		<item>2 - Confirmação ou Crisma</item>
-		<item>3 - Eucaristia</item>
-		<item>4 - Reconciliação ou Penitência</item>
-		<item>5 - Unção dos enfermos</item>
-		<item>6 - Ordem</item>
-		<item>7 - Matrimônio</item>
+		<item>1 - Baptism </item>
+		<item>2 - Confirmation or Chrismation </item>
+		<item>3 - Eucharist </item>
+		<item>4 - Reconciliation or Penance</item>
+		<item>5 - Anointing of the Sick</item>
+		<item>6 - Order </item>
+		<item>7 - Marriage </item>
 	</string-array>
-
-
-
 </resources>

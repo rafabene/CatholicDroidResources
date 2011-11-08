@@ -1,267 +1,285 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="exameConsciencia">Exame de Consciência</string>
-	<string name="exame">Exame</string>
-	<string name="confissao">Confissão</string>
-	<string name="confissao.aviso">ATENÇÃO: Seu exame de consciência será perdido por
-		questões de privacidade,
-		se você sair desta tela!
+	<string name="exameConsciencia">Examination of Conscience</string>
+	<string name="exame">Exam</string>
+	<string name="confissao">Confession</string>
+	<string name="confissao.aviso"> WARNING: Your examination of conscience will be
+		lost by privacy issues, if you leave this screen!
 	</string>
 	<string name="confissao.ritoInicial">
-		Abençoa-me padre porque pequei
-		Há [tempo] fiz minha
-		última confissão. Meus pecados são os seguintes...
+		Bless me father for I have sinned
+		There is [time] I
+		did my
+		last confession. My sins are as follows ...
 	</string>
 	<string-array name="confissao_mandamentos">
-		<item>Primeiro Mandamento: Eu sou o Senhor teu Deus, Não terás deuses
-			estranhos perante Mim (incluindo pecados contra a Fé, Esperança e
-			Caridade)
+		<item>First Commandment: I am the Lord thy God, Thou shalt have no
+			gods strangers before me (including sins against the Faith, Hope and
+			Charity)
 		</item>
-		<item>Segundo Mandamento: Não tomarás o Nome do Senhor teu Deus em
-			vão.
+		<item>Second Commandment: Thou shalt not take the Name of the Lord
+			thy
+			God in will.
 		</item>
-		<item>Terceiro Mandamento: Recorda-te de santificar o Dia de Sábado
+		<item>Third Commandment: Remember thou keep holy the Sabbath Day
 		</item>
-		<item>Quarto Mandamento: Honra o teu pai e a tua mãe.</item>
-		<item>Quinto Mandamento: Não matarás.</item>
-		<item>Sexto e Nono Mandamentos: Não cometerás adultério. Não cobiçarás
-			a mulher do próximo.
+		<item>Fourth Commandment: Honor thy father and thy mother.</item>
+		<item>Fifth Commandment: Thou shalt not kill.</item>
+		<item>Sixth and Ninth Commandments: Thou shalt not commit adultery.
+			Thou shalt not covet neighbor\'s wife.
 		</item>
-		<item>Sétimo e Décimo Mandamentos: Não roubarás. Não cobiçarás os bens
-			do teu próximo.
+		<item>Seventh and Tenth Commandments: Thou shalt not steal. Do not
+			covet the goods thy neighbor\'s.
 		</item>
-		<item>Oitavo Mandamento: Não levantarás falsos testemunhos contra o
-			teu próximo.
+		<item>Eighth Commandment: Thou shalt not bear false witness against
+			your neighbor.
 		</item>
 	</string-array>
 	<string-array name="confissao_primeiroMandamento">
-		<item>Descuidei o conhecimento da minha fé, tal como o Catecismo a
-			ensina, tal como o Credo dos Apóstolos, os Dez Mandamentos, os Sete
-			Sacramentos, o Pai Nosso, etc
+		<item>neglected the knowledge of my faith, as the Catechism
+			teaches,
+			as
+			the Apostles\' Creed, the Ten Commandments, the Seven
+			Sacraments,
+			the
+			Our Father, etc.
 		</item>
-		<item>Alguma vez duvidei deliberadamente de algum ensinamento da
-			Igreja, ou o neguei
+		<item>Have I deliberately doubted any of the teachings of
+			Church or
+			denied
 		</item>
-		<item>Tomei parte num ato de culto não católico</item>
-		<item>Sou membro de alguma organização religiosa não católica, de
-			alguma sociedade secreta ou de um grupo anti-católico
+		<item>I took part in an act of Catholic worship is not </item>
+		<item>I am a member of some non-Catholic religious organization, the
+			secret society or a group of anti-Catholic
 		</item>
-		<item>Alguma vez li, com consciência do que fazia, alguma literatura
-			herética, blasfema ou anti-católica
+		<item>ever read, with awareness of what she did, some literature
+			heretical, blasphemous or anti-Catholic
 		</item>
-		<item>Pratiquei alguma superstição (tal como horóscopos, adivinhação,
-			tábua Ouija, etc.)
+		<item>I practiced any superstitions (such as horoscopes, fortune,
+			Ouija board, etc.).
 		</item>
-		<item>Deixo de recomendar-me a Deus diàriamente</item>
-		<item>Deixei de rezar fielmente as minhas orações diárias</item>
-		<item>Abusei os Sacramentos de alguma maneira</item>
-		<item>Zombei de Deus, de Nossa Senhora, dos Santos, da Igreja, dos
-			Sacramentos, ou de quaisquer coisas santas
+		<item>leave to recommend me daily to God</item>
+		<item>stop praying faithful to my daily prayers</item>
+		<item>I abused the sacraments in any way</item>
+		<item>mock God of Our Lady, the Saints, the Church, the
+			Sacraments, or
+			other holy things
 		</item>
-		<item>Fui culpado de grande irreverência na igreja, como, por exemplo,
-			em conversas, comportamento ou modo como estava vestido
+		<item>I was guilty of great irreverence in church, for example,
+			conversation, behavior, or how he was dressed
 		</item>
-		<item>Fui indiferente quanto à minha Fé Católica — acreditando que uma
-			pessoa pode salvar-se em qualquer religião, ou que todas as religiões
-			são iguais
+		<item>I was indifferent to my Catholic Faith - believing that a
+			person
+			can be saved in any religion or all religions
+			are equal
 		</item>
-		<item>Presumi em qualquer altura que tinha garantida a misericórdia de
-			Deus
-		</item>
-		<item>Desesperei da misericórdia de Deus</item>
-		<item>Detestei a Deus</item>
-		<item>Dei demasiada importância a alguma criatura, atividade, objeto
-			ou opinião
+		<item>assumed at any time had guaranteed the mercy of God</item>
+		<item> despair of the mercy of God </item>
+		<item>I hated God</item>
+		<item> I given too much importance to any creature, activity, object
+			or opinion
 		</item>
 	</string-array>
 	<string-array name="confissao_segundoMandamento">
-		<item>Jurei pelo nome de Deus falsamente, impensadamente, ou em
-			assuntos triviais e sem importância
+		<item>I swear by God\'s name falsely, rashly or trivial and
+			unimportant
+			matters
 		</item>
-		<item>Murmurei ou queixei-me contra Deus (blasfêmia)</item>
-		<item>Amaldiçoei-me a mim próprio, ou a outra pessoa ou criatura
+		<item>I murmured or complained against God (blasphemy) </item>
+		<item>cursed me to myself, or another person or creature
 		</item>
-		<item>Provoquei alguém à ira, para o fazer praguejar ou blasfemar a
-			Deus
-		</item>
-		<item>Quebrei uma promessa feita a Deus</item>
+		<item>Have I angered, to make them swear or blaspheme God </item>
+		<item> broke a promise to God </item>
 	</string-array>
 	<string-array name="confissao_terceiroMandamento">
-		<item>Faltei à Missa nos Domingos ou Festas de guarda</item>
-		<item>Cheguei atrasado à Missa nos Domingos e Dias Santos de guarda,
-			ou saí mais cedo por minha culpa
+		<item>I missed Mass on Sundays or Holy Days of </item>
+		<item>I arrived late for Mass on Sundays and Holy Days of obligation,
+			or left early because of me
 		</item>
-		<item>Fiz com que outras pessoas faltassem à Missa nos Domingos e Dias
-			Santos de guarda, ou saíssem mais cedo, ou chegassem atrasados à
-			Missa
+		<item>I made other people miss Mass on Sundays and Days
+			Saints guard,
+			or leave early or be late for Mass
 		</item>
-		<item>Estive distraído propositadamente durante a Missa</item>
-		<item>Fiz ou mandei fazer trabalho servil desnecessário num Domingo ou
-			Festa de guarda
+		<item>been willfully distracted during Mass</item>
+		<item>I done or commanded unnecessary servile work on Sunday or
+			Holy
+			Days of Obligation
 		</item>
-		<item>Comprei ou vendi coisas sem necessidade nos Domingos e Dias
-			Santos de guarda
+		<item>buy or sell anything without the need for Sunday and
+			Saints guard
 		</item>
 	</string-array>
 	<string-array name="confissao_quartoMandamento">
-		<item>Desobedeci aos meus pais, faltei-lhes ao respeito, descuidei-me
-			em ajudá-los nas suas necessidades ou na compilação do seu
-			testamento, ou recusei-me a fazê-lo
+		<item> I disobeyed my parents, they lack respect, I neglected
+			to assist
+			them in their needs or build your
+			will or I refused to do so
 		</item>
-		<item>Mostrei irreverência em relação a pessoas em posições de
-			autoridade
+		<item> shown irreverence towards people in positions of
+			authority
 		</item>
-		<item>Insultei ou disse mal de sacerdotes ou de outras pessoas
-			consagradas a Deus
+		<item> or insulted I maligned priests or others
+			consecrated to God
 		</item>
-		<item>Tive menos reverência para com pessoas de idade</item>
-		<item>Tratei mal a minha esposa ou os meus filhos</item>
-		<item>Fui desobediente ao meu marido, ou faltei-lhe ao respeito</item>
-		<item>Descuidei as suas necessidades materiais dos meus filhos</item>
-		<item>Não tratei de batizar meus filhos cedo</item>
-		<item>Descuidei a educação religiosa correta de meus filhos</item>
-		<item>Permiti que meus filhos descuidassem dos seus deveres religiosos
+		<item>I had less reverence for the elderly </item>
+		<item>I mistreated my wife or my children </item>
+		<item>I was disobedient to my husband, or lacks respect </item>
+		<item>I neglected their material needs of my children </item>
+		<item>not tried to baptize my children early </item>
+		<item>neglect the religious education of my children right </item>
+		<item>I allowed my children neglecting their religious duties</item>
+		<item> I stopped to watch the companies with whom my children walk
 		</item>
-		<item>Deixei de vigiar as companhias com quem meus filhos andam</item>
-		<item>Deixei de os disciplinar quando meus filhos necessitassem de tal
+		<item> to discipline them when I left my children need such
 		</item>
-		<item>Dei mau exemplo aos meus filhos</item>
-		<item>Escandalizei meus filhos, discutindo com o meu cônjuge em frente
-			deles
+		<item> Gave bad example to my children </item>
+		<item>scandalized my children, arguing with my spouse in front
+			their
 		</item>
-		<item>Escandalizei meus ao dizer obscenidades à sua frente</item>
-		<item>Deixei de guardar modéstia na minha casa</item>
-		<item>Permiti aos meus filhos que usassem roupa imodesta</item>
-		<item>Neguei aos meus filhos a liberdade de casar ou seguir uma
-			vocação religiosa
+		<item>scandalized my saying obscenities in front </item>
+		<item>I left to keep modesty in my house </item>
+		<item>Let my children to wear immodest clothing </item>
+		<item>I denied my children the freedom to marry or follow a
+			religious
+			vocation
 		</item>
 	</string-array>
 	<string-array name="confissao_quintoMandamento">
-		<item>Procurei, desejei ou apressei a morte ou o ferimento de alguém
+		<item>procured, desired, or hastened the death or injury of someone
 		</item>
-		<item>Alimentei ódio para com alguém</item>
-		<item>Oprimi alguém</item>
-		<item>Desejei vingar-me</item>
-		<item>Provoquei a inimizade entre outras pessoas</item>
-		<item>Discuti ou lutei com alguém</item>
-		<item>Desejei mal a alguém</item>
-		<item>Quis ferir ou maltratar alguém, ou tentei fazê-lo</item>
-		<item>Recuso-me a falar com alguém, ou ressentimento de alguém</item>
-		<item>Regozijei-me com a desgraça alheia</item>
-		<item>Tive ciúmes ou inveja de alguém</item>
-		<item>Fiz ou tentei fazer um aborto, ou aconselhei alguém a que o
-			fizesse
+		<item>fed hatred for someone </item>
+		<item>oppressed anyone </item>
+		<item>wished to avenge me </item>
+		<item>caused enmity between others </item>
+		<item>quarreled or fought with someone </item>
+		<item>wished evil to someone </item>
+		<item>wanted to injure or mistreat someone, or tried to do it </item>
+		<item>I refuse to talk to someone, or someone of resentment </item>
+		<item>I rejoiced schadenfreude </item>
+		<item> I been jealous or envious of someone </item>
+
+		<item>I tried or an abortion, counseled or anyone else to do
 		</item>
-		<item>Mutilei o meu corpo desnecessàriamente de alguma maneira</item>
-		<item>Consenti em pensamentos de suicídio, desejei suicidar-me ou
-			tentar suicidar-me
+		<item>mutilated my body unnecessarily in any way </item>
+		<item>consented to thoughts of suicide, I wanted to kill myself or
+			attempted suicide
 		</item>
-		<item>Embriaguei-me ou usei drogas ilícitas</item>
-		<item>Comi demais, ou não como o suficiente por descuido</item>
-		<item>Deixei de corrigir alguém dentro das normas da caridade</item>
-		<item>Causei dano à alma de alguém, especialmente crianças, dando
-			escândalo através de mau exemplo
+		<item>me become drunk or used illegal drugs </item>
+		<item>I ate too much, or not as careless enough </item>
+		<item>I failed to correct within the rules of charity </item>
+		<item>I harmed anyone\'s soul, especially children, giving
+			scandal
+			through bad example
 		</item>
-		<item>Fiz mal à minha alma, expondo-a intencionalmente e sem
-			necessidade a tentações, como maus programas de TV, música
-			reprovável, praias, etc.
+		<item> I hurt my soul, exposing them intentionally and without
+			need to
+			temptations, and bad TV shows, music
+			reprehensible, beaches, etc..
 		</item>
 	</string-array>
 	<string-array name="confissao_sextoEnonoMandamento">
-		<item>Neguei ao meu cônjuge os seus direitos matrimoniais</item>
-		<item>Pratiquei o controlo de natalidade (com pílulas, dispositivos,
-			interrupção)
+		<item>I denied my spouse his or her marriage rights </item>
+		<item> practiced birth control (pills, devices, interruption)
 		</item>
-		<item>Abusei dos meus direitos matrimoniais de algum outro modo</item>
-		<item>Cometi adultério ou fornicação (sexo pré-marital)</item>
-		<item>Cometi algum pecado impuro contra a natureza (homosexualidade ou
-			lesbianismo, etc.)
+		<item> I abused my marriage rights in any other way </item>
+		<item> committed adultery or fornication (premarital sex) </item>
+		<item> I made any unnatural sin against nature (homosexuality or
+			lesbianism, etc.).
 		</item>
-		<item>Pequei impuramente contra mim próprio (masturbação)</item>
-		<item>Consenti em pensamentos impuros, ou tive prazer neles</item>
-		<item>Consenti em desejos impuros para com alguém, ou desejei
-			conscientemente ver ou fazer alguma coisa impura
+		<item>impurely I have sinned against myself (masturbation) </item>
+		<item>consented to impure thoughts, or had pleasure in them </item>
+		<item>consented to impure desires to someone, or wanted
+			consciously see
+			or do anything impure
 		</item>
-		<item>Entreguei-me conscientemente a prazeres sexuais, completos ou
-			incompletos
+		<item> consciously gave me sexual pleasure, complete or incomplete
 		</item>
-		<item>Fui ocasião de pecado para os outros, por usar roupa justa,
-			reveladora ou imodesta
+		<item> I was an occasion of sin for others by wearing tight,
+			revealing
+			or immodest
 		</item>
-		<item>Fiz alguma coisa, deliberadamente ou por descuido, que
-			provocasse pensamentos ou desejos impuros noutra pessoa
+
+		<item>I deliberately or through carelessness, which
+			provoke impure
+			thoughts or desires another person
 		</item>
-		<item>Li livros indecentes ou vi figuras obscenas</item>
-		<item>Vi filmes ou programas de televisão sugestivos, ou pornografia
-			na Internet, ou permiti que os meus filhos os vissem
+		<item> I read indecent literature or looked at bad pictures </item>
+		<item> Saw films or television programs suggestive, or pornographic
+			Internet, or permitted my children to do so
 		</item>
-		<item>Usei linguagem indecente ou contei histórias indecentes</item>
-		<item>Ouvi histórias indecentes de boa vontade</item>
-		<item>Gabei-me dos meus pecados, ou deleitei-me em recordar pecados
-			antigos
+		<item> I used indecent language or told indecent stories </item>
+
+		<item>I heard stories indecent goodwill </item>
+		<item> bragged to me of my sins, or delight in remembering sins
+			old
 		</item>
-		<item>Estive com companhias indecentes</item>
-		<item>Consenti em olhares impuros</item>
-		<item>Deixei de controlar a minha imaginação</item>
-		<item>Deixei de Rezar imediatamente, para afastar maus pensamentos e
-			tentações
+		<item> been in lewd company </item>
+		<item> consented to impure glances </item>
+		<item> I neglected to control my imagination </item>
+		<item> ceased to pray at once to banish evil thoughts and
+			temptations
 		</item>
-		<item>Evitei a preguiça, a gula, a ociosidade, e as ocasiões de
-			impureza
+		<item> I avoided sloth, gluttony, idleness, and occasions for
+			impurity
 		</item>
-		<item>Fui a bailes imodestos ou peças de teatro indecentes</item>
+		<item>I went to dances immodest or indecent plays </item>
 	</string-array>
 	<string-array name="confissao_setimoEdecimoMandamento">
-		<item>Roubei alguma coisa? O quê, ou quanto</item>
-		<item>Danifiquei a propriedade de outrem</item>
-		<item>Deixei estragar, por negligência, a propriedade de outrem</item>
-		<item>Fui negligente na guarda do dinheiro ou bens de outrem</item>
-		<item>Fiz trapaça ou defraudei alguém</item>
-		<item>Joguei em excesso</item>
-		<item>Recusei-me a pagar alguma dívida, ou descuidei-me no seu
-			pagamento
+		<item>I stole something? What, or how much </item>
+		<item>I damaged anyone\'s property </item>
+		<item>let it ruin by neglect, the property of others </item>
+		<item>I was negligent in the stewardship of money or property of
+			others
 		</item>
-		<item>Adquiri alguma coisa que sabia ter sido roubada</item>
-		<item>Deixei de restituir alguma coisa emprestada</item>
-		<item>Lesei o meu patrão, não trabalhando como se esperava de mim
+		<item>I cheating or defrauded others </item>
+		<item>I played too much </item>
+		<item>I refused to pay any debt or neglected me in your payment
 		</item>
-		<item>Fui desonesto com o salário dos meus empregados</item>
-		<item>Recusei-me a ajudar alguém que precisasse urgentemente de ajuda,
-			ou descuidei-me a fazê-lo
+		<item>acquired anything known to be stolen </item>
+		<item>I failed to return something borrowed </item>
+		<item>Theft my boss, not working as expected of me
 		</item>
-		<item>Deixei de restituir o que roubei, ou obtive por embusted ou
-			fraude (Pergunte ao sacerdote como poderá fazer a restituição, ou
-			seja, devolver ao legítimo dono o que lhe tirou)
+		<item>I cheated the wages of my employees </item>
+		<item>I refused to help anyone in urgent need of help,
+			or neglected to
+			do so I
 		</item>
-		<item>Tive inveja de alguém, por ter algo que eu não tenho</item>
-		<item>Invejei os bens de alguém</item>
-		<item>Tenho sido avarento</item>
-		<item>Tenho dado demasiada importância aos bens e confortos materiais
+		<item>I failed to return what they stole, or obtained by or embusted
+			fraud (ask the priest how to make restitution, or
+			that is, returning
+			to the owner what it took)
+		</item>
+		<item>I envy someone for having something that I have not </item>
+		<item>I envied the goods of one </item>
+		<item>Have I been stingy
+		</item>
+		<item>I have given too much importance on material goods and comforts
 		</item>
 	</string-array>
 	<string-array name="confissao_oitavoMandamento">
-		<item>Menti a respeito de alguém (calúnia)</item>
-		<item>As minhas mentiras causaram a alguém danos materiais ou
-			espirituais
+		<item>I lied about anyone (calumny) </item>
+		<item>My lies caused them damage or
+			spiritual
 		</item>
-		<item>Fiz julgamentos temerários a respeito de alguém (isto é,
-			acreditei firmemente, sem provas suficientes, que eram culpados de
-			algum defeito moral ou crime)
+		<item> I rashly judged anyone (that is,
+			firmly believed, without
+			sufficient evidence, they were guilty of
+			some moral defect or crime)
 		</item>
-		<item>Atingi o bom nome de alguém, revelando faltas autênticas mas
-			ocultas (maledicência)
+		<item> injured the good name of someone revealing faults but true
+			hidden (slander)
 		</item>
-		<item>Revelei os pecados de outra pessoa</item>
-		<item>Fui culpado de fazer intrigas (isto é, de contar alguma coisa
-			desfavorável que alguém disse de outra pessoa, para criar inimizade
-			entre eles)
+		<item> reveal the sins of someone else </item>		
+		<item>I was guilty of doing intrigues (ie, to say something
+			unfavorable that someone said
+			someone else, to create enmity
+			between them)
 		</item>
-		<item>Dei crédito ou apoio à divulgação de escândalos sobre o meu
-			próximo
+		<item>Gave credit or supporting the dissemination of scandal about mynext
 		</item>
-		<item>Jurei falso ou assinei documentos falsos</item>
-		<item>Sou crítico ou negativo sem necessidade ou falto à caridade nas
-			minhas conversas
+		<item>I swore signed false documents or false </item>
+		<item>I am critical or negative unnecessarily or miss to charity in
+			my conversations
 		</item>
 	</string-array>
 </resources>
