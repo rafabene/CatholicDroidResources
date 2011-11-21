@@ -4,6 +4,7 @@
     <string name="app_name">Catholic Droid</string>
     <string name="biblia">Bible</string>
     <string name="ok">Ok</string>
+    <string name="fechar">Close</string>
     <string name="dezmandamentos">Ten Commandments</string>
     <string name="sair">Exit</string>
     <string name="voltar">Back</string>
@@ -51,4 +52,5 @@
 		</item>
         <item>5 - Helping the Church in your needs </item>
     </string-array>
+
 </resources>
