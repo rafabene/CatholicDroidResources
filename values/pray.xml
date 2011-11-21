@@ -1,60 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="oracao.santoexpedito.name">Prayer to Saint Expedite</string>
-	<string name="oracao.santoexpedito">
-		My Holy and Just Causes of Expedito Urgent
-		Assist me in this time
-		of despair and desperation, intercede for me with
-		Our Lord Jesus
-		CHRIST! You who are a Holy Warrior. you who
-		are the Holy of
-		Afflicted. You who are the Saint of Desperate, You
-		who are the Holy
-		Urgent Causes, Protect me, Help me, Give me
-		Strength, Courage and
-		Serenity. Hearken to my request (application). Help me
-		to overcome these
-		Tough Times, protect me from all that I can
-		harm,
-		Protect my family, listen to my request with
-		urgency.
-		Give me Peace and Tranquility. I will be grateful for the rest
-		of my
-		life and take your name to everyone who has faith. Thank you.
+
+    <string name="oracao.santoexpedito.name">Prayer to Saint Expedite</string>
+    <string name="oracao.santoexpedito">
+		My Saint Expedite of urgent and just causes, please intercede for me with Our Lord Jesus Christ.
+      Succor me in this hour of affliction and despair, my Saint Expedite. You who are a Holy warrior, You who are the Saint of the afflicted, You who are the Saint of the desperate, you who are the Saint of urgent causes, Protect me, Help me, Give me Strength, Courage and Serenity.
+
+      Hear my plea. ____________ (Clearly express what you want, and ask him to find a way to get it to you.)
+
+      My Saint Expedite, help me to prevail through these difficult hours, protect me from all those who want to harm me, respond to my plea with urgency. Bring me back to the state of peace and        tranquillity, my Saint Expedite. I will be grateful to you for the rest of my life and I will speak your name to all those who have faith.
+     (Now promise to give Saint Expedite a specific offering when your desire is granted.)
+     Amen.
+    (Say one Our Father, one Holy Mary, and make the sign of the cross.)
+
+    (Be sure to provide the offering you promised if Saint Expedite grants your petition)
 	</string>
-	<string name="oracao.meninojesusdepraga.name">Prayer to the Infant Jesus of Prague</string>
-	<string name="oracao.meninojesusdepraga">
-		O Jesus who said in your Gospel: "Ask and
-		receive,
-		seek
-		and ye shall find, knock and the door will be opened "by
-		through
-		Mary,
-		your Most Holy Mother, with faith and trust I hit the
-		door of your
-		Heart and humbly beg your divine grace.
-		Hearken, O Lord, to the
-		humble
-		prayer that this day you drive (request).
-		O
-		Jesus, who promised,
-		"Whatever you ask the Father in My name, He
-		will give it to God, your
-		Father and my Father in heaven, I present the
-		my prayer. Intercede, O
-		Lord, with the Father of goodness and God
-		consolation for all this time
-		that He hear my prayer (request)
-		O Jesus, who says: "Heaven and earth
-		shall pass away, but my
-		words will not pass, "I trust your promise,
-		Lord, and I hope
-		your power and immense kindness comforted me and give
-		me what I ask
-		at this time. (request)
+    <string name="oracao.meninojesusdepraga.name">Prayer to the Infant Jesus of Prague</string>
+    <string name="oracao.meninojesusdepraga">
+		O Jesus, Who said, "Ask and you shall receive, seek and you shall find, knock
+and it shall be opened to you," through the intercession of Mary, Your most holy Mother, I knock, I seek, I ask that my prayer be answered.  (Mention your request)
+
+      O Jesus, Who said, "All that you ask of the Father in My Name He will grant you," through the intercession of Mary, Your most holy Mother, I humbly and urgently ask Your Father in Your Name that my prayer be granted.  (Mention your request.)
+
+      O Jesus, Who said, "Heaven and earth will pass away, but My word shall not pass," through the intercession of Mary, Your most holy Mother, I feel confident that my prayer will be granted.  (Mention your request)
+
+      Amen
 	</string>
-	<string name="oracao.saojorge.name">Prayer of Saint George</string>
-	<string name="oracao.saojorge">
+    <string name="oracao.saojorge.name">Prayer of Saint George</string>
+    <string name="oracao.saojorge">
 		O Saint George, my Holy Warrior, invincible faith
 		in God, which brings
 		your face in the hope and confidence, open my
@@ -78,319 +51,216 @@
 		and auxiliai me this
 		need.
 	</string>
-	<string name="oracao.saomiguel.name">Prayer of St. Michael the Archangel</string>
-	<string name="oracao.saomiguel">
-		St. Michael the Archangel, protect us in the fight,
-		cover them with your shield
-		against the wiles and snares of the devil.
-		Subdue him God
-		earnestly ask it, and you, Prince of the heavenly host,
-		by
-		divine power, precipitai into hell Satan and other spirits
-		evil that
-		roam the world for the ruin of souls.
-		Amen
-	</string>
-	<string name="oracao.almadecristo.name">Soul of Christ</string>
-	<string name="oracao.almadecristo">
-		Soul of Christ, sanctify me.
-		Body of Christ, save
-		me.
-		Blood of Christ, inebriai me.
-		Water from the side of Christ, cleanse
-		me.
-		Passion of Christ, strengthen me.
-		O good Jesus, hear me.
-		Within your
-		wounds hide me.
-		Do not let me be separated from you.
-		From the malignant
-		enemy, defend me.
-		At the time of my death call me.
-		And bid me come to
-		you
-		For me, with your saints, you praise
-		for ever and ever.
-		Amen
-	</string>
-	<string name="oracao.saofrancisco.name">Prayer of St. Francis</string>
-	<string name="oracao.saofrancisco">
-		Lord, make me an instrument of your Peace \n
-		Where
-		there is hatred let me sow love,
-		Where there is injury, let me sow
-		Sorry.
-		Where there is discord, I may bring the Union
-		Where there is
-		doubt,
-		I may bring faith
-		Where there is error, I may bring truth.
-		Where
-		there
-		Despair, let me bring hope.
-		Where there is sadness, I may bring
-		Joy.
-		Where there is darkness, light to light!
-		\n
-		O Divine Master,
-		I do
-		find more:
-		comfort, be comforted;
-		understand, to be
-		understood;
-		love and
-		be loved.
-		It is in giving that we receive.
-		Forgiving that one is
-		forgiven and
-		it is in dying that we live for life
-		eternal!
-		\n
-		Amen
-	</string>
+    <string name="oracao.saomiguel.name">Prayer of St. Michael the Archangel</string>
+    <string name="oracao.saomiguel">
+		Saint Michael the Archangel,
+      defend us in battle.
+      Be our protection against the wickedness and snares of the devil.
+      May God rebuke him, we humbly pray;
+      and do Thou, O Prince of the Heavenly Host -
+      by the Divine Power of God -
+      cast into hell, satan and all the evil spirits,
+      who roam throughout the world seeking the ruin of souls.
 
-	<string name="oracao.avemaria.name">Ave Maria</string>
-	<string name="oracao.avemaria">
-		Hail Mary, full of grace, the Lord is with thee.
-		Blessed art thou among
-		women and blessed is the fruit of thy womb,
-		Jesus.
-		\n
-		Holy Mary, Mother of God, pray for us sinners now and at the
-		our hours
-		death.
-		\n
-		Amen
+      Amen. 
 	</string>
+    <string name="oracao.almadecristo.name">Soul of Christ</string>
+    <string name="oracao.almadecristo">
+		Soul of Christ, santify me.
+Body of Christ, save me.
+Blood of Christ, inebriate me.
+Water from the side of Christ, wash me.
+Passion of Christ, strengthen me.
+O good Jesus, hear me.
+Within your wounds, hide me.
+Never let me be separated from you.
+From the malignant enemy, defend me.
+At the hour of death, call me;
+and bid me come to you.
+That with your saints I may praise you
+forever and ever.
 
-	<string name="oracao.painosso.name"> Our Father </string>
-	<string name="oracao.painosso">
-		Our Father which art in heaven, hallowed be
-		your
-		name, come to thy kingdom and thy will be done,
-		on earth as in heaven.
-		\n
-		The day our daily bread Give us this day;
-		and forgive us our
-		trespasses
-		as we forgive those who have
-		offended. Let us not fall into
-		temptation, but deliver us from all
-		poorly.
-		\n
-		Amen
+Amen.
 	</string>
+    <string name="oracao.saofrancisco.name">Prayer of St. Francis</string>
+    <string name="oracao.saofrancisco">
+		Lord, make me an instrument of your peace.
+Where there is hatred, let me sow love;
+where there is injury,pardon;
+where there is doubt, faith;
+where there is despair, hope;
+where there is darkness, light;
+and where there is sadness, joy.
 
-	<string name="oracao.salveRainha.name">Salve Regina</string>
-	<string name="oracao.salveRainha">
-		Hail, holy Queen, Mother of mercy, our life,
-		sweetness,
-		our hope, hail! To you we cry, poor banished children of Eve
-		The
-		Sighs, mourning and weeping in this valley of tears. Come, then,
-		our advocate, thine eyes of mercy toward us Volvo, and,
-		after this our
-		exile, show us Jesus, the blessed fruit of thy
-		womb, O clement, O
-		loving, O sweet Virgin Mary.
-		\n
-		Pray for
-		us, Holy Mother of God, to be
-		worthy of reaching the
-		promises of Christ.
-		\n
-		Amen
+
+O Divine Master, grant that I may not so much seek
+to be consoled as to console;
+to be understood as to understand;
+to be loved as to love.
+For it is in giving that we receive;
+it is in pardoning that we are pardoned;
+and it is in dying that we are born to eternal life. Amen 
 	</string>
-
-	<string name="oracao.credo.name"> Creed </string>
-	<string name="oracao.credo">
-		I believe in God the Father Almighty, maker of
-		heaven and
-		the earth and in Jesus
-		Christ, His only Son, our Lord, which
-		was
-		conceived by the
-		Holy Spirit, born of the Virgin Mary, suffered
-		under Pontius Pilate,
-		was crucified, dead and buried, He descended into
-		hell
-		the dead;
-		rose again the third day, ascended into heaven and is
-		seated at the
-		right
-		God the Father Almighty, whence He shall come to
-		judge the living and
-		the dead;
-		I believe in the Holy Spirit, the holy
-		catholic Church, the
-		communion of
-		Saints, the forgiveness of sins, the
-		resurrection of the body
-		in life
-		eternal.
-		\n
-		Amen
+    <string name="oracao.avemaria.name">Hail Mary</string>
+    <string name="oracao.avemaria">
+Hail Mary, full of grace.
+Our Lord is with thee.
+Blessed art thou among women,
+and blessed is the fruit of thy womb,
+Jesus.
+Holy Mary, Mother of God,
+pray for us sinners,
+now and at the hour of our death.
+Amen. 
 	</string>
-
-	<string name="oracao.gloriaPai.name"> Glory to the Father </string>
-	<string name="oracao.gloriaPai">
-		Glory to the Father, Son and Holy Spirit!
-		So as it
-		was in the beginning, now and forever.
-		\n
-		Amen
+    <string name="oracao.painosso.name">Our Father</string>
+    <string name="oracao.painosso">
+Our Father, Who is in heaven,
+Holy is Your Name;
+Your kingdom come,
+Your will be done,
+on earth as it is in heaven.
+Give us this day our daily bread,
+and forgive us our sins,
+as we forgive those who sin against us;
+and lead us not into temptation,
+but deliver us from evil. Amen. 
 	</string>
-
-	<string name="oracao.credoNiceia.name"> Nicene Creed </string>
-	<string name="oracao.credoNiceia">
-		We believe in one God, Father Almighty, Maker of
-		Heaven and earth, of all things visible and invisible.
-		\n
-		I believe in a
-		one Lord, Jesus Christ, only Son of God, born
-		the Father before
-		all
-		ages, God from God, Light of Light, God
-		God\'s true
-		true, begotten, not
-		made, consubstantial with the
-		Father by whom all
-		things were made. For
-		us men and for
-		our salvation,
-		down
-		of heaven and was incarnate by the
-		Holy Spirit in
-		the Virgin
-		Mary and
-		became man. Was crucified also for us
-		under Pontius
-		Pilate, suffered
-		and was buried. Raised on the third
-		days,
-		according to the Scriptures, and
-		He ascended into heaven and is seated
-		at the
-		right
-		the Father Ede come again,
-		in glory to judge the living
-		and
-		dead, and his kingdom will have no
-		end.
-		\n
-		I believe in the Holy Spirit,
-		Lord
-		Giver of Life who proceeds from the Father and
-		of
-		Son;
-		With the
-		Father and the Son is
-		worshiped and glorified, who spoke
-		to
-		prophets. I
-		believe in one church,
-		holy, catholic and apostolic.
-		Professed
-		one
-		baptism for the remission
-		of sins. We look for
-		resurrection
-		of
-		dead and
-		the life of the world
-		is to come.
-		\n
-		Amen
+    <string name="oracao.salveRainha.name">Hail Holy Queen</string>
+    <string name="oracao.salveRainha">
+		Hail, holy Queen, Mother of mercy, hail, our life, our sweetness and our hope. To thee do we cry, poor banished children of Eve: to thee do we send up our sighs, mourning and weeping in this vale of tears. Turn then, most gracious Advocate, thine eyes of mercy toward us, and after this our exile, show unto us the blessed fruit of thy womb, Jesus, O merciful, O loving, O sweet Virgin Mary! Amen.
 	</string>
+    <string name="oracao.credo.name">The Apostles Creed</string>
+    <string name="oracao.credo">
+I believe in God,
+the Father Almighty,
+Creator of Heaven and earth.
 
-	<string name="oracao.cantico.criaturas.name">Canticle of the Creatures</string>
-	<string name="oracao.cantico.criaturas">
-		Most High, omnipotent, good Lord,
-		thee the praise,
-		glory, honor and all blessing.
-		\n
-		To you alone, Most High, should they
-		be
-		render
-		and no man is worthy of you name.
-		\n
-		Praised be Thou, O my
-		Lord
-		with all your creatures,
-		especially my lord Brother
-		Sun,
-		which makes the
-		day and he enlightens us.
-		And he is beautiful and radiant with
-		splendor:
-		you, Most High, he gives us the image.
-		\n
-		Praise
-		Thou, O my
-		Lord, through Sister Moon and Stars:
-		kindled in the sky,
-		clear and
-		precious and beautiful.
-		\n
-		Praised be my Lord, through Brother
-		Wind
-		and
-		the Air, and clouds, and Sereno, and all the time,
-		by whom you give to
-		your creatures sustenance.
-		\n
-		Praised be my Lord, through Sister
-		Water
-		that is so useful and humble and precious and chaste.
-		\n
-		Be praised, O
-		my Lord, through Brother Fire,
-		by which brighten up the night:
-		and it is
-		beautiful, and
-		playful and robust and strong.
-		\n
-		Praised be Thou, O my
-		Lord, for our
-		Sister Mother Earth,
-		that sustains and governs us,
-		producing varied fruits,
-		with colorful flowers, and vegetables.
-		\n
-		Praised be Thou, O my Lord, for
-		those who grant pardon for love
-		and bear
-		infirmity and tribulation.
-		\n
-		Blessed are those who support them in
-		peace,
-		as for thee,
-		Most High, will be crowned.
-		\n
-		Praised be my Lord, for
-		our
-		Sister Death,
-		to which no living man can escape:
-		Alas
-		those who die in
-		mortal sin!
-		Blessed are those who
-		fulfill your holy will,
-		the second
-		death because they do not
-		hurt.
-		\n
-		Praise and bless my Lord and give Him
-		thanks
-		and serve the
-		with great humility ...
+I believe in Jesus Christ, His only Son, our Lord,
+who was conceived by the Holy Spirit,
+born of the Virgin Mary,
+suffered under Pontius Pilate,
+was crucified, died and was buried.
+He descended to the dead.
+On the third day, He rose again.
+He ascended to Heaven and is seated at the right hand of the Father.
+He will come again to judge the living and the dead.
+
+I believe in the Holy Spirit,
+the Holy Catholic Church,
+the communion of saints,
+the forgiveness of sins,
+the resurrection of the body,
+and life everlasting. Amen. 
 	</string>
+    <string name="oracao.gloriaPai.name">Glory be to the Father</string>
+    <string name="oracao.gloriaPai">
+Glory be to the Father, and to the Son, and to the Holy Spirit. 
+As it was in the beginning, is now, and ever shall be, world without end. 
 
-	<string name="oracao.espirito.santo.name">Prayer Holy Spirit</string>
-	<string name="oracao.espirito.santo">
+Amen. 
+	</string>
+    <string name="oracao.credoNiceia.name">Nicene Creed</string>
+    <string name="oracao.credoNiceia">
+		We believe in one God,
+the Father, the Almighty,
+maker of heaven and earth,
+of all that is, seen and unseen. 
+
+We believe in one Lord, Jesus Christ,
+the only Son of God,
+eternally begotten of the Father,
+God from God, Light from Light,
+true God from true God,
+begotten, not made,
+of one Being with the Father.
+Through him all things were made.
+For us and for our salvation
+he came down from heaven:
+by the power of the Holy Spirit
+he became incarnate from the Virgin Mary,
+and was made man.
+For our sake he was crucified under Pontius Pilate;
+he suffered death and was buried.
+On the third day he rose again
+in accordance with the Scriptures;
+he ascended into heaven
+and is seated at the right hand of the Father.
+He will come again in glory to judge the living and the dead,
+and his kingdom will have no end. 
+
+We believe in the Holy Spirit, the Lord, the giver of life,
+who proceeds from the Father and the Son.
+With the Father and the Son he is worshiped and glorified.
+He has spoken through the Prophets.
+We believe in one holy catholic and apostolic Church.
+We acknowledge one baptism for the forgiveness of sins.
+We look for the resurrection of the dead,
+and the life of the world to come. Amen. 
+	</string>
+    <string name="oracao.cantico.criaturas.name">Canticle of the Creatures</string>
+    <string name="oracao.cantico.criaturas">
+		Highest, omnipotent good Lord!
+Yours are the praises, the glory, and the honour
+And all blessing
+To you, alone, Most High, do they belong.
+No human lips are worthy
+To pronounce Your name.
+
+Praised be You, my Lord with all Your creatures
+Especially our brother, Master Sun
+Who brings the day and the light
+that warms us he that is beautiful and radiant
+In all his splendour!
+He brings meaning of You, O Most High..
+
+Praised be You, my Lord
+For Sister Moon and the Stars;
+In the heavens You have made them
+Precious and beautiful.
+Praised be You, my Lord
+Through Brothers Wind
+And air, and clouds and storms,
+And all the weather,
+Through which You give sustenance Your creatures.
+.
+Praised be You, my Lord
+For Sister Water;
+So very useful, and humble
+And precious, and chaste.
+Praised be You, my Lord
+For Brother Fire,
+Through whom you brighten the night.
+He who is beautiful and gay
+And vigorous and strong.
+
+Praised be You, my Lord
+For our sister Mother Earth
+Who feeds and governs us,
+And produces various fruits
+And coloured flowers and plants
+Praised be You, my Lord
+For those who forgive out of love for You;
+And endure sickness and trial.
+Happy those who endure in peace
+For by you, Most High, they shall be crowned.
+
+Praised be You, my Lord
+For our Sister Bodily Death,
+From whose embrace no living person can escape.
+Woe to those who die in mortal sin!
+Happy those she finds
+Doing your most holy will.
+The second death can do no harm to them!
+Praise and bless my Lord
+And give thanks
+And serve him with great humility.
+	</string>
+    <string name="oracao.espirito.santo.name">Prayer to the Holy Spirit</string>
+    <string name="oracao.espirito.santo">
 		Come Holy Spirit, fill the hearts of your
 		faithful
-		and enkindle in them the fire of Your love.
+		and kindle in them the fire of Your love.
 		\n
 		Send forth Thy Spirit and
 		they shall be created, and you renew the face of the earth.
@@ -409,33 +279,23 @@
 		\n
 		Amen
 	</string>
+    <string name="oracao.ato.contricao.name">Act of Contrition</string>
+    <string name="oracao.ato.contricao">
+		Forgive me my sins, O Lord, forgive me my sins;
+the sins of my youth, the sins of my age, the sins of my soul,
+the sins of my body; my idle sins, my serious voluntary sins;
+the sins I know, the sins I do not know; the sins I have concealed
+for so long, and which are now hidden from my memory.
 
-	<string name="oracao.ato.contricao.name">Act of Contrition</string>
-	<string name="oracao.ato.contricao">
-		My God, I repent with all my heart for you
-		Have
-		offended, because
-		you are so good and kind. I promise, with your
-		grace,
-		try me
-		be good. My Jesus, mercy!
-		\n
-		Mr.
-		my Jesus Christ, true God and man,
-		Creator and my Redeemer:
-		You because you are who you are, supremely
-		good and lovable about
-		all things, and because I love you and cherish,
-		weighs me, Lord,
-		all my heart, that he hath offended, I grieve also
-		have
-		lost heaven and deserved hell, and I suggest strongly, helped
-		with
-		the aid of Your divine grace, correct me and never Vos
-		make the
-		offense. I hope to obtain pardon of my sins by
-		Your infinite mercy.
-		\n
+I am truly sorry for every sin, mortal and venial,
+for all the sins of my childhood up to the present hour.
+
+I know my sins have wounded Thy Tender Heart,
+O My Savior, let me be freed from the bonds of evil through
+the most bitter Passion of My Redeemer. Amen.
+
+O My Jesus, forget and forgive what I have been. Amen. 
 		Amen
 	</string>
+
 </resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="donsEspiritoSanto">
+        <item> 1 - Fortress </item>
+        <item> 2 - Wisdom </item>
+        <item> 3 - Science </item>
+        <item> 4 - Council </item>
+        <item> 5 - Understanding </item>
+        <item> 6 - Mercy </item>
+        <item> 7 - Fear God </item>
+    </string-array>
+
+    <string name="fortaleza.descricao"> 
+		It is the gift to resist the lure, to be consistent with the Gospel, 
+		to take risks in the struggle for justice, not fear martyrdom. 
+		St. Paul relied on the gift of fortitude. He said: "If God is with us 
+		who can be against us? "(Romans 8:31). 
+    </string>
+    <string name="sabedoria.descricao"> 
+		It is the gift of perceiving right and wrong, 
+		which facilitates and hinders the design of God. 
+		For this gift does not seek the advantages of this world, but the 
+		Supreme Good Life, which fills our hearts with peace 
+		and makes us happy. Saith the Lord: 
+		"Blessed is the man who found the wisdom ... 
+		It is more valuable than pearls "(cf. Prov 3:13-15). 
+    </string>
+    <string name="ciencia.descricao"> 
+        It is the gift of knowing how to interpret and explain the Word of God. 
+        For this gift, the Holy Spirit reveals the inside 
+        God thought about us as "the mysteries of God 
+        Nobody knows, unless the Holy Spirit "(1 Cor 2.10 to 15). 
+    </string>
+    <string name="conselho.descricao"> 
+        It is the gift of discern paths and options, 
+        guide to know and listen, to animate the faith and 
+        the hope of the community. But the Lord 
+        told him: "Do not be impressed by his 
+        lovely aspect, because I have refused. 
+        The man sees is not what matters: the man sees 
+        face, but the Lord sees the heart "(1 Sam 16:7). 
+    </string>
+    <string name="entendimento.descricao"> 
+        It is the gift of God which enlightens us to accept the truths revealed by God. 
+		Even not understanding the mystery, we understand that there is our salvation, 
+		because it comes from God who is infallible. The Lord said: 
+		"I will give them an heart to know me and understand 
+		I am the Lord "(Jer. 24.7). 
+    </string>
+    <string name="piedade.descricao"> 
+        It is the gift of always being open to God\'s will, 
+        trying to act as Jesus would act and identifying 
+        next the face of Christ. 
+        It is the gift for which the Holy Spirit gives us a taste 
+        to love and serve God with joy. 
+        "The kingdom of God is not food and drink, 
+        but righteousness, peace and joy in the Holy Spirit "(Rom 14:17). 
+    </string>
+    <string name="temor.descricao"> 
+        It does not mean "fear of God" 
+        but fear of offending God. 
+        He is our best friend, 
+        We fear we will not 
+        returning the love that is owed. 
+        More than fear is respect and appreciation for God. 
+        "Hear, O Israel: the Lord our God is one Lord. 
+        Love the Lord your God with all thy heart, 
+        with all thy soul and with all thy strength "(Dt 6:4-5). 
+    </string>
+</resources>

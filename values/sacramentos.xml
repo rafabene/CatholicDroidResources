@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sacramentos">
+        <item> 1 - Baptism </item> 
+        <item> 2 - Confirmation or Chrismation </item> 
+        <item> 3 - Eucharist </item> 
+        <item> 4 - Reconciliation or Penance </item> 
+        <item> 5 - Anointing of the Sick </item> 
+        <item> 6 - Order </item> 
+        <item> 7 - Marriage </item> 
+    </string-array> 
+
+    <string name="batismo.descricao"> 
+        It was Jesus who commanded the church to baptize (Mt 28, 18\'20, Mark 16, 15\'17). 
+		Baptism makes a person participating in the death and resurrection (Rom 6, 3ff). Applies at the time the power of Jesus\' death to the child. She mystically die to sin, to the world, Satan, and is reborn to life in God (2 Corinthians 5:17). Jesus rescues a person in baptism by His blood and death (1 Peter 1, 18\'19) 
+		Baptism makes the baptized: 
+		\n 
+		- The son of God. 
+		\n 
+		- A member of Jesus Christ (1 Jn 15, 5S) (Church). 
+		\n 
+		- Heir of Heaven 
+		\n 
+		- Erases original sin and personal. 
+		\n \n 
+		No one can receive the other sacraments without being baptized. 
+		No one can be baptized more than once. 
+		In case of death of any person can baptize. 
+	</string> 
+    <string name="crisma.descricao"> 
+        It is the sacrament which confirms and complements the Baptism. 
+        It brings the Holy Spirit to the person laying on of hands by the Bishop, 
+        as did the apostles (Acts 8, 14\'17). 
+        The person is renewed in the Holy Spirit, 
+        to follow Jesus and to witness it with power (Acts 1:8) 
+        and sanctify it by its fruit (Gal 5.22) and 
+        Infused gifts (wisdom, knowledge, understanding, 
+        counsel, fortitude, piety and fear of God \'Is 11) 
+        and charismatic (1 Cor 12, 4S). 
+    </string><string name="eucaristia.descricao"> 
+         It is the body, blood, soul and divinity of Jesus present in the bread to be the remedy against sin and food for the soul. 
+         \n 
+         Jesus said: "This is my body ... my blood. " (Lk 22, 19ss, \'28 Mt 26.17, Mk 14.12 \'24) 
+         \n 
+         Speaking of the Mass is the celebration of the mystery of Redemption (Salvation). 
+         Mass updates, makes present, the same sacrifice of Jesus on Calvary, and the story continues. 
+         Celebrating the Mass is to participate in a bloodless way (without blood and pain) of the same sacrifice of Jesus. 
+         It is the sacrifice of the Lamb of God who takes away the sin of the world. Emphasize its importance to the spiritual life. 
+    </string><string name="confissao.descricao"> 
+        It is the sacrament of forgiveness and healing the wound of sin. 
+		\n 
+		It was the first sacrament that Jesus instituted after his resurrection, 
+		the same day. See (Jn 20.19 \'23) and accentuate the verse 23. The need to confess to the priest. 
+		It is necessary when there is a grave sin. Talk about sin. Something committed against God\'s law 
+		(The 10 commandments, etc. ...). For you must know there is sin, and want to do evil. 
+		\n 
+		The confession to the priest gives us a salutary humiliation and he guides us spiritually. 
+		He forgives the authority of Jesus, who paid the price for sin by his blood. 
+		\n 
+		For a good confession is necessary preparation: examination of conscience, 
+		repentance of sins, resolve not to sin, confession with the priest and fulfill the penance. 
+		\n 
+		You must confess with humility and sincerity (not hide anything from the confessor) 
+    </string>
+    <string name="uncaodosenfermos.descricao"> 
+        Sacrament for the seriously ill. 
+        Explore (James 5.13 \'16). The anointing is to heal the sick, not kill him. 
+        Prepare for death, if this is the will of God. 
+        Forgives all your sins, comforts him spiritually. 
+    </string>
+    <string name="ordem.descricao"> 
+		It is the sacrament of the priest. 
+		It was instituted by Jesus when he said to the apostles: "Do this in remembrance of me" in the Lord\'s Supper. 
+		The Order of the priest is another Jesus on earth to continue his mission of salvation, 
+		why is it that administers the sacraments, the authority of the Church. 
+	</string>
+	<string name="matrimonio.descricao"> 
+		It is the sacrament for the couple has the grace of God to take good care of your marriage and family life. 
+		It is the grace for the couple to grow each other and raise their children in the faith of God, overcoming all difficulties. 
+		(See Matthew 19: 3ff; Gen 1, 28; Gen 2:24) 
+	</string>
+ 
+
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="donsEspiritoSanto">
+        <item>1 - Fortaleza</item>
+        <item>2 - Sabedoria</item>
+        <item>3 - Ciência</item>
+        <item>4 - Conselho</item>
+        <item>5 - Entendimento</item>
+        <item>6 - Piedade</item>
+        <item>7 - Temor a Deus</item>
+    </string-array>
+
+    <string name="fortaleza.descricao">
+	     É o dom de resistir às seduções, de ser coerente com o Evangelho, 
+	     de enfrentar riscos na luta por justiça, de não temer o martírio. 
+	     São Paulo confiava no dom da fortaleza. Ele disse: "Se Deus está conosco, 
+	     quem será contra nós?" (Rm 8,31).
+	</string>
+    <string name="sabedoria.descricao">
+	    É o dom de perceber o certo e o errado, 
+	    o que favorece e o que prejudica o projeto de Deus. 
+	    Por este dom buscamos não as vantagens deste mundo, mas o 
+	    Bem Supremo da vida, que nos enche o coração de paz 
+	    e nos faz felizes. Diz o Senhor: 
+	    "Feliz o homem que encontrou a sabedoria... 
+	    Ela é mais valiosa do que as pérolas" (Cf. Pr 3,13-15).
+	</string>
+    <string name="ciencia.descricao">
+        É o dom de saber interpretar e explicar a Palavra de Deus. 
+        Por este dom, o Espírito Santo nos revela interiormente o 
+        pensamento de Deus sobre nós, pois "os mistérios de Deus 
+        ninguém os conhece, a não ser o Espírito Santo" (1 Cor 2,10-15).
+    </string>
+    <string name="conselho.descricao">
+        É o dom de saber discernir caminhos e opções, 
+        de saber orientar e escutar, de animar a fé e 
+        a esperança da comunidade. Mas o Senhor 
+        disse-lhe: "Não te deixes impressionar pelo seu 
+        belo aspecto, porque eu o rejeitei. 
+        O que o homem vê não é o que importa: o homem vê a 
+        face, mas o Senhor vê o coração" (1 Sm 16,7).
+    </string>
+    <string name="entendimento.descricao">
+        É o dom divino que nos ilumina para aceitar as verdades reveladas por Deus. 
+	    Mesmo não compreendendo o mistério, entendemos que ali está a nossa salvação, 
+	    porque procede de Deus, que é infalível. O Senhor disse: 
+	    "Eu lhes darei um coração capaz de me conhecer e de entender 
+	    que Eu sou o Senhor" (Jr 24,7).
+    </string>
+    <string name="piedade.descricao">
+        É o dom de estar sempre aberto à vontade de Deus, 
+        procurando agir como Jesus agiria e identificando 
+        no próximo o rosto de Cristo. 
+        É o dom pelo qual o Espírito Santo nos dá o gosto 
+        de amar e servir a Deus com alegria. 
+        "O Reino de Deus não consiste em comida e bebida, 
+        mas é justiça, paz e alegria no Espírito Santo" (Rm 14,17).
+    </string>
+    <string name="temor.descricao">
+        Não quer dizer "medo de Deus", 
+        mas medo de ofender a Deus. 
+        Sendo Ele o nosso melhor amigo, 
+        temos o receio de não lhe estarmos 
+        retribuindo o amor que lhe é devido. 
+        Mais do que temor, é respeito e estima por Deus. 
+        "Ouve, ó Israel! O Senhor, nosso Deus, é o único Senhor. 
+        Amarás o Senhor, teu Deus, de todo o teu coração, 
+        de toda a tua alma e com todas as tuas forças" (Dt 6,4-5).
+    </string>
+</resources>

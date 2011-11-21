@@ -55,22 +55,4 @@
 		</item>
 		<item>5 - Ajudar a Igreja em suas necessidades</item>
 	</string-array>
-	<string-array name="donsEspiritoSanto">
-		<item>1 - Fortaleza</item>
-		<item>2 - Sabedoria</item>
-		<item>3 - Ciência</item>
-		<item>4 - Conselho</item>
-		<item>5 - Entendimento</item>
-		<item>6 - Piedade</item>
-		<item>7 - Temor a Deus</item>
-	</string-array>
-	<string-array name="sacramentos">
-		<item>1 - Batismo</item>
-		<item>2 - Confirmação ou Crisma</item>
-		<item>3 - Eucaristia</item>
-		<item>4 - Reconciliação ou Penitência</item>
-		<item>5 - Unção dos enfermos</item>
-		<item>6 - Ordem</item>
-		<item>7 - Matrimônio</item>
-	</string-array>
 </resources>

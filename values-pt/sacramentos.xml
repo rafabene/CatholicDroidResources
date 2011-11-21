@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sacramentos">
+        <item>1 - Batismo</item>
+        <item>2 - Confirmação ou Crisma</item>
+        <item>3 - Eucaristia</item>
+        <item>4 - Reconciliação ou Penitência</item>
+        <item>5 - Unção dos enfermos</item>
+        <item>6 - Ordem</item>
+        <item>7 - Matrimônio</item>
+    </string-array>
+
+    <string name="batismo.descricao">
+        Foi Jesus quem mandou a Igreja batizar (Mt 28, 18´20 ; Mc 16, 15´17).
+		O Batismo faz a pessoa participar da morte e ressurreição de Jesus (Rom 6, 3ss). Aplica-se naquele momento o poder da morte de Jesus à criança. Ela morre misticamente para o pecado, para o mundo, Satanás, e renasce para a vida em Deus (2 Cor 5,17). Jesus resgata a pessoa, no Batismo pelo seu sangue e sua morte (1 Pe 1, 18´19)
+		O Batismo torna o batizado: 
+		\n
+		- filho de Deus.
+		\n
+		- membro de Jesus Cristo (1 Jo 15, 5ss) (Igreja).
+		\n
+		-herdeiro do Céu.
+		\n
+		-apaga o pecado original e os pessoais.
+		\n\n
+		Ninguém pode receber os outros sacramentos sem ser batizado. 
+		Ninguém pode ser batizado mais de uma vez.
+		Em caso de morte qualquer pessoa pode batizar.
+    </string>
+    <string name="crisma.descricao">
+        É o sacramento que confirma e complementa o Batismo. 
+        Traz o Espírito Santo à pessoa pela imposição das mãos do Bispo, 
+        como faziam os apóstolos (At 8, 14´17). 
+        A pessoa é renovada no Espírito Santo, 
+        para seguir Jesus e testemunhá-la com poder (At 1,8) 
+        e santificar se pelos seus frutos (Gal 5,22) e 
+        Dons infusos (sabedoria, ciência, entendimento, 
+        conselho, fortaleza, piedade e temor de Deus ´ Is 11) 
+        e carismáticos (1 Cor 12, 4ss).
+    </string>
+    <string name="eucaristia.descricao">
+         É o corpo, sangue, alma e divindade de Jesus presente no pão para ser nosso remédio contra o pecado e alimento para a alma.
+         \n
+         Jesus disse: ”Isto é o meu corpo... o meu sangue”. (Lc 22, 19ss ; Mt 26,17´28 ; Mc 14,12´24) 
+         \n
+         Falar da missa é a celebração do mistério da Redenção (Salvação). 
+         A missa atualiza, torna presente, o mesmo sacrifício de Jesus no Calvário, e o prolonga na história. 
+         Celebrar a missa é participar de maneira incruenta (sem sangue e dor) do mesmo sacrifício de Jesus. 
+         É a imolação do Cordeiro de Deus que tira o pecado do mundo. Enfatizar a sua importância para a vida espiritual.
+    </string>
+    <string name="confissao.descricao">
+        É o sacramento do perdão e da cura da ferida do pecado.
+		\n
+		Foi o primeiro sacramento que Jesus instituiu após a sua ressurreição, 
+		no mesmo dia. Veja (Jo 20,19´23) e acentue o versículo 23. A necessidade de se confessar com o padre. 
+		É necessário quando há pecado grave. Fale sobre o pecado. Algo que se comete contra a lei de Deus 
+		(os 10 mandamentos, etc...). Para haver pecado é preciso saber, querer e fazer o mal.
+		\n
+		A confissão com o padre nos dá uma salutar humilhação e ele nos orienta na vida espiritual. 
+		Ele perdoa pela autoridade de Jesus, que pagou o preço do pecado com o seu sangue.
+		\n
+		Para uma boa confissão é preciso preparação: exame de consciência, 
+		arrependimento dos pecados, propósito de não pecar, confissão com o padre e cumprir a penitência.
+		\n
+		É necessário confessar-se com humildade e sinceridade (não esconder nada do confessor)
+    </string>
+    <string name="uncaodosenfermos.descricao">
+        Sacramento para os enfermos graves. 
+        Explorar (Tg 5,13´16). A unção é para curar o enfermo, não para mata-lo. 
+        Prepara-o para a morte, se esta for a vontade de Deus. 
+        Perdoa todos os seus pecados, conforta-o espiritualmente.
+    </string>
+    <string name="ordem.descricao">
+	    É o sacramento do sacerdote. 
+	    Foi instituído por Jesus quando disse aos apóstolos: “Fazei isto em minha memória”, na Santa Ceia. 
+	    A Ordem faz do sacerdote um outro Jesus na terra a continuar a sua missão de salvação, 
+	    por isso é ele que ministra os sacramentos, com a autoridade da Igreja.
+	</string>
+    <string name="matrimonio.descricao">
+	    É o sacramento para que o casal tenha a graça de Deus para cuidar bem da sua vida conjugal e familiar. 
+	    É a graça para o casal crescer mutuamente e criar os filhos na fé de Deus, vencendo todas as dificuldades.
+	    (Veja Mt 19, 3ss ; Gen 1, 28 ; Gen 2,24)
+	</string>
+
+</resources>
