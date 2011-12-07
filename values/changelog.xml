@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="changelog">
+        <item>Included Prayer after Communion (Padre Pio)</item>
+        <item>Included Prayer Remember (St. Bernard)</item>
+        <item>Included Prayer Devotion to the Five Wounds Jesus Christ</item>
+        <item>Included Prayer Magnificat</item>
+        <item>Included Prayer Holy angel of the Lord</item>
+        <item>Included Litany of Our Lady</item>
+        <item>In rosary, by clicking the mystery, is shown a corresponding picture</item>
+    </string-array>
+
+</resources>

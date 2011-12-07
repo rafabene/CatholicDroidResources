@@ -2,15 +2,24 @@
 <resources>
 	<string name="oracao.santoexpedito.name">Oração a Santo Expedito</string>
 	<string name="oracao.santoexpedito">
-		Meu Santo Expedito das Causas Justas e Urgentes, Socorrei-me nesta Hora
-		de Aflição e Desespero, intercedei por mim junto ao Nosso Senhor JESUS
-		CRISTO! Vós que sois um Santo Guerreiro. Vós que sois o Santo dos
-		Aflitos. Vós que sois o Santo dos Desesperados, Vós que sois o Santo
-		das Causas Urgentes, Protegei-me, Ajudai-me, Dai-me Força, Coragem e
-		Serenidade. Atendei ao meu pedido (pedido). Ajudai-me a superar estas
-		Horas Difíceis, protegei-me de todos que possam me prejudicar,
-		Protegei a Minha Família, atendei ao meu pedido com urgência.
-		Devolvei-me a Paz e a Tranqüilidade. Serei grato pelo resto de minha
+		Meu Santo Expedito das Causas Justas e Urgentes,
+		Socorrei-me nesta Hora
+		de Aflição e Desespero, intercedei por mim junto
+		ao Nosso Senhor JESUS
+		CRISTO! Vós que sois um Santo Guerreiro. Vós que
+		sois o Santo dos
+		Aflitos. Vós que sois o Santo dos Desesperados, Vós
+		que sois o Santo
+		das Causas Urgentes, Protegei-me, Ajudai-me, Dai-me
+		Força, Coragem e
+		Serenidade. Atendei ao meu pedido (pedido). Ajudai-me
+		a superar estas
+		Horas Difíceis, protegei-me de todos que possam me
+		prejudicar,
+		Protegei a Minha Família, atendei ao meu pedido com
+		urgência.
+		Devolvei-me a Paz e a Tranqüilidade. Serei grato pelo resto
+		de minha
 		vida e levarei seu nome a todos que tem fé. Obrigado.
 	</string>
 	<string name="oracao.meninojesusdepraga.name">Oração ao Menino Jesus de Praga</string>
@@ -362,5 +371,323 @@
 		Vossa infinita misericórdia.
 		\n
 		Amém
+	</string>
+
+	<string name="oracao.padrePio.name">Oração para após a comunhão (Padre Pio)</string>
+	<string name="oracao.padrePio">
+		Fica, Senhor, comigo, porque é necessária a Tua
+		presença para não Te
+		ofender.Tu sabes quão facilmente Te abandono.Fica,
+		Senhor, comigo,
+		pois sou fraco e preciso da Tua força para não cair
+		tantas vezes.Fica,
+		Senhor, comigo, porque Tu és a minha vida e sem Ti
+		esmoreço no
+		fervor.Fica, Senhor, comigo, porque Tu és a minha luz e sem
+		Ti
+		permaneço nas trevas.Fica, Senhor, comigo, para me dares a conhecer
+		a
+		Tua vontade.Fica, Senhor, comigo, para que ouça a Tua voz e Te
+		siga.Fica, Senhor, comigo, pois desejo amar-Te muito e estar sempre na
+		Tua companhia.Fica, Senhor, comigo, se queres que Te seja fiel.Fica,
+		Senhor, comigo, pois embora a minha alma seja muito pobrezinha, deseja
+		ser para Ti um lugar de consolação, um sacrário de amor.Fica, Senhor,
+		comigo, pois é tarde e o dia está a declinar, isto é: passa a vida,
+		aproxima-se a morte, o juízo e a eternidade, e é necessário redobrar
+		as minhas forças, para que não desfaleça no caminho, e, para tanto,
+		preciso de Ti.Faz-se tarde e avizinha-se a morte!...Afligem-me as
+		trevas, as tentações, as securas, as penas e as cruzes!Tenho
+		necessidade de Ti nesta noite de exílio.Fica, Senhor, comigo, porque,
+		nesta noite da vida e dos perigos, preciso de Ti.Que eu Te conheça,
+		Senhor, como os Teus discípulos ao partir do pão, isto é: que a união
+		eucarística seja a luz que dissipe as minhas trevas, a força que me
+		sustenta e a única felicidade do meu coração.Fica, Senhor, comigo,
+		pois, quando chegar a morte, quero estar unido a Ti; se não puder ser
+		de modo sacramental pela sagrada comunhão, ao menos pela graça e pelo
+		amor.Fica, Senhor, comigo.Não Te peço a Tua divina consolação, pois
+		não a mereço, mas o Dom da Tua presença santíssima.Oh!, Sim, isso Te
+		peço.Fica, Senhor, comigo.Só Te procuro a Ti, o Teu amor, a Tua graça,
+		a Tua vontade, o Teu coração, o Teu espírito, porque Te amo, e não Te
+		peço outra recompensa além do aumento deste amor.Amor sólido e
+		prático.Amar-Te de todo o coração na terra, para continuar a amar-Te
+		perfeitamente por toda a eternidade.
+	</string>
+	<string name="oracao.lembraivos.name">Lembrai-vos (São Bernardo)</string>
+	<string name="oracao.lembraivos">
+		Lembrai-Vos, ó piíssima Virgem Maria,
+		que nunca se
+		ouviu dizer
+		que algum daqueles
+		que têm recorrido à vossa protecção,
+		implorado a vossa assistência,
+		e reclamado o vosso socorro,
+		fosse por
+		Vós desamparado.
+		Animado eu, pois, de igual confiança,
+		a Vós, Virgem
+		entre todas singular,
+		como a Mãe recorro,
+		de Vós me valho e,
+		gemendo sob
+		o peso dos meus pecados,
+		me prostro aos Vossos pés.
+		Não desprezeis as
+		minhas súplicas,
+		ó Mãe do Filho de Deus humanado,
+		mas dignai-Vos
+		de as
+		ouvir propícia
+		e de me alcançar o que Vos rogo.
+		\n
+		Amen.
+	</string>
+	<string name="oracao.cincoChagas.name">Devoção as Cinco Chagas Jesus Cristo</string>
+	<string name="oracao.cincoChagas">
+		Oração inicial
+		\n
+		Ao estar de joelhos ante vossa
+		imagem sagrada.
+		Oh! Salvador meu, minha consciência me diz que eu tenho
+		sido eu que vos
+		cravou na cruz, com estas minhas mãos, todas as vezes
+		que tenho ousado
+		cometer um pecado mortal. Deus meu, meu amor e meu
+		tudo, digno de toda
+		adoração e amor, vendo como tantas vezes me haveis
+		cumulado de
+		bençãos, me acho de joelhos, convencido de que ainda posso
+		reparar as
+		injúrias com que vos tenho ofendido.
+		Ao menos posso me
+		compadecer, posso dar-Vos graças por todo o que haveis
+		feito por mim.
+		Perdoai-me, Senhor meu.
+		Por isso com o coração e com os lábios digo:
+		Perdoai-me, Senhor meu.
+		\n\n
+		A Chaga do Pé Esquerdo:
+		\n
+		Santíssima Chaga
+		do pé esquerdo de meu Jesus, Vos adoro.
+		Me dói, Bom Jesus, ver-Vos
+		sofrer aquela pena dolorosa.
+		Vos dou graças, Oh! Jesus de minha alma,
+		porque haveis sofrido tão
+		atrozes dores para deter-me em minha carrera
+		ao precipício,
+		sofrendo-Vos a causa dos pulsantes espinhos de meus
+		pecados.
+		Ofereço ao Eterno Pai, o sofrimento e o amor de vossa
+		santíssima Humanidade
+		para ressarcir meus pecados, que detesto com
+		sincera contrição.
+		\n\n
+		A Chaga do Pé Direito:
+		\n
+		Santíssima Chaga do pé
+		direito de meu Jesus, Vos adoro.
+		Me dói, Bom
+		Jesus, de ver-Vos sofrer
+		tão dolorosa pena. Vós dou graças,
+		Oh! Jesus
+		de minha vida, por aquele
+		amor que sofreu tão atrozes dores,
+		derramando sangue para castigar meus
+		desejos pecaminosos e andadas em
+		pró do prazer.
+		Ofereço ao Eterno Pai, o
+		sofrimento e o amor de vossa
+		santíssima Humanidade,
+		e peço a graça de
+		chorar minhas transgressões e
+		de perseverar no
+		caminho do bem, cumprindo
+		fidelíssimamente os
+		mandamentos de Deus.
+		\n\n
+		A Chaga da Mão Esquerda:
+		\n
+		Santíssima Chaga da mão
+		esquerda de meu Jesus, Vos adoro.
+		Me dói, Bom
+		Jesus, de ver-Vos sofrer
+		tão dolorosa pena.
+		Vós dou graças, Oh! Jesus de
+		minha vida, porque por
+		vosso amor me haveis
+		livrado a mim de sofrer a
+		flagelação e a eterna
+		condenação, que tenho
+		merecido por causa de meus
+		pecados.
+		Ofereço ao
+		Eterno Pai, o sofrimento e o amor de vossa
+		santíssima Humanidade e
+		suplico me ajude a fazer bom uso de minhas
+		forças e de minha vida,
+		para produzir frutos dignos da glória e vida
+		eterna e assim desarmar a
+		justa ira de Deus.
+		\n\n
+		A Chaga da Mão Direita:
+		\n
+		Santíssima Chaga da mão
+		direita de meu Jesus, Vos adoro.
+		Me dói, Bom
+		Jesus, de ver-Vos sofrer
+		tão dolorosa pena.
+		Vós dou graças, Oh! Jesus de
+		minha vida, por ter-me
+		acumulado de
+		benefícios e graças, e isso a pesar
+		de minha obstinação no
+		pecado.
+		Ofereço ao Eterno Pai o sofrimento e o
+		amor de vossa santíssima
+		Humanidade e suplico me ajude a fazer tudo
+		para maior honra e Glória
+		de Deus.
+		\n\n
+		A Chaga do Sacratíssimo Peito:
+		\n
+		Santíssima Chaga do Sacratíssimo
+		Peito de meu Jesus, Vos adoro.
+		Me dói,
+		Bom Jesus, de ver-Vos sofrer tão
+		grande injúria.
+		Vós dou graças, Oh! Bom
+		Jesus, pelo o amor que me
+		tendes, ao permitir que
+		Vos abrissem o peito,
+		com uma lançada e assim
+		derramar a última gota
+		de sangue, para
+		redimir-me.
+		Ofereço ao Eterno Pai
+		esta oferta e o amor de vossa
+		santíssima Humanidade,
+		para que minha
+		alma possa encontrar em vosso
+		coração transpassado um
+		seguro Refúgio.
+		\n
+		Amem
+	</string>
+	<string name="oracao.magnificat.name">Magnificat</string>
+	<string name="oracao.magnificat">
+		A minha alma engrandece ao meu Senhor
+		E meu espírito
+		exulta de alegria em Deus, meu Salvador!
+		Porque olhou para a humildade
+		de sua pobre serva;
+		doravante todas as gerações me chamarão bendita,
+		Porque o Poderoso fez em mim maravilhas, Santo é o seu nome!
+		Manifestou o poder do seu braço
+		Desconcertou os corações dos soberbos
+		Derrubou do trono os poderosos,
+		e exaltou os humildes.
+		Saciou de bens os
+		famintos,
+		e despediu os ricos de mãos vazias.
+		Acolheu a Israel, seu
+		servo,
+		lembrado de sua misericórdia;
+		conforme prometera a nossos pais,
+		em favor de Abraão e de sua posteridade, para sempre.
+		Glória ao Pai, ao
+		Filho, e ao Espírito Santo.
+		Assim como era no princípio, agora e
+		sempre, Amém.
+		O poderoso fez em mim maravilhas, Santo é o seu nome!
+	</string>
+	<string name="oracao.santoAnjo.name">Santo anjo do Senhor</string>
+	<string name="oracao.santoAnjo">
+		Santo anjo do Senhor
+		meu zeloso guardador.
+		Se a ti me
+		confiou a piedade divina,
+		sempre me rege,
+		me guarde,
+		me governe,
+		me
+		ilumine.
+		\n
+		Amém.
+	</string>
+	<string name="oracao.ladainhaNossaSenhora.name">Ladainha de Nossa Senhora</string>
+	<string name="oracao.ladainhaNossaSenhora">
+		Senhor, tende piedade de nós. \n
+		Jesus Cristo, tende piedade de nós.\n
+		Senhor, tende piedade de nós.\n
+		Jesus Cristo, ouvi-nos.\n
+		Jesus Cristo, atendei-nos.\n
+		Pai Celeste que sois Deus, tende piedade de nós.\n
+		Filho Redentor do mundo que sois Deus, tende piedade de nós.\n
+		Espírito Santo que sois Deus, tende piedade de nós.\n
+		Santíssima Trindade que sois um só Deus, tende piedade de nós.\n
+		Santa Maria, rogai por nós.\n
+		Santa Mãe de Deus,\n
+		Santa Virgem das virgens,\n
+		Mãe de Jesus Cristo,\n
+		Mãe da divina graça,\n
+		Mãe puríssima,\n
+		Mãe castíssima,\n
+		Mãe Imaculada,\n
+		Mãe intemerata,\n
+		Mãe amável,\n
+		Mãe admirável,\n
+		Mãe do bom conselho,\n
+		Mãe do Criador,\n
+		Mãe do Salvador,\n
+		Virgem prudentíssima,\n
+		Virgem venerável,\n
+		Virgem louvável,\n
+		Virgem poderosa,\n
+		Virgem clemente,\n
+		Virgem fiel,\n
+		Espelho de justiça,\n
+		Sede da sabedoria,\n
+		Causa da nossa alegria,\n
+		Vaso espiritual,\n
+		Vaso digno de honra,\n
+		Vaso insigne de devoção,\n
+		Rosa mística,\n
+		Torre de David,\n
+		Torre de marfim,\n
+		Casa de ouro,\n
+		Arca da aliança,\n
+		Porta do Céu,\n
+		Estrela da manhã,\n
+		Saúde dos enfermos,\n
+		Refúgio dos pecadores,\n
+		Consoladora dos aflitos,\n
+		Auxílio dos cristãos,\n
+		Rainha dos Anjos,\n
+		Rainha dos Patriarcas,\n
+		Rainha dos Profetas,\n
+		Rainha dos Apóstolos,\n
+		Rainha dos Mártires,\n
+		Rainha dos Confessores,\n
+		Rainha das Virgens,\n
+		Rainha de todos os santos,\n
+		Rainha concebida sem pecado original,\n
+		Rainha assunta ao Céu,\n
+		Rainha do sacratíssimo Rosário,\n
+		Rainha da Paz,\n
+		\n\n
+		Cordeiro de Deus que tirais os pecados do mundo, perdoai-nos Senhor.\n
+		Cordeiro de Deus que tirais os pecados do mundo, ouvi-nos Senhor.\n
+		Cordeiro de Deus que tirais os pecados do mundo, tende piedade de nós.\n
+		\n\n
+		Rogai por nós, santa Mãe de Deus.
+		\n
+		Para que sejamos dignos das promessas de Cristo.
+		\n\n
+		Oremos. Senhor Deus, nós Vos suplicamos que concedais aos Vossos servos
+		perpétua saúde de alma e de corpo; e que, pela gloriosa intercessão da
+		bem-aventurada sempre Virgem Maria, sejamos livres da tristeza do
+		século e gozemos da eterna alegria. Por Cristo Nosso Senhor. 
+		\n
+		Amém.
 	</string>
 </resources>

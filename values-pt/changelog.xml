@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="changelog">
+        <item>Incluído Oração para após a comunhão (Padre Pio)</item>
+        <item>Incluído Oração Lembrai-vos (São Bernardo)</item>
+        <item>Incluído Oração de Devoção as Cinco Chagas Jesus Cristo</item>
+        <item>Incluído Oração Magnificat</item>
+        <item>Incluído Oração Santo anjo do Senhor</item>
+        <item>Incluído Ladainha de Nossa Senhora</item>
+        <item>No terço, ao se clicar no mistério, é mostrado uma figura correspondente</item>
+    </string-array>
+
+</resources>
