@@ -2,15 +2,11 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Incluído Oração para após a comunhão (Padre Pio)</item>
-        <item>Incluído Oração Lembrai-vos (São Bernardo)</item>
-        <item>Incluído Oração de Devoção as Cinco Chagas Jesus Cristo</item>
-        <item>Incluído Oração Magnificat</item>
-        <item>Incluído Oração Santo anjo do Senhor</item>
-        <item>Incluído Ladainha de Nossa Senhora</item>
         <item>No terço, ao se clicar no mistério, é mostrado uma figura correspondente</item>
         <item>Adcionado descrição para os Sacramentos</item>
         <item>Adcionado descrição para os Dons do Espírito Santo</item>
+        <item>Incluido orações sugeridas</item>
+        <item>Tradução da Bíblia para Inglês e Espanhol</item>
     </string-array>
 
 </resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sacramentos">
+        <item>1 - Bautismo</item>
+        <item>2 - Confirmación o Crismación</item>
+        <item>3 - Eucaristía</item>
+        <item>4 - Reconciliación o Penitencia</item>
+        <item>5 - Unción de los enfermos</item>
+        <item>6 - Orden</item>
+        <item>7 - Matrimonio</item>
+    </string-array>
+
+    <string name="batismo.descricao"> 
+        Jesús era el que mandaba a la iglesia a bautizar (Mt 28, 18\'20, Marcos 16, 15\'17). 
+		El Bautismo hace de una persona que participa en la muerte y resurrección (Rom 6, 3 ss). Se aplica en el momento en poder de la muerte de Jesús a los niños. Ella místicamente morir al pecado, al mundo, Satanás, y renace a la vida en Dios (2 Corintios 5:17). Jesús rescata a una persona en el bautismo por medio de su sangre y la muerte (1 Pedro 1, 18\'19) 
+		El Bautismo hace de los bautizados: 
+		\n
+		- El hijo de Dios. 
+		\n
+		- Un miembro de Cristo (1 Jn 15, 5S) (Iglesia). 
+		\n
+		Heredero del cielo 
+		\n
+		, Borra el pecado original y personal. 
+		\n\n
+		Nadie puede recibir los demás sacramentos sin ser bautizados. 
+		Nadie puede ser bautizado más de una vez. 
+		En caso de muerte de cualquier persona puede bautizar. 
+    </string> 
+    <string name="crisma.descricao"> 
+        Es el sacramento que confirma y complementa el bautismo. 
+        Con él, el Espíritu Santo a la persona que la imposición de manos por el obispo, 
+        como lo hicieron los apóstoles (Hechos 8, 14\'17). 
+        La persona se renueva en el Espíritu Santo, 
+        seguir a Jesús y para ser testigo con poder (Hechos 1:8) 
+        y lo santificarás, por sus frutos (Gal 5,22) y 
+        Regalos infusión (sabiduría, conocimiento, comprensión, 
+        consejo, fortaleza, piedad y temor de Dios "es 11) 
+        y carismática (1 Cor 12, 4S). 
+    </string> 
+    <string name="eucaristia.descricao"> 
+         Es el cuerpo, sangre, alma y divinidad de Jesús presente en el pan para ser el remedio contra el pecado y alimento para el alma. 
+         \n
+         Jesús dijo: "Esto es mi cuerpo ... mi sangre. " (Lc 22, 19ss, \'28 Mt 26,17, Mc 14,12 \'24) 
+         \n
+         Hablando de la Misa es la celebración del misterio de la Redención (Salvación). 
+         Actualizaciones en masa, hace presente, el mismo sacrificio de Jesús en el Calvario, y continúa la historia. 
+         Celebración de la Misa es participar de una manera incruenta (sin sangre y dolor) del mismo sacrificio de Jesús. 
+         Es el sacrificio del Cordero de Dios que quita el pecado del mundo. Destacar su importancia para la vida espiritual. 
+    </string> 
+    <string name="confissao.descricao"> 
+        Es el sacramento del perdón y la curación de la herida del pecado. 
+		\n
+		Fue el primer sacramento que Jesús instituyó después de su resurrección, 
+		el mismo día. Ver (Jn 20,19 \'23) y acentuar el versículo 23. La necesidad de confesar al sacerdote. 
+		Es necesario cuando hay un pecado grave. Discusión sobre el pecado. Algo cometidos contra la ley de Dios 
+		(Los 10 mandamientos, etc ...). Porque has de saber que es el pecado, y quiere hacer el mal. 
+		\n
+		La confesión ante el sacerdote nos da una humillación saludable y nos guía espiritual. 
+		Él perdona a la autoridad de Jesús, que pagó el precio por el pecado con su sangre. 
+		\n
+		Para una buena confesión es una preparación necesaria: examen de conciencia, 
+		arrepentimiento de los pecados, propósito de no pecar, la confesión con el sacerdote y cumplir la penitencia. 
+		\n
+		Usted debe confesar con humildad y sinceridad (no ocultar nada por parte del confesor) 
+    </string> 
+    <string name="uncaodosenfermos.descricao"> 
+        Sacramento para los enfermos graves. 
+        Explora (Santiago 5.13 \'16). La unción es para curar a los enfermos, no matarlo. 
+        Prepararse para la muerte, si ésta es la voluntad de Dios. 
+        Perdona todas tus iniquidades, lo conforta espiritualmente. 
+    </string> 
+    <string name="ordem.descricao"> 
+		Es el sacramento del sacerdote. 
+		Fue instituido por Jesús cuando dijo a los apóstoles: "Haced esto en memoria mía" en la Cena del Señor. 
+		La Orden del sacerdote es otro Jesús en la tierra para continuar su misión de salvación, 
+		¿cómo es que administra los sacramentos, la autoridad de la Iglesia. 
+	</string> 
+    <string name="matrimonio.descricao"> 
+		Es el sacramento de la pareja tiene la gracia de Dios para cuidar bien de su matrimonio y vida familiar. 
+		Es la gracia de la pareja a crecer entre ellos y criar a sus hijos en la fe de Dios, venciendo todas las dificultades. 
+		(Ver Mateo 19: 3 ss; Gen 1, 28; Gen 2:24) 
+    </string>
+
+</resources>

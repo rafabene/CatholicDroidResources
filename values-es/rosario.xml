@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="terco">Rosario</string>
+	<string name="terco.oferecimento.title">Oferta</string>
+	<string name="terco.agradecimento.title">Gracias</string>
+	<string name="terco.sinalCruzeCreio">Regístrate de la Cruz y el Credo </string>
+	<string name="terco.aveMaria1">Ave Maria 1</string>
+	<string name="terco.aveMaria2">Ave Maria 2</string>
+	<string name="terco.aveMaria3">Ave Maria 3</string>
+	<string name="terco.GloriaPainosso">Padre Nuestro y el Gloria</string>
+	<string name="terco.contemplacao">Contemplar este misterio: </string>
+	<string name="terco.jaculatoria"> Oh Jesús mío! Perdónanos y sálvanos del fuego del 
+		el infierno. Lleva todas las almas al cielo y socorro, especialmente 
+		que más lo necesitan. 
+	</string>
+	<string name="terco.oferecimento">Divino Jesús, te ofrecemos este rosario que 
+		oremos, meditando en los misterios de tu redención. Concédenos, 
+		a través de la intercesión de la Virgen María, Madre de Dios y Madre nuestra, las virtudes 
+		estamos obligados a recitar bien y ganar la gracia de 
+		indulgencias de la santa devoción. 
+	</string>
+	<string name="terco.agradecimento">
+		Infinitas gracias te doy, reina soberana, por 
+		beneficios durante todo el día 
+		Los liberales recibieron en sus manos. 
+		Dígnate ahora y para siempre 
+		nos llevan en su poderosa 
+		más apoyo y que nos exigen 
+		la bienvenida con un Ave María ... 
+	</string>
+	<string name="terco.selecioneMisterio">Seleccione la misterio (por defecto: El misterio del día) 
+	</string>
+	<string name="terco.misterioOrdinal">º Misterio</string>
+	<string-array name="terco_misterios">
+		<item>Mistérios Gozosos</item>
+		<item>Mistérios de la Luz</item>
+		<item>Mistérios Dolorosos</item>
+		<item>Mistérios Gloriosos</item>
+	</string-array>
+	<string-array name="misterios_gozoso">
+		<item> Anunciación del ángel Gabriel a la Virgen Santa</item>
+		<item>Visita de la Virgen a Santa Isabel </item>
+		<item>Nacimiento de Jesús en Belén </item>
+		<item>Presentación del Niño Jesús en el templo</item>
+		<item>Reunión Jesús en el templo entre los doctores de la ley </item>
+	</string-array>
+	<string-array name="misterios_dolorosos">
+		<item>Muertos agonía de Jesús en el Huerto de los Olivos</item>
+		<item>Flagelación de Jesús atado a la columna</item>
+		<item>Coronación de espinas de Jesús por sus captores</item>
+		<item>Subida al Calvario dolorosa</item>
+		<item>Crucifixión de Jesús</item>
+	</string-array>
+	<string-array name="misterios_gloriosos">
+		<item>Resurrección de Nuestro Señor Jesucristo</item>
+		<item>Gloriosa ascensión de Jesús al cielo </item>
+		<item>Venida del Espíritu Santo sobre los apóstoles</item>
+		<item>Gloriosa Asunción de Nuestra Señora a los cielos </item>
+		<item>Coronación de la Virgen en el cielo</item>
+	</string-array>
+	<string-array name="misterios_luminosos">
+		<item>Bautismo del Señor en el Jordán</item>
+		<item>Bodas de Caná</item>
+		<item>La proclamación del Reino</item>
+		<item>La Transfiguración de Jesús</item>
+		<item>Institución de la Eucaristía</item>
+	</string-array>
+</resources>

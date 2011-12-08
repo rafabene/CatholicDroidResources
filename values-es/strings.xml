@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Catholic Droid</string>
+	<string name="biblia">Bíblia</string>
+	<string name="ok">Ok</string>
+	<string name="fechar">Carca</string>
+	<string name="dezmandamentos">Diez Mandamientos</string>
+	<string name="sair">Salida</string>
+	<string name="voltar">Volver</string>
+	<string name="enviar">Enviar</string>
+	<string name="fim">Final</string>
+	<string name="inicio">Primero</string>
+	<string name="sim">Sí</string>
+	<string name="nao">No</string>
+	<string name="aguarde">Espere cadena...</string>
+	<string name="ultimasAtualizacoes">Últimas actualizaciones</string>
+	<string name="mandamentosIgreja">Mandamientos de la Iglesia</string>
+	<string name="oracoes">Oraciones</string>
+	<string name="donsespiritosanto">Regalos del Espíritu Santo</string>
+	<string name="sacramentos">Sacramentos</string>
+	<string name="antigotestamento">Antiguo Testamento</string>
+	<string name="novotestamento">Nuevo Testamento </string>
+	<string name="sugerirOracao">Sugerir una oración</string>
+	<string name="sugestaoEnviada">Sugerencia Publicado</string>
+	<string name="dialogSelecionaCapitulo">Seleccione o Capítulo</string>
+	<string name="avisoGestoNaoReconhecido">Gesto no reconocido</string>
+	<string name="avisoToqueTituloBiblia">Pulse el título para ver el libro en la Biblia o a
+		continuación, arrastre hacia la izquierda o la derecha
+	</string>
+	<string name="avisoSugerirOracao">Haga clic en el menú para sugerir una nueva oración
+	</string>
+	<string name="avisoTerco">Toque el rezo del rosario para acompañar</string>
+	<string name="traducao">Traducción</string>
+
+
+
+
+	<string-array name="dezmandamentos">
+		<item>1 - Amar a Dios sobre todas las cosas</item>
+		<item>2 - No tomar su santo nombre en vano</item>
+		<item>3 - Guardar los domingos y festivos de guardia</item>
+		<item>4 - Honrarás a tu padre ya tu madre</item>
+		<item>5 - No matar</item>
+		<item>6 - No cometerás actos impuros</item>
+		<item>7 - No robar</item>
+		<item>8 - No levantarás falso testimonio</item>
+		<item>9 - Usted no quiere que la mujer de tu prójimo</item>
+		<item>10 - No codiciarás las cosas de los demás </item>
+	</string-array>
+	<string-array name="mandamentosIgreja">
+		<item>1 - Asistir a Misa los domingos y otras partes
+			guardia y se
+			abstengan de las ocupaciones laborales
+		</item>
+		<item>2 - Confesar al menos una vez al año</item>
+		<item>3 - Recibir el sacramento de la Eucaristía, al menos durante la
+			Semana Santa
+			resurrección
+		</item>
+		<item>4 - Rápido y abstenerse de comer carne, como manda la Santa
+			Madre
+		</item>
+		<item>5 - Ayuda a la Iglesia en sus necesidades </item>
+	</string-array>
+</resources>
