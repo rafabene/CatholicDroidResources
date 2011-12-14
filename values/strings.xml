@@ -3,6 +3,8 @@
 
     <string name="app_name">Catholic Droid</string>
     <string name="biblia">Bible</string>
+    <string name="avancar">Forward</string>
+	<string name="retroceder">Rewind</string>
     <string name="ok">Ok</string>
     <string name="fechar">Close</string>
     <string name="dezmandamentos">Ten Commandments</string>

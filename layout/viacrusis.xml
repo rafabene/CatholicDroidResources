@@ -3,24 +3,22 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="vertical" >
-
-    <include
-        android:id="@+id/include1"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        layout="@layout/actionbar" />
+    
+    <include layout="@layout/actionbar"/>
 
     <LinearLayout
+        android:id="@+id/linearLayout1"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:background="@drawable/background"
-        android:orientation="vertical" >
-
-        <ListView
-            android:id="@+id/listViewOpcao"
+        android:orientation="vertical" 
+        android:background="@drawable/background">
+        
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viaCrusisViewPager"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent" >
-        </ListView>
+            
+        </android.support.v4.view.ViewPager>
     </LinearLayout>
 
 </LinearLayout>

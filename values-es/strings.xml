@@ -2,6 +2,8 @@
 <resources>
 	<string name="app_name">Catholic Droid</string>
 	<string name="biblia">Bíblia</string>
+	<string name="avancar">Avance</string>
+	<string name="retroceder">Rebobinar</string>
 	<string name="ok">Ok</string>
 	<string name="fechar">Carca</string>
 	<string name="dezmandamentos">Diez Mandamientos</string>
