@@ -3,10 +3,11 @@
 
     <string-array name="changelog">
         <item>No terço, ao se clicar no mistério, é mostrado uma figura correspondente</item>
-        <item>Adcionado descrição para os Sacramentos</item>
-        <item>Adcionado descrição para os Dons do Espírito Santo</item>
+        <item>Adicionado descrição para os Sacramentos</item>
+        <item>Adicionado descrição para os Dons do Espírito Santo</item>
         <item>Incluido orações sugeridas</item>
         <item>Tradução da Bíblia para Inglês e Espanhol</item>
+        <item>Bíblia com botões de navegação</item>
     </string-array>
 
 </resources>

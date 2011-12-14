@@ -3,7 +3,5 @@
 	<color name="splash.background">#FFFFFF</color>
 	<color name="splash.fontColor">#FF0000</color>
 	<color name="fontColor">#312A25</color>
-	<color name="background.Clicked">#F6841E</color>
-	<color name="background.NotClicked">#000000</color>
 	<color name="transparente">#00000000</color>
 </resources>

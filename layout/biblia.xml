@@ -48,8 +48,10 @@
                                 android:layout_gravity="center"
                                 android:visibility="gone" >
                             </ProgressBar>
-                            
-                            
+
+                            <include
+                                android:id="@+id/botoesNavegacao"
+                                layout="@layout/biblia_navigation" />
                         </LinearLayout>
                     </ScrollView>
                 </FrameLayout>
