@@ -2,12 +2,7 @@
 <resources>
 
     <string-array name="changelog">
-        <item>In rosary, by clicking the mystery, is shown a corresponding picture</item>
-        <item>Added description for Sacraments</item>
-        <item>Added description for Gifts of the Holy Spirit</item>
-        <item>Inclued many suggested prayers</item>
-        <item>Bible with English and Spanish translations</item>
-        <item>Biblia with navigation buttons</item>
+        <item>Way of Cross</item>
     </string-array>
 
 </resources>
