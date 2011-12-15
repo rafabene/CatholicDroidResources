@@ -2,6 +2,7 @@
 <resources>
 
     <string-array name="changelog">
+        <item>Improved navigation of the Bible</item>
         <item>Way of Cross</item>
     </string-array>
 

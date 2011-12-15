@@ -2,6 +2,7 @@
 <resources>
 
     <string-array name="changelog">
+        <item>Melhorado navegação da Bília</item>
         <item>Via Crucis</item>
     </string-array>
 
