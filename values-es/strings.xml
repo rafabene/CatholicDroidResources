@@ -26,6 +26,11 @@
 	<string name="sugerirOracao">Sugerir una oración</string>
 	<string name="sugestaoEnviada">Sugerencia Publicado</string>
 	<string name="dialogSelecionaCapitulo">Seleccione o Capítulo</string>
+	<string name="dialogSelecioneTraducao">
+		Por favor, seleccione la traducción que desea
+		utilizar
+	</string>
+
 	<string name="avisoGestoNaoReconhecido">Gesto no reconocido</string>
 	<string name="avisoToqueTituloBiblia">Pulse el título para ver el libro en la Biblia o a
 		continuación, arrastre hacia la izquierda o la derecha

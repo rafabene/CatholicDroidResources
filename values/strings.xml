@@ -4,8 +4,8 @@
     <string name="app_name">Catholic Droid</string>
     <string name="biblia">Bible</string>
     <string name="avancar">Forward</string>
-	<string name="retroceder">Rewind</string>
-	<string name="meditacao">Meditation</string>
+    <string name="retroceder">Rewind</string>
+    <string name="meditacao">Meditation</string>
     <string name="ok">Ok</string>
     <string name="fechar">Close</string>
     <string name="dezmandamentos">Ten Commandments</string>
@@ -27,6 +27,9 @@
     <string name="sugerirOracao">Suggest a Prayer</string>
     <string name="sugestaoEnviada">Suggestion Posted successfully </string>
     <string name="dialogSelecionaCapitulo">Select Chapter</string>
+    <string name="dialogSelecioneTraducao">
+	Please, select the Translation that you like to use.
+	</string>
     <string name="avisoGestoNaoReconhecido">gesture not recognized</string>
     <string name="avisoToqueTituloBiblia"> Tap the title to browse the Bible or
 		drag left or right</string>
