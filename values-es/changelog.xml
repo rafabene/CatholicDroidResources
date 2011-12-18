@@ -2,8 +2,8 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Mejoras en la navegación de la Biblia</item>
-        <item>Via Crucis</item>
+        <item>Diversas traducciones de la Biblia</item>
+        <item>Algunas correcciones en la traducción española</item>
     </string-array>
 
 </resources>
