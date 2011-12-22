@@ -5,8 +5,8 @@
 
 	<ImageView android:id="@+id/imgSplashScreen" android:src="@drawable/papal_seal"
 		android:layout_gravity="center_horizontal" android:layout_weight="1"
-		android:paddingTop="20px" android:layout_width="fill_parent"
-		android:layout_height="fill_parent" />
+		android:paddingTop="13dp" android:layout_width="fill_parent"
+		android:layout_height="0dp" />
 
 
 	<TextView android:id="@+id/txtSplashScreen" android:text="@string/app_name"

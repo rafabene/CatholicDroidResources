@@ -6,7 +6,7 @@
 	<string name="confissao.aviso"> WARNING: Your conscience examination will belost by privacy issues, if you leave this screen!</string>
 	<string name="confissao.ritoInicial">
 		Bless me father for I have sinned.
-		There is [time] I did my last confession. My sins are as follows ...
+		There is [time] I did my last confession. My sins are as follows …
 	</string>
 	<string-array name="confissao_mandamentos">
 		<item>First Commandment: I am the Lord thy God, Thou shalt have nogods strangers before me (including sins against the Faith, Hope andCharity)</item>
@@ -90,14 +90,14 @@
 		<item>I ate too much or in a careless manner</item>
 		<item>I failed to follow the rules of charity</item>
 		<item>I harmed somebody\'s soul, especially children, giving scandal or bad example</item>
-		<item>I have hurt my soul, exposing them intentionally and without need to temptations, bad TV shows, reprehensible music, etc...</item>
+		<item>I have hurt my soul, exposing them intentionally and without need to temptations, bad TV shows, reprehensible music, etc…</item>
 	</string-array>
 	<string-array name="confissao_sextoEnonoMandamento">
 		<item>I have denied my spouse of his or her marriage rights</item>
 		<item>I have practiced birth control (pills, devices, interruption)</item>
 		<item>I have abused my marriage rights in any other way</item>
 		<item>I have committed adultery or fornication (premarital sex) </item>
-		<item>I made any unnatural sin against nature (homosexuality or lesbianism, etc...)</item>
+		<item>I made any unnatural sin against nature (homosexuality or lesbianism, etc…)</item>
 		<item>I have impurely sinned against myself (masturbation)</item>
 		<item>I consented to impure thoughts, or had pleasure in them.</item>
 		<item>I consented to impure desires to someone, or wanted consciously see or do anything impure</item>

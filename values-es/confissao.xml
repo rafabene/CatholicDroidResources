@@ -10,7 +10,7 @@
 	</string>
     <string name="confissao.ritoInicial">
 		Bendíceme padre porque he pecado No es [tiempo] Yo hice mi 
-		última confesión. Mis pecados son los siguientes ... 
+		última confesión. Mis pecados son los siguientes … 
 	</string>
 
     <string-array name="confissao_mandamentos">
@@ -232,8 +232,7 @@
     </string-array>
     <string-array name="confissao_oitavoMandamento">
         <item>Mentí sobre alguien (calumnia) </item>
-        <item>Mi mentiras les causó el daño o espiritual 
-		</item>
+        <item>Mi mentiras les causó el daño o espiritual</item>
         <item>Que temerariamente juzga a nadie (es decir, 
 			creía firmemente, sin pruebas suficientes, que eran culpables de 
 			algún defecto moral o crimen) 
@@ -242,14 +241,17 @@
 			ocultos (calumnia) 
 		</item>
         <item>Revelar los pecados de alguien</item>
-        <item>Yo era culpable de hacer intrigas <item> (es decir, por decir algo 
+        <item>Yo era culpable de hacer intrigas (es decir, por decir algo 
 			desfavorable que alguien dijo que alguien más, para crear enemistad 
 			entre ellos) 
-		</item><item>Dei de crédito o el apoyo a la difusión del escándalo acerca de mi 
+		</item>
+		<item>Dei de crédito o el apoyo a la difusión del escándalo acerca de mi 
 			próximo 
-		</item><item>Juré firmó documentos falsos o false elemento</item><item>Estoy  crítico o negativo innecesariamente o se pierda a la caridad en 
-mis conversaciones 
-		</item></item>
+		</item>
+		<item>Juré firmó documentos falsos o false elemento</item>
+		<item>Estoy  crítico o negativo innecesariamente o se pierda a la caridad en 
+			mis conversaciones 
+		</item>
     </string-array>
 
 </resources>

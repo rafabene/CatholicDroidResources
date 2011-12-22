@@ -2,8 +2,8 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Várias Traduções para a Bíblia</item>
-        <item>Algumas correções da tradução espanhola</item>
+        <item>Adição de novas orações</item>
+        <item>Melhoria na performance das telas</item>
     </string-array>
 
 </resources>

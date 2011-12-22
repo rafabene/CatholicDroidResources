@@ -2,8 +2,7 @@
 <resources>
 
     <string name="oracao.santoexpedito.name">Oración a San Expedito</string>
-    <string name="oracao.santoexpedito">
-		Mi Causas Santo y al Justo de Expedito urgente 
+    <string name="oracao.santoexpedito">		Mi Causas Santo y al Justo de Expedito urgente 
 		Ayudar a mí en este momento 
 		de la desesperación y la desesperación, intercede por mí con 
 		Nuestro Señor Jesús 
@@ -21,11 +20,9 @@
 		urgencia. 
 		Me da paz y tranquilidad. Estaré agradecido por el resto 
 		de mi 
-		la vida y llevar su nombre a todo el que cree. Gracias. 
-	</string>
+		la vida y llevar su nombre a todo el que cree. Gracias. </string>
     <string name="oracao.meninojesusdepraga.name">Oración al Niño Jesús de Praga </string>
-    <string name="oracao.meninojesusdepraga">
-		O Jesús, que dijo en su Evangelio: "Pedid y se 
+    <string name="oracao.meninojesusdepraga">		O Jesús, que dijo en su Evangelio: "Pedid y se 
 		recibir, buscar 
 		y hallaréis, llamad y se os abrirá "por 
 		por medio de María, 
@@ -42,11 +39,9 @@
 		¡Oh Jesús, que dice: "El cielo y la tierra pasarán, pero mis 
 		palabras no pasarán ", confío en tu palabra, Señor, y espero 
 		tu poder y tu inmensa bondad, me consoló y me dan lo que pido 
-		en este momento. (Petición) 
-	</string>
+		en este momento. (Petición) </string>
     <string name="oracao.saojorge.name">Oración a San Jorge </string>
-    <string name="oracao.saojorge">
-		O San Jorge, mi guerrero santo, invencible en la fe 
+    <string name="oracao.saojorge">		O San Jorge, mi guerrero santo, invencible en la fe 
 		Dios, que le traen 
 		su cara, con la esperanza y la confianza, abrir 
 		caminos. Voy a caminar 
@@ -68,11 +63,9 @@
 		Le pido (petición). 
 		Me da coraje y esperanza, mi fe y ser fuerte 
 		auxiliai mí 
-		necesita. 
-	</string>
+		necesita. </string>
     <string name="oracao.saomiguel.name">Oración a San Miguel Arcángel</string>
-    <string name="oracao.saomiguel">
-		San Miguel Arcángel, protégenos en la lucha, 
+    <string name="oracao.saomiguel">		San Miguel Arcángel, protégenos en la lucha, 
 		Nos cubra con su escudo 
 		contra las asechanzas y trampas del diablo. 
 		Someter a su Dios 
@@ -81,11 +74,9 @@
 		poder divino, precipitai en el infierno y Satanás 
 		otros espíritus 
 		mal que vagan por el mundo para la perdición de las almas. 
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.almadecristo.name">Alma de Cristo</string>
-    <string name="oracao.almadecristo">
-		Alma de Cristo, me santifique. 
+    <string name="oracao.almadecristo">		Alma de Cristo, me santifique. 
 		Cuerpo de Cristo, 
 		sálvame. 
 		Sangre de Cristo, inebriai mí. 
@@ -102,11 +93,9 @@
 		Para mí, con tus santos, te alabamos 
 		por 
 		todos los siglos de los siglos. 
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.saofrancisco.name">Oración de San Francisco </string>
-    <string name="oracao.saofrancisco">
-		Señor, hazme un instrumento de tu Paz \n 
+    <string name="oracao.saofrancisco">		Señor, hazme un instrumento de tu Paz \n 
 		Donde haya odio siembre yo amor, 
 		Donde haya ofensa, ponga yo 
 		Lo siento. 
@@ -132,11 +121,9 @@
 		es muriendo que vivimos por la vida 
 		eterna! 
 		\n 
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.avemaria.name">Ave Maria</string>
-    <string name="oracao.avemaria">
-		Dios te salve María, llena eres de gracia, el Señor es contigo. 
+    <string name="oracao.avemaria">		Dios te salve María, llena eres de gracia, el Señor es contigo. 
 		Bendita eres entre todas 
 		las mujeres y bendito es el fruto de tu vientre, 
 		Jesús. 
@@ -145,11 +132,9 @@
 		nuestras horas 
 		la muerte. 
 		\n 
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.painosso.name">Padre Nuestro</string>
-    <string name="oracao.painosso">
-		Padre nuestro que estás en los cielos, santificado sea 
+    <string name="oracao.painosso">		Padre nuestro que estás en los cielos, santificado sea 
 		su nombre, venga a nosotros tu reino y hágase tu voluntad, 
 		en la tierra como en el cielo. 
 		\n
@@ -160,11 +145,9 @@
 		la tentación, mas líbranos de todo 
 		mal. 
 		\n 
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.salveRainha.name">Salve Regina</string>
-    <string name="oracao.salveRainha">
-		Dios te salve, Reina y Madre de misericordia, vida, dulzura, 
+    <string name="oracao.salveRainha">		Dios te salve, Reina y Madre de misericordia, vida, dulzura, 
 		nuestra esperanza, salve! Para que llamamos los desterrados hijos de Eva La 
 		Suspiramos, gimiendo y llorando en este valle de lágrimas. Vamos, pues, 
 		nuestro abogado, tus ojos de misericordia para con nosotros Volvo, y, 
@@ -175,11 +158,9 @@
 		nosotros, Santa Madre de Dios, para ser dignos de alcanzar las 
 		promesas de Cristo. 
 		\n 
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.credo.name">Creed</string>
-    <string name="oracao.credo">
-		Creo en Dios Padre Todopoderoso, Creador del cielo y 
+    <string name="oracao.credo">		Creo en Dios Padre Todopoderoso, Creador del cielo y 
 		la tierra y en Jesús 
 		Cristo, su único Hijo, nuestro Señor, que fue 
 		concebido por el 
@@ -197,18 +178,14 @@
 		en la vida 
 		eterno. 
 		\n
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.gloriaPai.name">Gloria al Padre</string>
-    <string name="oracao.gloriaPai">
-		Gloria al Padre y al Hijo y al Espíritu Santo! 
+    <string name="oracao.gloriaPai">		Gloria al Padre y al Hijo y al Espíritu Santo! 
 		Así como lo era en el principio, ahora y siempre. 
 		\n
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.credoNiceia.name">Credo Niceno</string>
-    <string name="oracao.credoNiceia">
-		Creemos en un solo Dios, Padre Todopoderoso, Creador del 
+    <string name="oracao.credoNiceia">		Creemos en un solo Dios, Padre Todopoderoso, Creador del 
 		El cielo y la tierra, de todo lo visible y lo invisible. 
 		\n
 		Yo creo en un 
@@ -255,11 +232,9 @@
 		muertos y la vida del mundo 
 		que está por venir. 
 		\n 
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.cantico.criaturas.name">Cántico de las criaturas</string>
-    <string name="oracao.cantico.criaturas">
-		Altísimo, omnipotente, Señor, bueno, 
+    <string name="oracao.cantico.criaturas">		Altísimo, omnipotente, Señor, bueno, 
 		te la alabanza, 
 		gloria, honor y toda bendición. 
 		\n
@@ -322,11 +297,9 @@
 		\n 
 		Alabad y bendecid a mi Señor y darle gracias 
 		y servir a la 
-		con una gran humildad ... 
-	</string>
+		con una gran humildad … </string>
     <string name="oracao.espirito.santo.name">Oración Espíritu Santo</string>
-    <string name="oracao.espirito.santo">
-		Ven, Espíritu Santo, llena los corazones de tus 
+    <string name="oracao.espirito.santo">		Ven, Espíritu Santo, llena los corazones de tus 
 		fieles y enciende en ellos el fuego de tu amor. 
 		\n 
 		Envía tu Espíritu y 
@@ -340,11 +313,9 @@
 		Espíritu 
 		Y siempre nos dejaba disfrutar de su consuelo, por Cristo nuestro Señor. 
 		\n 
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.ato.contricao.name">Ley de contrición </string>
-    <string name="oracao.ato.contricao">
-		Dios mío, me arrepiento con todo mi corazón para ti 
+    <string name="oracao.ato.contricao">		Dios mío, me arrepiento con todo mi corazón para ti 
 		Han ofendido, porque 
 		eres tan bueno y amable. Te lo prometo, con su 
 		la gracia, me tratan 
@@ -360,11 +331,9 @@
 		el delito. Yo espero obtener el perdón de mis pecados 
 		Su infinita misericordia. 
 		\n 
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.padrePio.name">Oración después de la Comunión (Padre Pio) </string>
-    <string name="oracao.padrePio">
-		Quédate conmigo, Señor, ¿por qué es tu 
+    <string name="oracao.padrePio">		Quédate conmigo, Señor, ¿por qué es tu 
 		Que no se hayan presentado para 
 		Sabe que tan fácil ofender.Tu abandono.Fica, 
 		Señor, conmigo, 
@@ -384,7 +353,7 @@
 		me, ya que es tarde y el día está disminuyendo, es decir, se pasa la vida, 
 		acercarse a la muerte, el Juicio y la eternidad, y tenemos que redoblar 
 		mi fuerza, porque no desmayen en el camino, y, por tanto, 
-		necesidad Ti.Faz a la muerte tarde, y viene! me afligen el ... 
+		necesidad Ti.Faz a la muerte tarde, y viene! me afligen el … 
 		la oscuridad, las tentaciones, la aridez, las plumas y las cruces! I 
 		Es necesario exílio.Fica esta noche conmigo, Señor, porque 
 		esta noche y los peligros de la vida, necesito Ti.Que Ya sabes, 
@@ -399,11 +368,9 @@
 		Tu voluntad, tu corazón, tu espíritu, porque Te amo, y no 
 		pedir ninguna recompensa, además del incremento de sólidos y amor.Amor 
 		Te prático.Amar con todo mi corazón en la tierra, para seguir te amo 
-		perfectamente durante toda la eternidad. 
-	</string>
+		perfectamente durante toda la eternidad. </string>
     <string name="oracao.lembraivos.name">Recuerda (San Bernardo)</string>
-    <string name="oracao.lembraivos">
-		Acuérdate, oh Virgen María piíssima, 
+    <string name="oracao.lembraivos">		Acuérdate, oh Virgen María piíssima, 
 		que nunca 
 		oído 
 		que algunos de los 
@@ -428,11 +395,9 @@
 		audiencia favorable 
 		y lograr lo que te lo ruego. 
 		\n
-		Amén. 
-	</string>
+		Amén. </string>
     <string name="oracao.cincoChagas.name">La devoción a los Cinco Llagas de Cristo Jesús</string>
-    <string name="oracao.cincoChagas">
-		Oración de apertura 
+    <string name="oracao.cincoChagas">		Oración de apertura 
 		\n 
 		Mientras está de pie sobre sus rodillas antes de su 
 		imagen sagrada. 
@@ -560,11 +525,9 @@
 		un corazón atravesado 
 		Safe Haven. 
 		\n 
-		Amor 
-	</string>
+		Amor </string>
     <string name="oracao.magnificat.name">Magnificat</string>
-    <string name="oracao.magnificat">
-		Mi alma engrandece al Señor 
+    <string name="oracao.magnificat">		Mi alma engrandece al Señor 
 		Y mi espíritu 
 		se alegra en Dios mi Salvador! 
 		Debido a la humildad 
@@ -587,11 +550,9 @@
 		Hijo y Espíritu Santo. 
 		Como era en el principio, ahora y 
 		los siglos, amén 
-		El Poderoso ha hecho obras grandes por mí: ¡Santo es su nombre! 
-	</string>
+		El Poderoso ha hecho obras grandes por mí: ¡Santo es su nombre! </string>
     <string name="oracao.santoAnjo.name">Santo ángel del Señor</string>
-    <string name="oracao.santoAnjo">
-		Santo ángel del Señor 
+    <string name="oracao.santoAnjo">		Santo ángel del Señor 
 		mi guardián celoso. 
 		Si me 
 		encomendó a la misericordia divina, 
@@ -601,11 +562,9 @@
 		me 
 		iluminar. 
 		\n
-		Amén 
-	</string>
+		Amén </string>
     <string name="oracao.ladainhaNossaSenhora.name">Letanía de Nuestra Señora</string>
-    <string name="oracao.ladainhaNossaSenhora">
-		Señor, ten piedad de nosotros. \n 
+    <string name="oracao.ladainhaNossaSenhora">		Señor, ten piedad de nosotros. \n 
 		Jesucristo, ten piedad de nosotros. \n 
 		Señor, ten piedad de nosotros. \n 
 		Cristo, escúchanos. \n 
@@ -677,7 +636,22 @@
 		Santísima Virgen María, estamos libres de la pena de 
 		Vamos a disfrutar el siglo y el gozo eterno. Por Jesucristo nuestro Señor. 
 		\n 
-		Amén 
+		Amén </string>
+    <string name="oracao.saobento.name">La oración de San Benito</string>
+    <string name="oracao.saobento"> 
+        	The Holy Cross be my light
+        	\n
+			La Santa Cruz sea mi luz
+			\n
+			No sé mi guía del Dragón
+			\n
+			Vete Satanás
+			\n
+			Yo nunca les aconsejó entrometidos
+			\n
+			Es poco lo que me ofrecen
+			\n
+			Beber de su mismo veneno
 	</string>
 
 </resources>

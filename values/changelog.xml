@@ -2,8 +2,8 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Added more Bible Translations</item>
-        <item>Corrected some Spanish Translations</item>
+        <item>Added new prayers</item>
+        <item>Improved screen performance</item>
     </string-array>
 
 </resources>

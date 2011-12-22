@@ -6,7 +6,7 @@
 	<TextView android:textAppearance="?android:attr/textAppearanceMedium"
 		android:text="" android:layout_height="wrap_content" android:id="@+id/textViewConfissaoItem"
 		android:layout_width="wrap_content" android:textColor="@color/fontColor"></TextView>
-	<ToggleButton android:text="ToggleButton" android:textOn="@string/sim"
+	<ToggleButton android:textOn="@string/sim"
 		android:id="@+id/confissaoBotaoSimNao" android:textOff="@string/nao"
 		android:layout_width="wrap_content" android:layout_height="wrap_content"
 		android:layout_gravity="left"></ToggleButton>

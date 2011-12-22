@@ -16,7 +16,7 @@
 
     <TextView
         android:id="@+id/cabecalho_biblia_livros"
-        android:layout_width="fill_parent"
+        android:layout_width="0dp"
         android:layout_height="fill_parent"
         android:layout_weight="1"
         android:clickable="true"
