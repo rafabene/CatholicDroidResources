@@ -65,125 +65,110 @@
 		auxiliai mí 
 		necesita. </string>
     <string name="oracao.saomiguel.name">Oración a San Miguel Arcángel</string>
-    <string name="oracao.saomiguel">		San Miguel Arcángel, protégenos en la lucha, 
-		Nos cubra con su escudo 
-		contra las asechanzas y trampas del diablo. 
-		Someter a su Dios 
-		sinceramente le pedimos, y príncipes que sois de la milicia 
-		celestial 
-		poder divino, precipitai en el infierno y Satanás 
-		otros espíritus 
-		mal que vagan por el mundo para la perdición de las almas. 
-		Amén </string>
+    <string name="oracao.saomiguel">San Miguel Arcángel,
+		defiéndenos en la batalla.
+		Sé nuestro amparo
+		contra las perversidad y asechanzas
+		del demonio.
+		Reprímale Dios, pedimos suplicantes,
+		y tu príncipe de la milicia celestial
+		arroja al infierno con el divino poder
+		a Satanás y a los otros espíritus malignos
+		que andan dispersos por el mundo
+		para la perdición de las almas.
+		\n
+		Amén.</string>
     <string name="oracao.almadecristo.name">Alma de Cristo</string>
-    <string name="oracao.almadecristo">		Alma de Cristo, me santifique. 
-		Cuerpo de Cristo, 
-		sálvame. 
-		Sangre de Cristo, inebriai mí. 
-		Agua del costado de Cristo, 
-		límpiame. 
-		La pasión de Cristo, me fortalece. 
-		Oh buen Jesús, óyeme. 
-		Dentro de tus llagas, escóndeme. 
-		No permitas que me separe de 
-		que. 
-		Del maligno enemigo, defiéndeme. 
-		En el momento de mi muerte, llámame. 
-		Y mándame ir a ti 
-		Para mí, con tus santos, te alabamos 
-		por 
-		todos los siglos de los siglos. 
-		Amén </string>
+    <string name="oracao.almadecristo">Alma de Cristo, santifícame.
+		Cuerpo de Cristo, sálvame.
+		Sangre de Cristo, embriágame.
+		Agua del costado de Cristo, lávame.
+		Pasión de Cristo, confórtame.
+		¡Oh, buen Jesús!, óyeme.
+		Dentro de tus llagas, escóndeme.
+		No permitas que me aparte de Ti.
+		Del maligno enemigo, defiéndeme.
+		En la hora de mi muerte, llámame.
+		Y mándame ir a Ti.
+		Para que con tus santos te alabe.
+		Por los siglos de los siglos. Amén.</string>
     <string name="oracao.saofrancisco.name">Oración de San Francisco </string>
-    <string name="oracao.saofrancisco">		Señor, hazme un instrumento de tu Paz \n 
-		Donde haya odio siembre yo amor, 
-		Donde haya ofensa, ponga yo 
-		Lo siento. 
-		Donde haya discordia, que yo lleve la Unión 
-		En caso de duda, 
-		Que yo lleve la fe 
-		Donde hay error, que yo lleve la verdad. 
-		Donde hay 
-		La desesperación, que yo lleve la esperanza. 
-		Donde haya tristeza, pueda llevar la 
-		Alegría. 
-		Donde hay tinieblas, luz de luz! 
-		\n
-		O Divino Maestro, 
-		Yo 
-		encontrar más: 
-		comodidad, consuelo; 
-		comprender, ser 
-		entendido; 
-		amar y ser amado. 
-		Es en el dar que recibir. 
-		Perdonando que se es perdonado y 
-		es muriendo que vivimos por la vida 
-		eterna! 
-		\n 
-		Amén </string>
-    <string name="oracao.avemaria.name">Ave Maria</string>
-    <string name="oracao.avemaria">		Dios te salve María, llena eres de gracia, el Señor es contigo. 
-		Bendita eres entre todas 
-		las mujeres y bendito es el fruto de tu vientre, 
-		Jesús. 
-		\n 
-		Santa María, Madre de Dios, ruega por nosotros pecadores ahora y en la 
-		nuestras horas 
-		la muerte. 
-		\n 
-		Amén </string>
-    <string name="oracao.painosso.name">Padre Nuestro</string>
-    <string name="oracao.painosso">		Padre nuestro que estás en los cielos, santificado sea 
-		su nombre, venga a nosotros tu reino y hágase tu voluntad, 
-		en la tierra como en el cielo. 
-		\n
-		El pan de cada día Danos hoy; 
-		y perdona nuestras ofensas 
-		como también nosotros perdonamos a los que han 
-		ofendido. No caigamos en 
-		la tentación, mas líbranos de todo 
-		mal. 
-		\n 
-		Amén </string>
+    <string name="oracao.saofrancisco">Oh, Señor, hazme un instrumento de Tu Paz .
+        \n
+		Donde hay odio, que lleve yo el Amor.
+        \n
+		Donde haya ofensa, que lleve yo el   Perdón.
+        \n
+		Donde haya discordia, que lleve yo la Unión. 
+        \n
+		Donde haya duda, que lleve yo la Fe.
+        \n
+		Donde haya error, que lleve yo la Verdad.
+        \n
+		Donde haya desesperación, que lleve yo la Alegría.
+        \n
+		Donde haya tinieblas, que lleve yo la Luz.
+        \n
+        \n
+		Oh, Maestro, haced que yo no busque tanto ser consolado, sino consolar;
+        \n
+		ser comprendido, sino comprender;
+        \n
+		ser amado, como amar.
+        \n
+		Porque es:
+        \n
+		Dando , que se recibe;
+        \n
+		Perdonando, que se es perdonado;
+        \n
+		Muriendo, que se resucita a la
+        \n
+		Vida Eterna.</string>
+    <string name="oracao.avemaria.name">El Ave Maria</string>
+    <string name="oracao.avemaria">Dios te salve, María ; 
+		llena eres de gracia; el Señor es contigo; 
+		bendita tú eres entre todas las mujeres,
+		y bendito es el fruto de tu vientre, Jesús.
+		\n		
+		Santa María, 
+		Madre de Dios, 
+		ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte.
+		\n  Amén.</string>
+    <string name="oracao.painosso.name">El Padre Nuestro</string>
+    <string name="oracao.painosso">Padre Nuestro, que estás en el cielo,
+		santificado sea tu nombre; 
+		venga a nosotros tu reino;
+		hágase tu voluntad, en la tierra como en el cielo.
+		\n		
+		Danos hoy nuestro pan de cada día;
+		perdona nuestras ofensas, 
+		como también nosotros perdonamos a los que nos ofenden;
+		no nos dejes caer en la tentación,
+		y líbranos del mal.
+		Amén.</string>
     <string name="oracao.salveRainha.name">Salve Regina</string>
-    <string name="oracao.salveRainha">		Dios te salve, Reina y Madre de misericordia, vida, dulzura, 
-		nuestra esperanza, salve! Para que llamamos los desterrados hijos de Eva La 
-		Suspiramos, gimiendo y llorando en este valle de lágrimas. Vamos, pues, 
-		nuestro abogado, tus ojos de misericordia para con nosotros Volvo, y, 
-		después de este destierro, muéstranos a Jesús, fruto bendito de tu 
-		vientre, oh clemente, oh piadosa, oh dulce Virgen María. 
-		\n 
-		Ore por 
-		nosotros, Santa Madre de Dios, para ser dignos de alcanzar las 
-		promesas de Cristo. 
-		\n 
-		Amén </string>
-    <string name="oracao.credo.name">Creed</string>
-    <string name="oracao.credo">		Creo en Dios Padre Todopoderoso, Creador del cielo y 
-		la tierra y en Jesús 
-		Cristo, su único Hijo, nuestro Señor, que fue 
-		concebido por el 
-		Espíritu Santo, nació de Santa María Virgen, padeció 
-		en tiempos de Poncio Pilato, 
-		fue crucificado, muerto y sepultado, descendió a los infiernos 
-		los muertos; 
-		resucitó al tercer día, subió a los cielos y está sentado a la 
-		derecho 
-		Dios Padre Todopoderoso, de donde ha de venir a juzgar a vivos y 
-		los muertos; 
-		Creo en el Espíritu Santo, la santa Iglesia católica, la 
-		comunión de los 
-		Santos, el perdón de los pecados, la resurrección de la carne 
-		en la vida 
-		eterno. 
-		\n
-		Amén </string>
-    <string name="oracao.gloriaPai.name">Gloria al Padre</string>
-    <string name="oracao.gloriaPai">		Gloria al Padre y al Hijo y al Espíritu Santo! 
-		Así como lo era en el principio, ahora y siempre. 
-		\n
-		Amén </string>
+    <string name="oracao.salveRainha">Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra:Dios te salve. A ti llamamos los desterrados hijos de Eva; a ti suspiramos, gimiendo y llorando en este valle de lágrimas. Ea, pues, Señora abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos y, después de este destierro, muéstranos a Jesús, fruto bendito de tu vientre. ¡Oh clementísima! ¡oh piadosa! ¡oh dulce Virgen María!
+	Ruega por nosotros santa Madre de Dios,
+	Para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.
+	\n
+	Amén.</string>
+    <string name="oracao.credo.name">El Credo de los Apóstoles</string>
+    <string name="oracao.credo">Creo en Dios Padre, 
+	Todopoderoso,
+	Creador del cielo y de la tierra. Y en Jesucristo, su único Hijo,
+	Nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen,
+	padeció bajo el poder de Poncio Pilato,
+	fue crucificado, muerto y sepultado, 
+	descendió a los infiernos,
+	al tercer día resucitó entre los muertos, 
+	subió a los cielos y está sentado a la derecha de Dios Padre, Todopoderoso.
+	
+	Desde allí vendrá a juzgar a vivos y a muertos. Creo en el Espíritu Santo, la Santa Iglesia Católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida perdurable. 
+	\n
+	Amén.</string>
+    <string name="oracao.gloriaPai.name">El Gloria</string>
+    <string name="oracao.gloriaPai">Gloria al Padre y al Hijo y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. \nAmén.</string>
     <string name="oracao.credoNiceia.name">Credo Niceno</string>
     <string name="oracao.credoNiceia">		Creemos en un solo Dios, Padre Todopoderoso, Creador del 
 		El cielo y la tierra, de todo lo visible y lo invisible. 
@@ -298,40 +283,25 @@
 		Alabad y bendecid a mi Señor y darle gracias 
 		y servir a la 
 		con una gran humildad … </string>
-    <string name="oracao.espirito.santo.name">Oración Espíritu Santo</string>
-    <string name="oracao.espirito.santo">		Ven, Espíritu Santo, llena los corazones de tus 
-		fieles y enciende en ellos el fuego de tu amor. 
-		\n 
-		Envía tu Espíritu y 
-		serán creados, y renuevas la faz de la tierra. 
-		\n 
-		Oremos: 
-		Dios, que 
-		instruyó a los corazones de tus fieles a la Luz del Espíritu 
-		Santo 
-		¿Apreciamos todas las cosas con justicia, de acuerdo con la misma 
-		Espíritu 
-		Y siempre nos dejaba disfrutar de su consuelo, por Cristo nuestro Señor. 
-		\n 
-		Amén </string>
-    <string name="oracao.ato.contricao.name">Ley de contrición </string>
-    <string name="oracao.ato.contricao">		Dios mío, me arrepiento con todo mi corazón para ti 
-		Han ofendido, porque 
-		eres tan bueno y amable. Te lo prometo, con su 
-		la gracia, me tratan 
-		ser bueno. Jesús mío, misericordia! 
-		\n 
-		Sr. 
-		mi Jesus cristo, verdadero Dios y hombre, Creador y Redentor mío: 
-		Porque usted es quien es, sumamente bueno y digno de ser amado sobre 
-		todas las cosas, y porque Te amo y aprecio, me pesa, Señor, 
-		todo mi corazón, que él ha ofendido, me duele también tienen 
-		perdido el cielo y el infierno merecido, y le sugiero fuertemente, ayudado 
-		con la ayuda de tu gracia divina, me corrigen y Vos nunca 
-		el delito. Yo espero obtener el perdón de mis pecados 
-		Su infinita misericordia. 
-		\n 
-		Amén </string>
+    <string name="oracao.espirito.santo.name">Oración al Espíritu Santo</string>
+    <string name="oracao.espirito.santo">Ven Espíritu Santo, envía tu luz desde el cielo. Padre amoroso del pobre; don, en tus dones espléndido; luz que penetra las almas; fuente del mayor consuelo.
+		Ven, dulce huésped del alma, descanso de nuestro esfuerzo, tregua en el duro trabajo, brisa en las horas de fuego, gozo que enjuga las lágrimas y reconforta en los duelos.
+		Entra hasta el fondo del alma, divina luz y enriquécenos. Mira el vacío del hombre si Tú le faltas por dentro; mira el poder del pecado cuando no envías tu aliento.
+		Riega la tierra en sequía, sana el corazón enfermo, lava las manchas, infunde calor de vida en el hielo, doma el espíritu indómito, guía al que tuerce el sendero.
+		Reparte tus Siete Dones según la fe de tus siervos. Por tu bondad y tu gracia dale al esfuerzo su mérito; salva al que busca salvarse y danos tu gozo eterno.  
+		\n
+		Amén. </string>
+    <string name="oracao.ato.contricao.name">Acto de Contrición</string>
+    <string name="oracao.ato.contricao">Señor mío, Jesucristo!
+	Dios y Hombre verdadero,
+	Creador, Padre y Redentor mío; por ser Vos quien sois, Bondad infinita, 
+	y porque os amo sobre todas las cosas, 
+	me pesa de todo corazón de haberos ofendido;
+	también me pesa porque podéis castigarme con las penas del infierno.
+	Ayudado de vuestra divina gracia
+	propongo firmemente nunca más pecar, confesarme y cumplir la penitencia que me fuere impuesta. 
+	\n
+	Amén.</string>
     <string name="oracao.padrePio.name">Oración después de la Comunión (Padre Pio) </string>
     <string name="oracao.padrePio">		Quédate conmigo, Señor, ¿por qué es tu 
 		Que no se hayan presentado para 
@@ -397,7 +367,7 @@
 		\n
 		Amén. </string>
     <string name="oracao.cincoChagas.name">La devoción a los Cinco Llagas de Cristo Jesús</string>
-    <string name="oracao.cincoChagas">		Oración de apertura 
+    <string name="oracao.cincoChagas">Oración de apertura 
 		\n 
 		Mientras está de pie sobre sus rodillas antes de su 
 		imagen sagrada. 
@@ -527,42 +497,20 @@
 		\n 
 		Amor </string>
     <string name="oracao.magnificat.name">Magnificat</string>
-    <string name="oracao.magnificat">		Mi alma engrandece al Señor 
-		Y mi espíritu 
-		se alegra en Dios mi Salvador! 
-		Debido a la humildad 
-		de su pobre siervo; 
-		ahora todas las generaciones me llamarán bienaventurada, 
-		Porque el Poderoso ha hecho obras grandes por mí: ¡Santo es su nombre! 
-		Él hace proezas con su brazo 
-		Desconcertado el corazón de los soberbios 
-		Derrocó el trono a los poderosos, 
-		y exaltó a los humildes. 
-		Apaga los productos 
-		hambre, 
-		ya los ricos los despide vacíos. 
-		Él protege a Israel, su 
-		siervo, 
-		acordó de su misericordia; 
-		como se había prometido a nuestros padres, 
-		a Abraham ya su descendencia para siempre. 
-		Gloria al Padre, 
-		Hijo y Espíritu Santo. 
-		Como era en el principio, ahora y 
-		los siglos, amén 
-		El Poderoso ha hecho obras grandes por mí: ¡Santo es su nombre! </string>
-    <string name="oracao.santoAnjo.name">Santo ángel del Señor</string>
-    <string name="oracao.santoAnjo">		Santo ángel del Señor 
-		mi guardián celoso. 
-		Si me 
-		encomendó a la misericordia divina, 
-		Siempre me gobierna, 
-		no lo quiera, 
-		Yo gobierno, 
-		me 
-		iluminar. 
+    <string name="oracao.magnificat">Proclama mi alma la grandeza del Señor, se alegra mi espíritu en Dios mi Salvador, porque ha mirado la humillación de su esclava.
+		Desde ahora me felicitarán todas las generaciones porque el Poderoso ha hecho obras grandes por mí. Su nombre es Santo y su misericordia llega a sus fieles de generación en generación.
+		Él hace proezas con su brazo, dispersa a los soberbios de corazón. Derriba del trono a los poderosos y enaltece a los humildes. A los hambrientos los colma de bienes y a los ricos despide vacíos.
+		Auxilia a Israel su siervo, acordándose de su santa alianza según lo había prometido a nuestros padres en favor de Abrahán y su descendencia por siempre.
+		Gloria al Padre y al Hijo y al Espíritu Santo como era en principio ahora y siempre por los siglos de los siglos.
 		\n
-		Amén </string>
+		Amen.</string>
+    <string name="oracao.santoAnjo.name">Al Ángel de la Guarda</string>
+    <string name="oracao.santoAnjo">Angel de Dios,
+		que eres mi custodio,
+		pues la bondad divina me ha 
+		encomendado a ti, ilumíname, 
+		dirígeme, guárdame.
+		\nAmén.</string>
     <string name="oracao.ladainhaNossaSenhora.name">Letanía de Nuestra Señora</string>
     <string name="oracao.ladainhaNossaSenhora">		Señor, ten piedad de nosotros. \n 
 		Jesucristo, ten piedad de nosotros. \n 
@@ -638,8 +586,7 @@
 		\n 
 		Amén </string>
     <string name="oracao.saobento.name">La oración de San Benito</string>
-    <string name="oracao.saobento"> 
-        	The Holy Cross be my light
+    <string name="oracao.saobento">La Santa Cruz sea mi luz,
         	\n
 			La Santa Cruz sea mi luz
 			\n
@@ -651,7 +598,6 @@
 			\n
 			Es poco lo que me ofrecen
 			\n
-			Beber de su mismo veneno
-	</string>
+			Beber de su mismo veneno</string>
 
 </resources>
