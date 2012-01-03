@@ -2,8 +2,7 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Adição de novas orações</item>
-        <item>Melhoria na performance das telas</item>
+        <item>Melhoria na tradução das orações em espanhol</item>
     </string-array>
 
 </resources>
