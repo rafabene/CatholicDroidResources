@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Catholic Droid</string>
     <string name="biblia">Bible</string>
     <string name="avancar">Forward</string>
@@ -17,6 +16,7 @@
     <string name="sim">Yes</string>
     <string name="nao">No</string>
     <string name="aguarde">Wait …</string>
+    <string name="leituraDiaria">Daily Reading (only in Portuguese)</string>
     <string name="ultimasAtualizacoes">Last Changes</string>
     <string name="mandamentosIgreja">Commandments of the Church </string>
     <string name="oracoes">Prayers</string>
