@@ -2,7 +2,8 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Mejora en la traducción de las oraciones en español</item>
+        <item>La lectura diaria incluye</item>
+        <item>Corregido un fallo que restablece el Rosario al girar el teléfono</item>
     </string-array>
 
 </resources>

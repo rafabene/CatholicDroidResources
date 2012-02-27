@@ -2,7 +2,8 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Improvement in the translation of the Spanish prayers</item>
+        <item>Included Daily Reading</item>
+        <item>Fixed bug that resets the Rosary when rotating the phone</item>
     </string-array>
 
 </resources>

@@ -2,7 +2,8 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Melhoria na tradução das orações em espanhol</item>
+        <item>Incluido leitura Diária</item>
+        <item>Corrigido Bug que reinicia o Terço ao girar o celular</item>
     </string-array>
 
 </resources>
