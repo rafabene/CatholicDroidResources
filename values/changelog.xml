@@ -4,6 +4,7 @@
     <string-array name="changelog">
         <item>Included Daily Reading</item>
         <item>Fixed bug that resets the Rosary when rotating the phone</item>
+        <item>Fixed bug in Daily Reading for Spanish Language</item>
     </string-array>
 
 </resources>

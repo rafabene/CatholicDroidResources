@@ -3,7 +3,8 @@
 
     <string-array name="changelog">
         <item>La lectura diaria incluye</item>
-        <item>Corregido un fallo que restablece el Rosario al girar el teléfono</item>
+        <item>Corregido error que restablece el Rosario al girar el teléfono</item>
+        <item>Corregido error en la lectura diaria</item>
     </string-array>
 
 </resources>

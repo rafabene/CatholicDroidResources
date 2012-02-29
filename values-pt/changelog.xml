@@ -4,6 +4,7 @@
     <string-array name="changelog">
         <item>Incluido leitura Diária</item>
         <item>Corrigido Bug que reinicia o Terço ao girar o celular</item>
+        <item>Corrigido Bug na leitura diária em Espanhol</item>
     </string-array>
 
 </resources>
