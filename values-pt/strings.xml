@@ -1,67 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Catholic Droid</string>
-	<string name="biblia">Bíblia</string>
-	<string name="avancar">Avançar</string>
-	<string name="retroceder">Retroceder</string>
-	<string name="meditacao">Meditação</string>
-	<string name="ok">Ok</string>
-	<string name="fechar">Fechar</string>
-	<string name="dezmandamentos">Dez Mandamentos</string>
-	<string name="sair">Sair</string>
-	<string name="voltar">Voltar</string>
-	<string name="enviar">Enviar</string>
-	<string name="fim">Fim</string>
-	<string name="inicio">Início</string>
-	<string name="sim">Sim</string>
-	<string name="nao">Não</string>
-	<string name="aguarde">Aguarde…</string>
-	<string name="leituraDiaria">Leitura Diária</string>
-	<string name="ultimasAtualizacoes">Últimas Atualizações</string>
-	<string name="mandamentosIgreja">Mandamentos da Igreja</string>
-	<string name="oracoes">Orações</string>
-	<string name="donsespiritosanto">Dons do Espírito Santo</string>
-	<string name="sacramentos">Sacramentos</string>
-	<string name="antigotestamento">Antigo Testamento</string>
-	<string name="novotestamento">Novo Testamento</string>
-	<string name="sugerirOracao">Sugerir uma Oração</string>
-	<string name="sugestaoEnviada">Sugestão Enviada com sucesso!</string>
-	<string name="dialogSelecionaCapitulo">Selecione o Capítulo</string>
-	<string name="dialogSelecioneTraducao">
-	Por favor, selecione a tradução que deseja utilizar
-	</string>
-	<string name="avisoGestoNaoReconhecido">Gesto não reconhecido</string>
-	<string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia ou
-		então arraste para direita ou esquerda
-	</string>
-	<string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração
-	</string>
-	<string name="avisoTerco">Toque nas contas do Terço para Acompanhar a oração
-	</string>
-	<string name="traducao">Tradução</string>
-	<string-array name="dezmandamentos">
-		<item>1 - Amar a Deus sobre todas as coisas</item>
-		<item>2 - Não tomar o seu Santo Nome em vão</item>
-		<item>3 - Guardar domingos e festas de guarda</item>
-		<item>4 - Honrar pai e mãe</item>
-		<item>5 - Não matar</item>
-		<item>6 - Não pecar contra a castidade</item>
-		<item>7 - Não roubar</item>
-		<item>8 - Não levantar falso testemunho</item>
-		<item>9 - Não desejar a mulher do próximo</item>
-		<item>10 - Não cobiçar as coisas alheias</item>
-	</string-array>
-	<string-array name="mandamentosIgreja">
-		<item>1 - Participar da missa inteira nos domingos e outras festas de
-			guarda e abster-se de ocupações de trabalho
-		</item>
-		<item>2 - Confessar-se ao menos uma vez por ano</item>
-		<item>3 - Receber o sacramento da Eucaristia ao menos pela Páscoa da
-			ressurreição
-		</item>
-		<item>4 - Jejuar e abster-se de carne, conforme manda a Santa Mãe
-			Igreja
-		</item>
-		<item>5 - Ajudar a Igreja em suas necessidades</item>
-	</string-array>
+
+    <string name="app_name">Catholic Droid</string>
+    <string name="biblia">Bíblia</string>
+    <string name="avancar">Avançar</string>
+    <string name="retroceder">Retroceder</string>
+    <string name="meditacao">Meditação</string>
+    <string name="fechar">Fechar</string>
+    <string name="dezmandamentos">Dez Mandamentos</string>
+    <string name="sair">Sair</string>
+    <string name="voltar">Voltar</string>
+    <string name="enviar">Enviar</string>
+    <string name="fim">Fim</string>
+    <string name="inicio">Início</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="aguarde">Aguarde…</string>
+    <string name="leituraDiaria">Leitura Diária</string>
+    <string name="ultimasAtualizacoes">Últimas Atualizações</string>
+    <string name="mandamentosIgreja">Mandamentos da Igreja</string>
+    <string name="oracoes">Orações</string>
+    <string name="donsespiritosanto">Dons do Espírito Santo</string>
+    <string name="sacramentos">Sacramentos</string>
+    <string name="antigotestamento">Antigo Testamento</string>
+    <string name="novotestamento">Novo Testamento</string>
+    <string name="sugerirOracao">Sugerir uma Oração</string>
+    <string name="sugestaoEnviada">Sugestão Enviada com sucesso!</string>
+    <string name="dialogSelecionaCapitulo">Selecione o Capítulo</string>
+    <string name="dialogSelecioneTraducao">	Por favor, selecione a tradução que deseja utilizar</string>
+    <string name="avisoGestoNaoReconhecido">Gesto não reconhecido</string>
+    <string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia ou
+		então arraste para direita ou esquerda</string>
+    <string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração</string>
+    <string name="avisoTerco">Toque nas contas do Terço para Acompanhar a oração</string>
+    <string name="traducao">Tradução</string>
+    <string name="config">Configuração</string>
+    <string name="vibrarnoterco">Vibrar no terço</string>
+    <string name="avalienoplay">Avalie-nos no Google Play</string>
+
+    <string-array name="dezmandamentos">
+        <item>1 - Amar a Deus sobre todas as coisas</item>
+        <item>2 - Não tomar o seu Santo Nome em vão</item>
+        <item>3 - Guardar domingos e festas de guarda</item>
+        <item>4 - Honrar pai e mãe</item>
+        <item>5 - Não matar</item>
+        <item>6 - Não pecar contra a castidade</item>
+        <item>7 - Não roubar</item>
+        <item>8 - Não levantar falso testemunho</item>
+        <item>9 - Não desejar a mulher do próximo</item>
+        <item>10 - Não cobiçar as coisas alheias</item>
+    </string-array>
+    <string-array name="mandamentosIgreja">
+        <item>1 - Participar da missa inteira nos domingos e outras festas de
+			guarda e abster-se de ocupações de trabalho</item>
+        <item>2 - Confessar-se ao menos uma vez por ano</item>
+        <item>3 - Receber o sacramento da Eucaristia ao menos pela Páscoa da
+			ressurreição</item>
+        <item>4 - Jejuar e abster-se de carne, conforme manda a Santa Mãe
+			Igreja</item>
+        <item>5 - Ajudar a Igreja em suas necessidades</item>
+    </string-array>
+    <string-array name="traducoesDisponiveis">
+        <item>Inglês</item>
+        <item>Português</item>
+        <item>Espanhol</item>
+    </string-array>
+
 </resources>

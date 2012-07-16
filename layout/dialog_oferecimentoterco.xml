@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-	android:orientation="vertical" android:layout_width="fill_parent"
-	android:layout_height="fill_parent">
-	<TextView android:layout_height="wrap_content"
-		android:layout_width="wrap_content" android:id="@+id/tercoTextViewOferecimento"
-		android:text="@string/terco.oferecimento" android:padding="10dp" />
-	<TextView android:layout_height="wrap_content"
-		android:paddingTop="20dp" android:layout_width="wrap_content"
-		android:id="@+id/textView1" android:text="@string/terco.selecioneMisterio"></TextView>
-	<Spinner android:layout_width="fill_parent" android:id="@+id/terco_comboMisterios" android:layout_height="wrap_content"></Spinner>
-	<Button android:layout_height="wrap_content"
-		android:layout_gravity="center_horizontal" android:id="@+id/tercoBtnDialogOk"
-		android:text="@string/ok" android:layout_width="70dp"></Button>
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tercoTextViewOferecimento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/terco.oferecimento" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:text="@string/terco.selecioneMisterio" >
+    </TextView>
+
+    <Spinner
+        android:id="@+id/terco_comboMisterios"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </Spinner>
+
+    <Button
+        android:id="@+id/tercoBtnDialogOk"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@android:string/ok" >
+    </Button>
 
 </LinearLayout>

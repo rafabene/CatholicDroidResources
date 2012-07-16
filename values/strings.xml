@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">Catholic Droid</string>
     <string name="biblia">Bible</string>
     <string name="avancar">Forward</string>
     <string name="retroceder">Rewind</string>
     <string name="meditacao">Meditation</string>
-    <string name="ok">Ok</string>
     <string name="fechar">Close</string>
     <string name="dezmandamentos">Ten Commandments</string>
     <string name="sair">Exit</string>
@@ -27,15 +27,16 @@
     <string name="sugerirOracao">Suggest a Prayer</string>
     <string name="sugestaoEnviada">Suggestion Posted successfully </string>
     <string name="dialogSelecionaCapitulo">Select Chapter</string>
-    <string name="dialogSelecioneTraducao">
-	Please, select the Translation that you like to use.
-	</string>
+    <string name="dialogSelecioneTraducao">	Please, select the Translation that you like to use.</string>
     <string name="avisoGestoNaoReconhecido">gesture not recognized</string>
     <string name="avisoToqueTituloBiblia"> Tap the title to browse the Bible or
 		drag left or right</string>
     <string name="avisoSugerirOracao"> Click the menu to suggest a new prayer</string>
     <string name="avisoTerco"> Touch the rosary prayer to Accompany </string>
     <string name="traducao">Translation</string>
+    <string name="config">Config</string>
+    <string name="vibrarnoterco">Vibrate on Rosary</string>
+    <string name="avalienoplay">Evaluate us at Google Play</string>
 
     <string-array name="dezmandamentos">
         <item>1 - Love God above all things</item>
@@ -55,9 +56,13 @@
         <item>2 - To confess at least once a year </item>
         <item>3 - Receive the sacrament of the Eucharist at least during the
 			Easter Resurrection</item>
-        <item>4 - Fast and abstain from meat as sends the Holy Mother Church
-		</item>
+        <item>4 - Fast and abstain from meat as sends the Holy Mother Church</item>
         <item>5 - Helping the Church in your needs </item>
+    </string-array>
+    <string-array name="traducoesDisponiveis">
+        <item>English</item>
+        <item>Portuguese</item>
+        <item>Spanish</item>
     </string-array>
 
 </resources>

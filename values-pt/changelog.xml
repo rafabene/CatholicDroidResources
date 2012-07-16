@@ -2,9 +2,9 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Incluido leitura Diária</item>
-        <item>Corrigido Bug que reinicia o Terço ao girar o celular</item>
-        <item>Corrigido Bug na leitura diária em Espanhol</item>
+        <item>Removido sugestão de orações</item>
+        <item>Criado tela de configuração</item>
+        <item>Link para Avaliação no Google Play</item>
     </string-array>
 
 </resources>

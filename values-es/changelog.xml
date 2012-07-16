@@ -2,9 +2,9 @@
 <resources>
 
     <string-array name="changelog">
-        <item>La lectura diaria incluye</item>
-        <item>Corregido error que restablece el Rosario al girar el teléfono</item>
-        <item>Corregido error en la lectura diaria</item>
+        <item>Eliminado sugerencia oración</item>
+        <item>Nueva pantalla de configuración</item>
+        <item>Evaluar en el Google play</item>
     </string-array>
 
 </resources>
