@@ -2,7 +2,7 @@
 <resources>
 
     <string-array name="donsEspiritoSanto">
-        <item> 1 - Fortress </item>
+        <item> 1 - Fortitude </item>
         <item> 2 - Wisdom </item>
         <item> 3 - Science </item>
         <item> 4 - Council </item>
