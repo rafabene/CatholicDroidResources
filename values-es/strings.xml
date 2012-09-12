@@ -20,7 +20,7 @@
     <string name="ultimasAtualizacoes">Últimas actualizaciones</string>
     <string name="mandamentosIgreja">Mandamientos de la Iglesia</string>
     <string name="oracoes">Oraciones</string>
-    <string name="donsespiritosanto">Regalos del Espíritu Santo</string>
+    <string name="donsespiritosanto">Dones del Espíritu Santo</string>
     <string name="sacramentos">Sacramentos</string>
     <string name="antigotestamento">Antiguo Testamento</string>
     <string name="novotestamento">Nuevo Testamento </string>
@@ -40,27 +40,22 @@
     <string name="avalienoplay">Evaluar en Google Play</string>
     
     <string-array name="dezmandamentos">
-        <item>1 - Amar a Dios sobre todas las cosas</item>
-        <item>2 - No tomar su santo nombre en vano</item>
-        <item>3 - Guardar los domingos y festivos de guardia</item>
+        <item>1 - Amarás a Dios sobre todas las cosas</item>
+        <item>2 - No tomarás su santo nombre en vano</item>
+        <item>3 - Santificarás las fiestas</item>
         <item>4 - Honrarás a tu padre ya tu madre</item>
-        <item>5 - No matar</item>
+        <item>5 - No matarás</item>
         <item>6 - No cometerás actos impuros</item>
-        <item>7 - No robar</item>
-        <item>8 - No levantarás falso testimonio</item>
-        <item>9 - Usted no quiere que la mujer de tu prójimo</item>
-        <item>10 - No codiciarás las cosas de los demás </item>
+        <item>7 - No robarás</item>
+        <item>8 - No dirás falso testimonio ni mentirás</item>
+        <item>9 - No consentirás pensamientos ni deseos impuros</item>
+        <item>10 - No codiciarás los bienes ajenos </item>
     </string-array>
     <string-array name="mandamentosIgreja">
-        <item>1 - Asistir a Misa los domingos y otras partes
-			guardia y se
-			abstengan de las ocupaciones laborales</item>
-        <item>2 - Confesar al menos una vez al año</item>
-        <item>3 - Recibir el sacramento de la Eucaristía, al menos durante la
-			Semana Santa
-			resurrección</item>
-        <item>4 - Rápido y abstenerse de comer carne, como manda la Santa
-			Madre</item>
+        <item>1 - Asistir a Misa entera todos los domingos y fiestas de precepto</item>
+        <item>2 - Confesar los pecados mortales al menos una vez al año</item>
+        <item>3 - Comulgar al menos por Pacua de Resurección</item>
+        <item>4 - Ayunar y no comer carne cuando lo mande la Santa Madre Iglesia</item>
         <item>5 - Ayuda a la Iglesia en sus necesidades </item>
     </string-array>
         <string-array name="traducoesDisponiveis">
