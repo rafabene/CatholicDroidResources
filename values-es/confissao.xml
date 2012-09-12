@@ -4,254 +4,158 @@
     <string name="exameConsciencia">Examen de Conciencia</string>
     <string name="exame">Examen</string>
     <string name="confissao">Confesión</string>
-    <string name="confissao.aviso">ADVERTENCIA: Su examen de conciencia se pierde por 
-		cuestiones de privacidad, 
-		si salir de esta pantalla! 
+    <string name="confissao.aviso">ADVERTENCIA:  
+		¡Por cuestiones de privacidad Su examen de conciencia se pierde si sale de esta pantalla! 
 	</string>
     <string name="confissao.ritoInicial">
-		Bendíceme padre porque he pecado No es [tiempo] Yo hice mi 
+		Bendíceme padre porque he pecado. Hace [tiempo] Hice mi 
 		última confesión. Mis pecados son los siguientes … 
 	</string>
 
     <string-array name="confissao_mandamentos">
-        <item>Primero Mandamiento: Yo soy el Señor tu Dios, No tendrás dioses 
-			extraños delante de mí (incluyendo los pecados contra la fe, la esperanza y 
-			Caridad) 
+        <item>Primer Mandamiento: Yo soy el Señor tu Dios, No tendrás dioses extraños delante de mí (incluyendo los pecados contra la fe, la esperanza y la Caridad) 
 		</item>
-        <item>Segundo Mandamiento: No tomarás el Nombre del Señor tu Dios en se.</item>
-        <item>Tercero Mandamiento: Recuerde has de santificar el día sábado </item>
-        <item>Cuarto Mandamiento: Honra a tu padre ya tu madre</item>
-        <item>Quinta Mandamiento. No matarás</item>
-        <item>Sexto y Noveno Mandamientos: Tú No cometerás adulterio. No codiciarás 
-				la esposa del vecino.
-		</item>
-        <item>Séptimo y Décimo Mandamientos: No robarás. No codiciarás los bienes 
-				de tu prójimo. 
-		</item>
-        <item>Octava Mandamiento: Tú no levantarás falso testimonio contra su vecino. 
-		</item>
+        <item>Segundo Mandamiento: No tomarás el Nombre del Señor tu Dios en vano.</item>
+        <item>Tercer Mandamiento: Recuerda que has de santificar el día del Señor </item>
+        <item>Cuarto Mandamiento: Honra a tu padre y a tu madre</item>
+        <item>Quinto Mandamiento. No matarás</item>
+        <item>Sexto y Noveno Mandamientos: No cometerás adulterio. No desearás la esposa de tu prójimo.</item>
+        <item>Séptimo y Décimo Mandamientos: No robarás. No codiciarás los bienes de tu prójimo.</item>
+        <item>Octavo Mandamiento: No levantarás falsos testimonios ni mentirás.</item>
     </string-array>
     <string-array name="confissao_primeiroMandamento">
-        <item> Descuidado el conocimiento de mi fe, como enseña el Catecismo 
-				enseña, como el Credo de los Apóstoles, los Diez Mandamientos, las Siete 
-				Sacramentos, el Padre Nuestro, etc 
-		</item>
-        <item>He dudado deliberadamente alguna de las enseñanzas de 
-				Iglesia o negado 
-		</item>
-        <item>He participado en un acto de culto católico no es</item>
-        <item>Soy miembro de alguna organización religiosa no católica, la 
-			secreto de la sociedad o un grupo de anti-católico 
-		</item>
-        <item>Leído alguna vez, con la conciencia de lo que hizo, un poco de literatura 
-			heréticas, blasfemas, o anti-católico 
-		</item>
-        <item>Practiqué alguna superstición (como los horóscopos, la fortuna, 
-			Tablero de Ouija, etc.) 
-		</item>
-        <item>Dejar de recomendar mi diario a Dios</item>
-        <item>Dejar de orar fiel a mis oraciones diarias</item>
-        <item>He abusado de los sacramentos de ninguna manera</item>
-        <item>Se burlan de Dios de la Virgen, los santos, la Iglesia, el 
-				Sacramentos, u otras cosas santas 
-		</item>
-        <item>Yo era culpable de gran irreverencia en la iglesia, por ejemplo, 
-			conversación, el comportamiento, o cómo estaba vestido 
-		</item>
-        <item>Me era indiferente a mi fe católica - la creencia de que un 
-			puede ser salvo en cualquier religión o todas las religiones 
-		</item>
-        <item>Asumido en ningún momento había garantizado la misericordia de Dios 
-		</item>
-        <item>Desesperar de la misericordia de Dios</item>
-        <item>Yo odiaba a Dios</item>
-        <item>He dado demasiada importancia a cualquier otra criatura, la actividad, objeto 
-			o la opinión 
-		</item>
+        <item> He descuidado el conocimiento de mi fe, como lo enseñan: El Catecismo, el Credo de los Apóstoles, los Diez Mandamientos, las Siete Sacramentos, el Padre Nuestro, etc.</item>
+        <item>He dudado, o negado deliberadamente alguna de las enseñanzas de la Iglesia</item>
+        <item>He participado en un acto de culto no católico</item>
+        <item>Soy miembro de alguna organización religiosa no católica, de una sociedad secreta o grupo anti-católico</item>
+        <item>He leído concientemente, alguna vez, literatura herética, blasfema, o anti-católica</item>
+        <item>Practiqué alguna superstición (como los horóscopos, la adivinación, el tablero de Ouija, etc.)</item>
+        <item>He dejado de encomendarme diariamente a Dios</item>
+        <item>He dejado de hacer fielmente mis oraciones diarias</item>
+        <item>He abusado de los sacramentos de alguna manera</item>
+        <item>Me he burlado de Dios, de la Virgen, los santos, la Iglesia, los Sacramentos, u otras cosas santas</item>
+        <item>He sido irreverente en la iglesia, por ejemplo: con la conversación, el comportamiento, o asistiendo indecorosamente vestido</item>
+        <item>He sido indiferente a mi fe católica - Ej: la creencia de que uno puede salvarse en cualquier religión o que todas las religiones son iguales</item>
+        <item>He asumido en algún momento que no importa lo que haga, la misericordia de Dios me garantiza la salvación</item>
+        <item>He desesperado de la misericordia de Dios</item>
+        <item>He odiado a Dios</item>
+        <item>He dado demasiada importancia a cualquier otra criatura, actividad o a la opinión agena</item>
     </string-array>
     <string-array name="confissao_segundoMandamento">
-        <item>Juro por el nombre de Dios falsamente, o temerariamente 
-			asuntos triviales y sin importancia 
+        <item>Juro falsamente por el nombre de Dios, temerariamente o en asuntos triviales o sin importancia</item>
+        <item>He murmurado o me he quejado en contra de Dios (blasfemia)</item>
+        <item>Me maldecido a mí mismo o a otra persona o criatura
 		</item>
-        <item>Murmuré o se han quejado en contra de Dios (blasfemia)</item>
-        <item>Me maldijo a mí mismo oa otra persona o criatura
+        <item>Me he enojado, hasta maldecir o blasfemar 
 		</item>
-        <item>Me he enojado, para jurar o blasfemar 
-		</item>
-        <item>Rompió una promesa a Dios</item>
+        <item>Rompí una promesa a Dios</item>
     </string-array>
     <string-array name="confissao_terceiroMandamento">
-        <item>Me perdí a misa los domingos o días festivos de</item>
-        <item>Llegué tarde a Misa los domingos y fiestas de precepto, 
-			o se fue temprano por mí 
-		</item>
-        <item>Fque hizo que la gente otra falta a misa los domingos y los días 
-				Santos de guardia, o salir temprano o llegar tarde a 
-				Masa 
-		</item>
-        <item>Sido deliberadamente distrae durante la misa</item>
-        <item>He hecho o mandado un trabajo innecesario el domingo o el servil 
-			Fiestas de precepto
-		</item>
-        <item>Comprar ni vender nada sin la necesidad de que los domingos y 
-			Santos guardia 
-		</item>
+        <item>Falté a la misa los domingos o fiestas de precepto</item>
+        <item>Llegué tarde a Misa los domingos y fiestas de precepto, o me retiré antes de la bendición final</item>
+        <item>He Causado que otra persona falte a Misa los domingos y los días de precepto, o que se retiren antes de la bendición final</item>
+        <item>Me he distraído deliberadamente durante la misa</item>
+        <item>He realizado o mandado un trabajo innecesario el domingo o durante fiestas de precepto</item>
+        <item>He Comprado o vendido algo sin necesidad en días  domingos o de precepto</item>
     </string-array>
     <string-array name="confissao_quartoMandamento">
-        <item>Que desobedecieron mis padres, les falta el respeto, me he olvidado 
-				para ayudarles en sus necesidades o construir su 
-				voluntad o que se negó a hacerlo 
-		</item>
-        <item>Irreverencia mostrada hacia la gente en posiciones de 
-			autoridad 
-		</item>
-        <item>O insultos que los sacerdotes difamados o de otros 
-			consagrado a Dios 
-		</item>
-        <item>Tenía menos respeto por los ancianos </item>
-        <item>Me maltrataron a mi esposa o mis hijos</item>
-        <item>Yo fui desobediente a mi marido, o le falta el respeto</item>
-        <item>Me he olvidado de sus necesidades materiales de mis hijos</item>
-        <item>No trató de bautizar a mis hijos a principios</item>
-        <item>Descuidar la educación religiosa de mis hijos a la derecha</item>
-        <item>Dejé a mis hijos descuidar sus deberes religiosos 
-		</item>
-        <item>Me detuve para ver las empresas con las que mis hijos andan</item>
-        <item>Para disciplinarlos cuando dejé a mis hijos esa necesidad 
-		</item>
-        <item> Dei ejemplo mal a mis hijos</item>
-        <item>Escandalizó a mis hijos, discutiendo con mi esposo en frente sus 
-		</item>
-        <item>Escandalizó a mi diciendo obscenidades delante </item>
-        <item>Me fui para mantener la modestia en mi casa</item>
-        <item>Que mis hijos a usar ropa inmodesta </item>
-        <item>He negado a mis hijos la libertad de casarse o seguir un 
-				vocación religiosa 
-		</item>
+        <item>He desobedecido a mis padres, les falté el respeto, me he olvidado de ayudarles en sus necesidades o hacer su voluntad o me he negado a hacerlo</item>
+        <item>He sido irreverente hacia personas investidas de autoridad</item>
+        <item>He insultado o difamado a los sacerdotes o a otros consagrados a Dios</item>
+        <item>He faltado al respeto a los ancianos </item>
+        <item>He maltratado a mi esposa o a mis hijos</item>
+        <item>He sido desobediente a mi marido, o le falté el respeto</item>
+        <item>Me he olvidado de las necesidades materiales de mis hijos</item>
+        <item>No he buscado bautizar a mis hijos recien nacidos</item>
+        <item>He descuidado la búsqueda de educación religiosa para mis hijos</item>
+        <item>Permití a mis hijos descuidar sus deberes religiosos</item>
+        <item>He descuidado el vigilar las compañias con las que andan mis hijos</item>
+        <item>He sido negligente en la necesidad de corregir a mis hijos</item>
+        <item>He dado mal ejemplo a mis hijos</item>
+        <item>He escandalizado a mis hijos, discutiendo con mi pareja delante de ellos</item>
+        <item>Los he escandalizado diciendo obscenidades</item>
+        <item>He sido negligente para mantener la modestia en mi casa</item>
+        <item>Permito a mis hijos a usar ropa inmodesta</item>
+        <item>He negado a mis hijos la libertad para casarse o seguir una vocación religiosa   </item>
     </string-array>
     <string-array name="confissao_quintoMandamento">
-        <item>Adquiridos, desea, o aceleró la muerte o lesiones de una persona 
+        <item>He deseado, o relizado acciones para acelerar la muerte o lesionar a una persona 
 		</item>
-        <item>Odio alimentado por alguien </item>
-        <item>oprimido a nadie</item>
-        <item>Quiso vengar me</item>
-        <item>Causado enemistad entre otros</item>
-        <item>discutido o peleado con alguien</item>
-        <item>deseado el mal a alguien</item>
-        <item>Quería herir o maltratar a alguien, o trató de hacerlo </item>
-        <item>Me niego a hablar con alguien, o alguien de resentimiento</item>
-        <item>Yo me alegré alegrarse del mal ajeno</item>
+        <item>He alimentado odio por alguien </item>
+        <item>He oprimido a alguien</item>
+        <item>Me he querido vengar</item>
+        <item>He causado enemistad entre otros</item>
+        <item>He discutido o peleado con alguien</item>
+        <item>He deseado el mal a alguien</item>
+        <item>He querido herir o maltratar a alguien, o traté de hacerlo </item>
+        <item>Me niego a hablar con alguien, por resentimiento</item>
+        <item>Me he alegrado del mal ajeno</item>
         <item>He sido celoso o envidioso de cualquiera</item>
-        <item>He tratado o tener un aborto, o alguien que aconsejó a los 
-			hacer
+        <item>He tratado de tener un aborto, o he aconsejado hacerlo a alguien
 		</item>
-        <item>Mutilado el cuerpo sin necesidad de ninguna manera </item>
-        <item>consentido pensamientos de suicidio, que quería matarme o 
-			intento de suicidio
-		</item>
-        <item>Me emborracharse o ha usado drogas ilegales </item>
-        <item>Comí demasiado, o no lo suficientemente descuidado</item>
-        <item>Que no pudo corregir dentro de las reglas de la caridad</item>
-        <item>He perjudicado el alma de nadie, especialmente los niños, dando 
-			escándalo por el mal ejemplo 
-		</item>
-        <item>Me duele mi alma, exponiéndolos intencionalmente y sin 
-			necesidad de tentaciones y malos programas de televisión, la música 
-			playas reprobables, etc. 
-		</item>
+        <item>He mutilado mi cuerpo, de alguna manera, sin necesidad</item>
+        <item>He consentido pensamientos de suicidio, he deseado matarme o he intentado suicidarme</item>
+        <item>Me emborrachado o usado drogas ilegales </item>
+        <item>He descuidado mi alimentación, comiendo demasiado o de manera insuficiente</item>
+        <item>He faltado a las reglas de la caridad</item>
+        <item>He perjudicado el alma de alguien, especialmente los de niños, dando escándalo por el mal ejemplo</item>
+        <item>Me arrepineto, de exponerlos intencionalmente y sin necesidad a tentaciones: malos programas de televisión, música obcena, playas reprobables, etc.</item>
     </string-array>
     <string-array name="confissao_sextoEnonoMandamento">
-        <item>Negué mi cónyuge el matrimonio de sus derechos</item>
-        <item>Nacimiento practicada control (pastillas, dispositivos, 
-			interrupción) 
-		</item>
-        <item>He abusado de mi derecho al matrimonio de cualquier otra manera</item>
-        <item>Cometido adulterio o la fornicación (sexo premarital)</item>
-        <item>Hice ningún pecado contra la naturaleza no natural (la homosexualidad o 
-			el lesbianismo, etc.) 
-		</item>
-        <item>Impura he pecado contra mí mismo (masturbación)</item>
-        <item>Consentido pensamientos impuros, o que se complacieron en ellos</item>
-        <item>Consentido impuros deseos con alguien, o quería 
-				conscientemente ver o hacer algo impuro 
-		</item>
-        <item>Conscientemente me dio el placer sexual, total o 
-			incompleto 
-		</item>
-        <item>Yo era una ocasión de pecado para otros por usar ropa apretada, 
-			revelar o inmodesto
-		</item>
-        <item>He hecho algo deliberadamente o por descuido, que 
-			provocar pensamientos impuros o los deseos de otra persona
-		</item>
-        <item> leo literatura indecente o miraba imágenes mal</item>
-        <item>Visto películas o programas de televisión sugestivos, o pornográfico 
-			Internet, o permitir a mis hijos a hacerlo 
-		</item>
-        <item>Yo lenguaje indecente o contaban historias indecentes</item>
-        <item>He escuchado historias desagradables del fondo de comercio</item>
-        <item>Se jactó de que mis pecados, o se deleitan en recordar los pecados 
-				viejo 
-		</item>
-        <item>Estado en compañía lascivos</item>
-        <item>Consentido miradas impuras</item>
+        <item>He negado a mi cónyuge  sus derechos matrimoniales</item>
+        <item>He usado (pastillas, dispositivos, etc.) para evitar lo embarazos o para interrumpirlos</item>
+        <item>He abusado en alguna forma de mi derecho matrimonial</item>
+        <item>He cometido adulterio o fornicación (sexo premarital o extramatrimonial)</item>
+        <item>Cometí algún pecado contra la naturaleza (la homosexualidad o el lesbianismo, etc.)</item>
+        <item>He cometido actos impuros conmigo mismo (masturbación)</item>
+        <item>He consentido pensamientos impuros, y me he complacido en ellos</item>
+        <item>He consentido deseos impuros con alguien, o deseé conscientemente ver o hacer algo impuro</item>
+        <item>Consentí algo que me produjo placer sexual, total o incompleto</item>
+        <item>He sido ocasión de pecado para otros por usar ropa apretada, reveladora o inmodesta</item>
+        <item>He hecho algo deliberadamente o por descuido, que pueda provocar pensamientos impuros o deseos en otra persona</item>
+        <item> leo literatura indecente o veo imágenes pornográficas</item>
+        <item>He visto películas o programas de televisión o Internet sugestivos, o pornográficos, o permito a mis hijos a hacerlo</item>
+        <item>Uso lenguaje indecente o cuento historias indecentes</item>
+        <item>He disfrutado escuchando historias desagradables</item>
+        <item>Me jacto de mis pecados, o me deleito en recordar los pecados pasados</item>
+        <item>He Estado en compañías lascivas</item>
+        <item>He consentido miradas impuras</item>
         <item>Me olvidé de controlar mi imaginación </item>
-        <item>Dejado de rezar en vez de desterrar los malos pensamientos y 
-			tentaciones 
+        <item>He dejado de rezar para de desterrar los malos pensamientos y tentaciones</item>
+        <item>He sido negligente para evitar la gula, la pereza, y ocasiones para la impureza
 		</item>
-        <item>Me fui para evitar la pereza, la gula, la pereza, y ocasiones para 
-			impureza
-		</item>
-        <item>Me fui a los juegos de danzas inmodesto o indecente</item>
+        <item>He asistido a juegos y/o danzas inmodestas o indecentes</item>
     </string-array>
     <string-array name="confissao_setimoEdecimoMandamento">
-        <item>Me robó algo? ¿Qué o cuánto </item>
-        <item>Dañé a nadie de la propiedad</item>
-        <item>Dejar que la ruina por el abandono, la propiedad de los demás</item>
-        <item>Me fue negligente en la administración de dinero o propiedad de otros</item>
-        <item>Yo trampa o defraudado a otros</item>
+        <item>¿He robado algo? ¿Qué o cuánto? </item>
+        <item>Dañé a alguien en su propiedad</item>
+        <item>He dejado arruinar por abandono, la propiedad de los demás</item>
+        <item>He sido negligente en la administración de dinero o propiedad agena</item>
+        <item>He hecho trampa o defraudado a alguien</item>
         <item>Jugué demasiado</item>
-        <item>Me negué a pagar cualquier deuda o descuidado en su me pago 
-		</item>
-        <item>Adquirido todo lo conocido que fue robado </item>
-        <item>No pude devolver algo prestado</item>
-        <item>Lesei mi jefe, no funciona como se espera de mí</item>
-        <item>Hice trampa de los salarios de mis empleados </item>
-        <item>Que se negó a ayudar a cualquier persona en necesidad urgente de ayuda, 
-				o dejado de hacer, así que 
-		</item>
-        <item>no pude devolver lo que robaron, o los obtenidos por 
-			el fraude (Ask el sacerdote como a la restitución, o 
-			es decir, volver a la el dueño lo llevó) 
-		</item>
-        <item>Alguien me envidia por tener algo que no he</item>
-        <item>Tuve envidia de los productos de una</item>
+        <item>Me negué a pagar cualquier deuda o he descuidado su pago</item>
+        <item>He adquirido algo, sabiendo que fue robado</item>
+        <item>No devolví algo prestado</item>
+        <item>Engañé a mi jefe, al no cumplir lo que se espera de mí</item>
+        <item>Hice trampa con los salarios de mis empleados </item>
+        <item>Me he negado o he dejado de a ayudar a alguien en una necesidad urgente</item>
+        <item>No he devuelto lo robado, o lo obtenido por fraude (Pregunte al sacerdote como proceder a la restitución, es decir, devolver al dueño lo defraudado o robado)</item>
+        <item>Envidio a alguien por tener algo que deseo</item>
+        <item>He envidiado el producto de actos ilícitos</item>
         <item>He sido mezquino</item>
-        <item>He dado demasiada importancia a los bienes materiales y comodidades
-		</item>
+        <item>He dado demasiada importancia a los bienes materiales y comodidades</item>
     </string-array>
     <string-array name="confissao_oitavoMandamento">
-        <item>Mentí sobre alguien (calumnia) </item>
-        <item>Mi mentiras les causó el daño o espiritual</item>
-        <item>Que temerariamente juzga a nadie (es decir, 
-			creía firmemente, sin pruebas suficientes, que eran culpables de 
-			algún defecto moral o crimen) 
-		</item>
-        <item>Lesionado el buen nombre de alguien que revela las fallas, pero cierto 
-			ocultos (calumnia) 
-		</item>
+        <item>Mentí sobre alguien (calumnia)</item>
+        <item>Mi mentira le causó daño material o espiritual</item>
+        <item>Juzgo temerariamente a alguien (es decir, asguro firmemente, sin pruebas suficientes, que es culpable de algún defecto moral o crimen)</item>
+        <item>He lesionado el buen nombre de alguien revelando sus faltas ciertas, pero ocultas (calumnia)</item>
         <item>Revelar los pecados de alguien</item>
-        <item>Yo era culpable de hacer intrigas (es decir, por decir algo 
-			desfavorable que alguien dijo que alguien más, para crear enemistad 
-			entre ellos) 
+        <item>He sido culpable de intrigas (es decir, he dicho algo desfavorable que alguien dijo de alguien más, para crear enemistad entre ellos)</item>
+		<item>Dí crédito o apoyé la difusión de algún escándalo acerca de mi prójimo 
 		</item>
-		<item>Dei de crédito o el apoyo a la difusión del escándalo acerca de mi 
-			próximo 
-		</item>
-		<item>Juré firmó documentos falsos o false elemento</item>
-		<item>Estoy  crítico o negativo innecesariamente o se pierda a la caridad en 
-			mis conversaciones 
-		</item>
+		<item>Juré, firmé documentos falsos o falseé documentos</item>
+		<item>Soy  crítico o negativo innecesariamente o pierdo la caridad en mis conversaciones</item>
     </string-array>
 
 </resources>
