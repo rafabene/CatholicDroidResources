@@ -2,9 +2,10 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Removed Prayer Suggestion</item>
-        <item>New config screen</item>
-        <item>Evaluate at Google Play</item>
+        <item>Full Spanish Revision, Thanks to Efraín Valcke</item>
+        <item>Corrected problem on Portuguese Daily Reading</item>
+        <item>New button on Config screen</item>
+        <item>Shows the application version on Main screen</item>
     </string-array>
 
 </resources>

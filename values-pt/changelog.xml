@@ -2,9 +2,10 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Removido sugestão de orações</item>
-        <item>Criado tela de configuração</item>
-        <item>Link para Avaliação no Google Play</item>
+        <item>Revisão dos texto em espanhol. Obrigado a Efraín Valcke</item>
+        <item>Corrigido um problema na Leitura Diária em Portugues</item>
+        <item>Novo botão na tela de configuração</item>
+        <item>Mostra a versão da aplicação na tela principal</item>
     </string-array>
 
 </resources>

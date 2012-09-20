@@ -16,6 +16,8 @@
     <string name="sim">Yes</string>
     <string name="nao">No</string>
     <string name="aguarde">Wait …</string>
+    <string name="sobre">About</string>
+    <string name="reportIssue">Report an Issue</string>
     <string name="leituraDiaria">Daily Reading</string>
     <string name="ultimasAtualizacoes">Last Changes</string>
     <string name="mandamentosIgreja">Commandments of the Church </string>

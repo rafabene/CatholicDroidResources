@@ -3,12 +3,24 @@
 	android:orientation="vertical" android:layout_width="fill_parent"
 	android:layout_height="fill_parent" android:background="@drawable/background">
 
+	<TextView
+	    android:id="@+id/txtSplashScreenMain"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_horizontal"
+	    android:background="@android:color/transparent"
+	    android:gravity="center"
+	    android:text="@string/app_name"
+	    android:textColor="@color/fontColor"
+	    android:textSize="40dp" />
 
-	<TextView android:id="@+id/txtSplashScreenMain" android:text="@string/app_name"
-		android:textColor="@color/fontColor" android:gravity="center"
-		android:textSize="40dp" android:layout_gravity="center_horizontal"
-		android:background="@android:color/transparent" android:layout_width="wrap_content"
-		android:layout_height="wrap_content" />
+	<TextView
+	    android:id="@+id/txtVersao"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_horizontal"
+	    android:text="TextView"
+	    android:textColor="@color/fontColor" />
 
 	<GridView xmlns:android="http://schemas.android.com/apk/res/android"
 		android:orientation="vertical" android:layout_width="fill_parent"

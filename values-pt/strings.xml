@@ -16,6 +16,8 @@
     <string name="sim">Sim</string>
     <string name="nao">Não</string>
     <string name="aguarde">Aguarde…</string>
+    <string name="sobre">Sobre</string>
+    <string name="reportIssue">Reporte um problema/sugestão</string>
     <string name="leituraDiaria">Leitura Diária</string>
     <string name="ultimasAtualizacoes">Últimas Atualizações</string>
     <string name="mandamentosIgreja">Mandamentos da Igreja</string>
