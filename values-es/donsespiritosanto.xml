@@ -6,66 +6,27 @@
         <item>2 - Sabiduría</item>
         <item>3 - Ciencia</item>
         <item>4 - Consejo</item>
-        <item>5 - Entender</item>
+        <item>5 - Entendimiento</item>
         <item>6 - Piedad</item>
-        <item>7 -  Teme a Dios</item>
+        <item>7 -  Temor de Dios</item>
     </string-array>
 
     <string name="fortaleza.descricao">
-	     Es el don de resistir a la tentación, para ser coherente con el Evangelio, 
-		a tomar riesgos en la lucha por la justicia, no de miedo martirio. 
-		St. Paul se basó en el don de fortaleza. Él dijo: "Si Dios está con nosotros 
-		¿quién contra nosotros? "(Romanos 8:31). 
-	</string>
+	     Es el don de resistir a la tentación, para ser coherente con el Evangelio, para tomar riesgos en la lucha por la justicia, no tener miedo al martirio. San Pablo se basó en el don de fortaleza, cuando dijo: "Si Dios está con nosotros ¿quién contra nosotros? "(Romanos 8:31). </string>
     <string name="sabedoria.descricao">
-	    Es el don del derecho de percibir y el mal, 
-		que facilita y dificulta el diseño de Dios. 
-		Por este don no busca las ventajas de este mundo, pero el 
-		Bien supremo, la vida, que llena nuestros corazones con la paz 
-		y nos hace felices. Dice el Señor: 
-		"Bienaventurado el hombre que encontró la sabiduría … 
-		Es más valiosa que las perlas "(cf. Prov. 3:13-15). 
-	</string>
+	    Es el don que permite diferenciar el bien del mal, que facilita y señala los designios de Dios. Por este don se prefiere el bien supremo a las ventajas de este mundo, la vida en Dios, que llena nuestros corazones con la paz y nos hace felices. Dice el Señor: "Bienaventurado el hombre que encontró la sabiduría … Es más valiosa que las perlas "(cf. Prov. 3:13-15). </string>
     <string name="ciencia.descricao">
-        Es el don de saber interpretar y explicar la Palabra de Dios. 
-        Por este don, el Espíritu Santo revela el interior 
-        Dios pensó en nosotros como "los misterios de Dios 
-        Nadie lo sabe, a menos que el Espíritu Santo "(1 Cor 2,10-15). 
-    </string>
+        Es el don de saber interpretar y explicar la Palabra de Dios. Por este don, el Espíritu Santo revela el pensamiento interior de Dios acerca de nosotros como " Los misterios de Dios que nadie conoce, a menos que el Espíritu Santo se lo permita "(1 Cor 2,10-15). </string>
     <string name="conselho.descricao">
-        Es el don de discernir los caminos y opciones, 
-        guía para conocer y escuchar, para animar la fe y 
-        la esperanza de la comunidad. Pero el Señor 
-        le dijo: "No se impresionó por su 
-        bonito aspecto, porque me he negado. 
-        El hombre se ve no es lo que importa: el hombre ve 
-        cara, pero el Señor ve el corazón "(1 Samuel 16:7). 
+        Es el don de discernir los caminos y opciones, es guía para conocer y escuchar, para animar la fe y la esperanza de la comunidad. Pero el Señor le dijo: "No te fijes en su aspecto ni en lo elevado de su estatura, porque Yo lo he descartado.Dios no mira como mira el hombre, porque el hombre ve las apariencias, pero Dios ve el corazón "(1 Samuel 16:7). 
     </string>
     <string name="entendimento.descricao">
-        Pues es don de Dios que nos ilumina a aceptar las verdades reveladas por Dios. 
-		Aún sin entender el misterio, somos conscientes de que es nuestra salvación, 
-		porque viene de Dios, que es infalible. El Señor dijo: 
-		"Yo les daré un corazón para que me conozcan y comprendan 
-		Yo soy el Señor "(Jer. 24,7). 
+        Es don de Dios que nos ilumina para aceptar las verdades reveladas por Dios. Aún sin entender el misterio, somos conscientes de que existe nuestra salvación, porque viene de Dios, que es infalible. El Señor dijo: "Yo les daré un corazón para que me conozcan y comprendan Yo soy el Señor "(Jer. 24,7). 
     </string>
     <string name="piedade.descricao">
-         Es el don de estar siempre abiertos a la voluntad de Dios, 
-        tratando de actuar como Jesús actuaría y la identificación de 
-        siguiente el rostro de Cristo. 
-        Es el don que el Espíritu Santo nos da un gusto 
-        amar y servir a Dios con gozo. 
-        "El reino de Dios no es comida ni bebida, 
-        sino justicia, paz y gozo en el Espíritu Santo "(Rom 14:17). 
+         Es el don de estar siempre abiertos a la voluntad de Dios, tratando de actuar como Jesús actuaría e identificando el siguiente el rostro de Cristo. Es el don que el Espíritu Santo nos da para saboreemos el amar y servir a Dios con gozo. "El reino de Dios no es comida ni bebida, sino justicia, paz y gozo en el Espíritu Santo "(Rom 14:17). 
     </string>
     <string name="temor.descricao">
-        Esto no quiere decir "temor de Dios" 
-        pero el miedo de ofender a Dios. 
-        Él es nuestro mejor amigo, 
-        Tenemos miedo de que no se 
-        devolver el amor que se debe. 
-        Más que miedo es respeto y aprecio por Dios. 
-        "Oye, Israel: el Señor nuestro Dios, Yahveh uno es. 
-        Amarás al Señor tu Dios con todo tu corazón, 
-        con toda tu alma y con todas tus fuerzas "(Dt 6,4-5). 
+        Esto no quiere decir "miedo de Dios" sino temor de ofender a Dios. Él es nuestro mejor amigo, Tenemos temor de no devolver el amor que Él merece. Más que miedo es respeto y aprecio por Dios. "Escucha, Israel: el Señor nuestro Dios, es el único Señor. Amarás al Señor, tu Dios, con todo tu corazón, con toda tu alma y con todas tus fuerzas "(Dt 6,4-5). 
     </string>
 </resources>
