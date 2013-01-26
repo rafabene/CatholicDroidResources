@@ -17,6 +17,7 @@
     <string name="nao">Não</string>
     <string name="aguarde">Aguarde…</string>
     <string name="sobre">Sobre</string>
+    <string name="share">Compartilhar</string>
     <string name="reportIssue">Reporte um problema/sugestão</string>
     <string name="leituraDiaria">Leitura Diária</string>
     <string name="ultimasAtualizacoes">Últimas Atualizações</string>
@@ -35,9 +36,10 @@
 		então arraste para direita ou esquerda</string>
     <string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração</string>
     <string name="avisoTerco">Toque nas contas do Terço para Acompanhar a oração</string>
-    <string name="traducao">Tradução</string>
     <string name="config">Configuração</string>
-    <string name="vibrarnoterco">Vibrar no terço</string>
+    <string name="traducao">Tradução:</string>
+    <string name="vibrarnoterco">Vibrar no terço:</string>
+    <string name="fontsize">Tamanho da fonte:</string>
     <string name="avalienoplay">Avalie-nos no Google Play</string>
 
     <string-array name="dezmandamentos">

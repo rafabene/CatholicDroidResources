@@ -2,10 +2,9 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Full Spanish Revision, Thanks to Efraín Valcke</item>
-        <item>Corrected problem on Portuguese Daily Reading</item>
-        <item>New button on Config screen</item>
-        <item>Shows the application version on Main screen</item>
+        <item>Option to share text</item>
+         <item>Possibility to adjust the font size</item>
+         <item>Possibility to use in portrait or landscape mode </item>
     </string-array>
 
 </resources>

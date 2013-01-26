@@ -2,10 +2,9 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Revisão dos texto em espanhol. Obrigado a Efraín Valcke</item>
-        <item>Corrigido um problema na Leitura Diária em Portugues</item>
-        <item>Novo botão na tela de configuração</item>
-        <item>Mostra a versão da aplicação na tela principal</item>
+        <item>Opção de compartilhar textos</item>
+        <item>Possibilidade de ajuste do tamanho da fonte</item>
+        <item>Possibilidade de uso em modo retrato ou paisagem</item>
     </string-array>
 
 </resources>

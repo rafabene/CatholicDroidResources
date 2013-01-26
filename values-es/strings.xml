@@ -17,6 +17,7 @@
     <string name="nao">No</string>
     <string name="aguarde">Espere cadena…</string>
     <string name="sobre">Sobre</string>
+    <string name="share">Compartir</string>
     <string name="reportIssue">Reportar un problema/sugerencia</string>
     <string name="leituraDiaria">La lectura diaria</string>
     <string name="ultimasAtualizacoes">Últimas actualizaciones</string>
@@ -36,9 +37,10 @@
 		continuación, arrastre hacia la izquierda o la derecha</string>
     <string name="avisoSugerirOracao">Haga clic en el menú para sugerir una nueva oración</string>
     <string name="avisoTerco">Toque el rezo del rosario para acompañar</string>
-    <string name="traducao">Traducción</string>
     <string name="config">Configuración</string>
-    <string name="vibrarnoterco">Vibrar en el Rosario</string>
+    <string name="traducao">Traducción:</string>
+    <string name="vibrarnoterco">Vibrar en el Rosario:</string>
+    <string name="fontsize">Tamaño de la fuente:</string>
     <string name="avalienoplay">Evaluar en Google Play</string>
     
     <string-array name="dezmandamentos">

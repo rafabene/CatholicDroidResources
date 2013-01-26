@@ -17,6 +17,7 @@
     <string name="nao">No</string>
     <string name="aguarde">Wait …</string>
     <string name="sobre">About</string>
+    <string name="share">Share</string>
     <string name="reportIssue">Report an Issue</string>
     <string name="leituraDiaria">Daily Reading</string>
     <string name="ultimasAtualizacoes">Last Changes</string>
@@ -35,9 +36,10 @@
 		drag left or right</string>
     <string name="avisoSugerirOracao"> Click the menu to suggest a new prayer</string>
     <string name="avisoTerco"> Touch the rosary prayer to Accompany </string>
-    <string name="traducao">Translation</string>
     <string name="config">Config</string>
-    <string name="vibrarnoterco">Vibrate on Rosary</string>
+    <string name="traducao">Translation:</string>
+    <string name="vibrarnoterco">Vibrate on Rosary:</string>
+    <string name="fontsize">Font size:</string>
     <string name="avalienoplay">Evaluate us at Google Play</string>
 
     <string-array name="dezmandamentos">

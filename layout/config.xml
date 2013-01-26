@@ -27,8 +27,7 @@
                 android:layout_margin="20dp"
                 android:text="@string/config"
                 android:textColor="@color/fontColor"
-                android:textSize="30dp" />
-
+                android:textSize="30sp" />
         </LinearLayout>
 
         <TableRow
@@ -45,14 +44,13 @@
                 android:layout_weight="1"
                 android:text="@string/vibrarnoterco"
                 android:textColor="@color/fontColor"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <ToggleButton
                 android:id="@+id/tglButtonVibrarTerco"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="right" />
-
         </TableRow>
 
         <TableRow
@@ -69,7 +67,7 @@
                 android:layout_weight="1"
                 android:text="@string/traducao"
                 android:textColor="@color/fontColor"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Spinner
                 android:id="@+id/comboTranslations"
@@ -77,7 +75,43 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="right"
                 android:entries="@array/traducoesDisponiveis" />
+        </TableRow>
 
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fontsize"
+                android:textColor="@color/fontColor"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/txtFontsize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="@color/fontColor"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp" 
+            >
+
+            <SeekBar
+                android:id="@+id/seekBarFontSize"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" 
+                android:layout_span="2"/>
         </TableRow>
 
         <LinearLayout
@@ -109,9 +143,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="20dp"
                 android:text="@string/ultimasAtualizacoes" />
-
         </LinearLayout>
-
     </TableLayout>
 
 </LinearLayout>
