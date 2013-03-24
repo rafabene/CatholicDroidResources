@@ -8,142 +8,169 @@
 
     <include layout="@layout/actionbar" />
 
-    <TableLayout
+    <ScrollView
         android:layout_width="fill_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:background="@drawable/background" >
 
-        <LinearLayout
+        <TableLayout
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:layout_height="0dp" >
 
-            <TextView
-                android:id="@+id/txtTituloConfig"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_margin="20dp"
-                android:text="@string/config"
-                android:textColor="@color/fontColor"
-                android:textSize="30sp" />
-        </LinearLayout>
-
-        <TableRow
-            android:id="@+id/tableRow1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:paddingTop="5dp" >
-
-            <TextView
+            <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_gravity="fill_horizontal"
-                android:layout_weight="1"
-                android:text="@string/vibrarnoterco"
-                android:textColor="@color/fontColor"
-                android:textSize="20sp" />
+                android:orientation="vertical" >
 
-            <ToggleButton
-                android:id="@+id/tglButtonVibrarTerco"
+                <TextView
+                    android:id="@+id/txtTituloConfig"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="20dp"
+                    android:text="@string/config"
+                    android:textColor="@color/fontColor"
+                    android:textSize="25sp" />
+            </LinearLayout>
+
+            <TableRow
+                android:id="@+id/tableRow1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="right" />
-        </TableRow>
+                android:layout_gravity="center"
+                android:paddingTop="5dp" >
 
-        <TableRow
-            android:id="@+id/tableRow2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:paddingTop="5dp" >
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="fill_horizontal"
+                    android:layout_weight="1"
+                    android:text="@string/vibrarnoterco"
+                    android:textColor="@color/fontColor"
+                    android:textSize="20sp" />
 
-            <TextView
-                android:id="@+id/textView1"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="fill_horizontal"
-                android:layout_weight="1"
-                android:text="@string/traducao"
-                android:textColor="@color/fontColor"
-                android:textSize="20sp" />
+                <ToggleButton
+                    android:id="@+id/tglButtonVibrarTerco"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right" />
+            </TableRow>
 
-            <Spinner
-                android:id="@+id/comboTranslations"
+            <TableRow
+                android:id="@+id/tableRow2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="right"
-                android:entries="@array/traducoesDisponiveis" />
-        </TableRow>
+                android:paddingTop="5dp" >
 
-        <TableRow
-            android:id="@+id/tableRow3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:paddingTop="5dp" >
+                <TextView
+                    android:id="@+id/txtExportDescricao"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="fill_horizontal"
+                    android:layout_weight="1"
+                    android:text="@string/traducao"
+                    android:textColor="@color/fontColor"
+                    android:textSize="20sp" />
 
-            <TextView
-                android:id="@+id/textView3"
+                <Spinner
+                    android:id="@+id/comboTranslations"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:entries="@array/traducoesDisponiveis" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/fontsize"
-                android:textColor="@color/fontColor"
-                android:textSize="20sp" />
+                android:paddingTop="5dp" >
 
-            <TextView
-                android:id="@+id/txtFontsize"
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/fontsize"
+                    android:textColor="@color/fontColor"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/txtFontsize"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:textColor="@color/fontColor"
+                    android:textSize="20sp" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="0"
-                android:textColor="@color/fontColor"
-                android:textSize="20sp" />
-        </TableRow>
+                android:paddingTop="5dp" >
 
-        <TableRow
-            android:id="@+id/tableRow4"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:paddingTop="5dp" 
-            >
+                <SeekBar
+                    android:id="@+id/seekBarFontSize"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_span="2" />
+            </TableRow>
 
-            <SeekBar
-                android:id="@+id/seekBarFontSize"
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent" 
-                android:layout_span="2"/>
-        </TableRow>
+            <TableRow
+                android:id="@+id/tableRow5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
 
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="vertical" >
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="fill_horizontal"
+                    android:layout_weight="1"
+                    android:text="@string/confissaoArquivos"
+                    android:textColor="@color/fontColor"
+                    android:textSize="20sp" />
 
-            <Button
-                android:id="@+id/btnConfigOk"
-                android:layout_width="100dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:text="@android:string/ok" />
+                <Button
+                    android:id="@+id/btnConfigArquivosConfissao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:text="@string/gerenciar" />
 
-            <TextView
-                android:id="@+id/textView2"
+            </TableRow>
+
+            <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="30dp"
-                android:text="@string/sobre"
-                android:textColor="@color/fontColor"
-                android:textSize="30dp" />
+                android:orientation="vertical" >
 
-            <Button
-                android:id="@+id/btnConfigMostrarChangelog"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="20dp"
-                android:text="@string/ultimasAtualizacoes" />
-        </LinearLayout>
-    </TableLayout>
+                <Button
+                    android:id="@+id/btnConfigOk"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@android:string/ok" />
+
+                <TextView
+                    android:id="@+id/txt_export_filename"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="30dp"
+                    android:text="@string/sobre"
+                    android:textColor="@color/fontColor"
+                    android:textSize="25sp" />
+
+                <Button
+                    android:id="@+id/btnConfigMostrarChangelog"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/ultimasAtualizacoes" />
+            </LinearLayout>
+        </TableLayout>
+    </ScrollView>
 
 </LinearLayout>

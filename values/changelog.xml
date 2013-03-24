@@ -2,9 +2,12 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Option to share text</item>
-         <item>Possibility to adjust the font size</item>
-         <item>Possibility to use in portrait or landscape mode </item>
+        <item>Changed the default english Bible</item>
+        <item>Added Angelus and Regina Coeli prayers</item>
+        <item>Import/Export the confession (password cyphered)</item>
+        <item>Pope\'s twitter</item>
+        <item>Vatican news</item>
+        <item>Daily Reading</item>
     </string-array>
 
 </resources>

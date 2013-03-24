@@ -8,8 +8,14 @@
     <string name="meditacao">Meditação</string>
     <string name="fechar">Fechar</string>
     <string name="dezmandamentos">Dez Mandamentos</string>
+    <string name="twitterpapa">Twitter do Pontifex</string>
+    <string name="twitterNovos">Exitem novos Twitters do Papa</string>
+    <string name="noticiasVaticano">Notícias do Vaticano</string>
     <string name="sair">Sair</string>
     <string name="voltar">Voltar</string>
+    <string name="visualizar">Mostrar</string>
+    <string name="importar">Importar</string>
+    <string name="exportar">Exportar</string>
     <string name="enviar">Enviar</string>
     <string name="fim">Fim</string>
     <string name="inicio">Início</string>
@@ -34,13 +40,27 @@
     <string name="avisoGestoNaoReconhecido">Gesto não reconhecido</string>
     <string name="avisoToqueTituloBiblia">Toque no título do Livro para navegar na Bíblia ou
 		então arraste para direita ou esquerda</string>
+    <string name="avisoToqueTraducaoBiblia">Toque no botão de traduções para selectionar outras versões da Bíblia</string>
     <string name="avisoSugerirOracao">Clique no menu para sugerir uma nova oração</string>
     <string name="avisoTerco">Toque nas contas do Terço para Acompanhar a oração</string>
     <string name="config">Configuração</string>
-    <string name="traducao">Tradução:</string>
+    <string name="configSalva">Configurações salvas</string>
+    <string name="traducao">Tradução</string>
     <string name="vibrarnoterco">Vibrar no terço:</string>
     <string name="fontsize">Tamanho da fonte:</string>
     <string name="avalienoplay">Avalie-nos no Google Play</string>
+    <string name="avisoexport">Seu arquivo será exportado e criptografado com a senha que você fornecer abaixo. Será necessário digitar a senha novamente na hora da importação. Você poderá gerênciar os arquivos na tela de configuração</string>
+    <string name="nomearquivo">Nome do Arquivo:</string>
+    <string name="senha">Senha:</string>
+    <string name="naovazio">Não deve ser vazio</string>
+    <string name="importadoSucesso">Arquivo importado com sucesso!</string>
+    <string name="exportadoSucesso">Arquivo exportado com sucesso!</string>
+    <string name="avisoConfissao">Agora você pode exportar/importar a confessão com senha</string>
+    <string name="confissaoArquivos">Arquivos Confissão</string>
+    <string name="gerenciar">Gerenciar</string>
+    <string name="excluirArquivoSelecionado">Excluir arquivos selecionados</string>
+    <string name="excluidSucessoArquivo">Arquivos selecionados excluídos com sucesso!</string>
+    <string name="excluirArquivoInexistente">Não existem arquivos de confissão</string>
 
     <string-array name="dezmandamentos">
         <item>1 - Amar a Deus sobre todas as coisas</item>

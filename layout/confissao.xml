@@ -1,29 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-	android:orientation="vertical" android:layout_width="fill_parent"
-	android:layout_height="fill_parent">
-	<include layout="@layout/actionbar" android:id="@+id/include1"
-		android:layout_height="wrap_content" android:layout_width="wrap_content"></include>
-	<TabHost android:id="@android:id/tabhost" android:layout_width="fill_parent"
-		android:layout_height="fill_parent">
-		<LinearLayout android:layout_width="fill_parent"
-			android:id="@+id/linearLayout1" android:layout_height="fill_parent"
-			android:orientation="vertical">
-			<TabWidget android:layout_width="fill_parent"
-				android:layout_height="wrap_content" android:id="@android:id/tabs"></TabWidget>
-			<FrameLayout android:layout_width="fill_parent"
-				android:layout_height="fill_parent" android:id="@android:id/tabcontent"
-				android:background="@drawable/background">
-				<LinearLayout android:layout_width="fill_parent"
-					android:layout_height="fill_parent" android:id="@+id/tab1">
-					<ExpandableListView android:layout_width="fill_parent" android:layout_height="fill_parent" android:id="@+id/expandableExame">
-					
-					</ExpandableListView>
-				</LinearLayout>
-				<LinearLayout android:layout_width="fill_parent"
-					android:layout_height="fill_parent" android:id="@+id/tab2"></LinearLayout>
-			</FrameLayout>
-		</LinearLayout>
-	</TabHost>
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/actionbar" >
+    </include>
+
+    <TabHost
+        android:id="@android:id/tabhost"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/background" >
+
+                <LinearLayout
+                    android:id="@+id/tab1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" >
+
+                    <ExpandableListView
+                        android:id="@+id/expandableExame"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent" >
+                    </ExpandableListView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" >
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
 
 </LinearLayout>

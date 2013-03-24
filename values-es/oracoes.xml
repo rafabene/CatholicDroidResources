@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="oracao.reginacoeli.name">Regina Coeli</string>
+    <string name="oracao.reginacoeli">        
+        V. Alégrate, Reina del cielo; aleluya.
+        \n
+
+	R. Porque el que mereciste llevar en tu seno; aleluya.
+	        \n
+	        \n
+	
+	V. Ha resucitado, según predijo; aleluya.
+        \n
+	
+	R. Ruega por nosotros a Dios; aleluya.
+        \n
+        \n
+	
+	V. Gózate y alégrate, Virgen María; aleluya.
+        \n
+	
+	R. Porque ha resucitado Dios verdaderamente; aleluya.
+        \n
+        \n
+	
+	Oración
+        \n
+	Oh Dios que por la resurrección de tu Hijo, nuestro Señor Jesucristo, te has dignado dar la alegría al mundo, concédenos que por su Madre, la Virgen María, alcancemos el gozo de la vida eterna. Por el mismo Jesucristo Nuestro Señor.
+    </string>
+    <string name="oracao.angelus.name">Angelus</string>
+    <string name="oracao.angelus">        El ángel del Señor anunció a María.
+		Y concibió por obra y gracia del espíritu Santo.
+        \n
+		
+		Dios te salve, María, llena eres de gracia; el Señor es contigo. Bendita Tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. 
+		Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte.
+        \n
+		
+		He aquí la esclava del Señor.
+		Hágase en mi según tu palabra.
+        \n
+		
+		Dios te salve, María, llena eres de gracia; el Señor es contigo. Bendita Tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.		
+		Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte.
+        \n
+		
+		Y el Verbo se hizo carne.
+		Y habitó entre nosotros.
+        \n
+		
+		Dios te salve, María, llena eres de gracia; el Señor es contigo. Bendita Tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.		
+		Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte.
+        \n
+		
+		Ruega por nosotros, Santa Madre de Dios,
+		para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.
+        \n
+		
+		Oremos		 
+		Infunde, Señor, tu gracia en nuestras almas, para que los que hemos conocido, por el anuncio del Ángel, la encarnación de tu Hijo Jesucristo,
+		lleguemos por los méritos de su Pasión y su Cruz, a la gloria de la Resurrección.
+		Por Jesucristo Nuestro Señor.
+		\n
+		
+		Amén.</string>
     <string name="oracao.santoexpedito.name">Oración a San Expedito</string>
     <string name="oracao.santoexpedito">		Mi San Expedito de las causas justas y urgentes, intercede por mi ante Nuestro Señor Jesuscristo, para que venga en mi socorro en esta hora de aflicción y desesperanza. Mi San Expedito tú que eres el Santo guerrero. Tú que eres el Santo de los afligidos. Tú que eres el Santo de los desesperados. Tú que eres el Santo de las causas urgentes, protégeme, ayúdame, otorgándome: fuerza, coraje y serenidad. ¡Atiende mi pedido! (hacer el pedido). Mi San Expedito, ayúdame a superar estas horas difíciles, protégeme de todos los que puedan perjudicarme, protege a mi familia, atiende mi pedido con urgencia. Devuélveme la Paz y la tranquilidad. ¡Mi San Expedito! Estaré agradecido por el resto de mi vida y propagaré tu nombre a todos los que tienen Fe. Muchas Gracias.</string>
     <string name="oracao.meninojesusdepraga.name">Oración al Niño Jesús de Praga </string>

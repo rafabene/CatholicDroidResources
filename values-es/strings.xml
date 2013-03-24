@@ -8,8 +8,14 @@
     <string name="meditacao">Meditación</string>
     <string name="fechar">Carca</string>
     <string name="dezmandamentos">Diez Mandamientos</string>
+    <string name="twitterpapa">Twitter del Pontifex</string>
+    <string name="twitterNovos">Hay nuevos Twitters del Papa</string>
+    <string name="noticiasVaticano">Noticias del Vaticano</string>
     <string name="sair">Salida</string>
     <string name="voltar">Volver</string>
+    <string name="visualizar">Ver</string>
+    <string name="importar">Importar</string>
+    <string name="exportar">Exportar</string>
     <string name="enviar">Enviar</string>
     <string name="fim">Final</string>
     <string name="inicio">Primero</string>
@@ -35,14 +41,28 @@
     <string name="avisoGestoNaoReconhecido">Gesto no reconocido</string>
     <string name="avisoToqueTituloBiblia">Pulse el título para ver el libro en la Biblia o a
 		continuación, arrastre hacia la izquierda o la derecha</string>
+    <string name="avisoToqueTraducaoBiblia">Pulse el botón para seleccionar transalation otras versiones</string>
     <string name="avisoSugerirOracao">Haga clic en el menú para sugerir una nueva oración</string>
     <string name="avisoTerco">Toque el rezo del rosario para acompañar</string>
     <string name="config">Configuración</string>
-    <string name="traducao">Traducción:</string>
+    <string name="configSalva">Configuraciones guardadas</string>
+    <string name="traducao">Traducción</string>
     <string name="vibrarnoterco">Vibrar en el Rosario:</string>
     <string name="fontsize">Tamaño de la fuente:</string>
     <string name="avalienoplay">Evaluar en Google Play</string>
-    
+    <string name="avisoexport">El archivo se exporta y se cifran con la contraseña que usted proporciona a continuación. Usted tendrá que introducir la contraseña de nuevo en el momento de la importación. Puede administrar los archivos en la pantalla de configuración</string>
+    <string name="nomearquivo">Nombre del archivo:</string>
+    <string name="senha">Contraseña:</string>
+    <string name="naovazio">No debe estar vacío </string>
+    <string name="importadoSucesso">Archivo mportado correctamente!</string>
+    <string name="exportadoSucesso">archivo exportado correctamente!</string>
+    <string name="avisoConfissao">Ahora usted puede exportar / importar la confesión con contraseña</string>
+    <string name="confissaoArquivos">Archivos Confesión</string>
+    <string name="gerenciar">Administrar</string>
+    <string name="excluirArquivoSelecionado">Eliminar archivos seleccionados</string>
+    <string name="excluidSucessoArquivo">Archivos seleccionados eliminado correctamente</string>
+    <string name="excluirArquivoInexistente">No hay archivos confesión</string>
+
     <string-array name="dezmandamentos">
         <item>1 - Amarás a Dios sobre todas las cosas</item>
         <item>2 - No tomarás su santo nombre en vano</item>
@@ -62,11 +82,10 @@
         <item>4 - Ayunar y no comer carne cuando lo mande la Santa Madre Iglesia</item>
         <item>5 - Ayuda a la Iglesia en sus necesidades </item>
     </string-array>
-        <string-array name="traducoesDisponiveis">
+    <string-array name="traducoesDisponiveis">
         <item>Inglés</item>
         <item>Portugués</item>
         <item>Espanõl</item>
     </string-array>
-    
 
 </resources>

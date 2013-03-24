@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Catholic Droid</string>
     <string name="biblia">Bible</string>
     <string name="avancar">Forward</string>
@@ -8,8 +7,14 @@
     <string name="meditacao">Meditation</string>
     <string name="fechar">Close</string>
     <string name="dezmandamentos">Ten Commandments</string>
+    <string name="twitterpapa">Pontifex Twitter</string>
+    <string name="twitterNovos">There is new Pope\'s Twitters</string>
+    <string name="noticiasVaticano">Vatican news</string>
     <string name="sair">Exit</string>
     <string name="voltar">Back</string>
+    <string name="visualizar">View</string>
+    <string name="importar">Import</string>
+    <string name="exportar">Export</string>
     <string name="enviar">Send</string>
     <string name="fim">End</string>
     <string name="inicio">Home</string>
@@ -34,13 +39,27 @@
     <string name="avisoGestoNaoReconhecido">gesture not recognized</string>
     <string name="avisoToqueTituloBiblia"> Tap the title to browse the Bible or
 		drag left or right</string>
+    <string name="avisoToqueTraducaoBiblia">Tap the transalation button to select other versions</string>
     <string name="avisoSugerirOracao"> Click the menu to suggest a new prayer</string>
     <string name="avisoTerco"> Touch the rosary prayer to Accompany </string>
     <string name="config">Config</string>
-    <string name="traducao">Translation:</string>
+    <string name="configSalva">Config saved</string>
+    <string name="traducao">Translation</string>
     <string name="vibrarnoterco">Vibrate on Rosary:</string>
     <string name="fontsize">Font size:</string>
     <string name="avalienoplay">Evaluate us at Google Play</string>
+    <string name="avisoexport">Seu arquivo será exportado e criptografado com a senha que você fornecer abaixo. Será necessário digar a senha novamente na hora da importação. Você poderá gerênciar os arquivos na tela de configuração</string>
+    <string name="nomearquivo">Nome do Arquivo:</string>
+    <string name="senha">Senha:</string>
+    <string name="naovazio">Must not be empty</string>
+    <string name="importadoSucesso">File Imported with success!</string>
+    <string name="exportadoSucesso">File Exported with success!</string>
+    <string name="avisoConfissao">Now you can export/import the confession with password</string>
+    <string name="confissaoArquivos">Confession files</string>
+    <string name="gerenciar">Manage</string>
+    <string name="excluirArquivoSelecionado">Delete selected files</string>
+    <string name="excluidSucessoArquivo">Selected files deleted with success!!</string>
+    <string name="excluirArquivoInexistente">There isn\'t confession files</string>
 
     <string-array name="dezmandamentos">
         <item>1 - Love God above all things</item>

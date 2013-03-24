@@ -12,7 +12,7 @@
         android:text="@string/terco.oferecimento" />
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/txtExportDescricao"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingTop="20dp"

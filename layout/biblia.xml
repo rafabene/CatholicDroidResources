@@ -9,50 +9,50 @@
         android:layout_height="wrap_content"
         layout="@layout/biblia_cabecalho" />
 
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:background="@drawable/background"
-        android:orientation="vertical" >
+    <ViewFlipper
+        android:id="@+id/viewFlipperBibliaLivros"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/background" >
 
-        <ViewFlipper
-            android:id="@+id/viewFlipperBibliaLivros"
+        <android.support.v4.view.ViewPager
+            android:id="@+id/bibliaViewPager"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content" >
+            android:layout_height="fill_parent" >
 
-            <android.support.v4.view.ViewPager
-                android:id="@+id/bibliaViewPager"
+            <ScrollView
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent" >
 
-                <ScrollView
+                <LinearLayout
+                    android:id="@+id/bibliaConteudo"
                     android:layout_width="fill_parent"
-                    android:layout_height="fill_parent" >
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
 
-                    <LinearLayout
-                        android:id="@+id/bibliaConteudo"
-                        android:layout_width="fill_parent"
+                    <ProgressBar
+                        android:id="@+id/bibliaDownloadProgress"
+                        style="?android:attr/progressBarStyleLarge"
+                        android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:orientation="vertical" >
+                        android:layout_gravity="center"
+                        android:visibility="gone" >
+                    </ProgressBar>
 
-                        <ProgressBar
-                            android:id="@+id/bibliaDownloadProgress"
-                            style="?android:attr/progressBarStyleLarge"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:visibility="gone" >
-                        </ProgressBar>
+                    <include
+                        android:id="@+id/botoesNavegacao"
+                        layout="@layout/biblia_navigation" />
+                </LinearLayout>
+            </ScrollView>
+        </android.support.v4.view.ViewPager>
 
-                        <include
-                            android:id="@+id/botoesNavegacao"
-                            layout="@layout/biblia_navigation" />
-                    </LinearLayout>
-                </ScrollView>
-            </android.support.v4.view.ViewPager>
+        <include layout="@layout/biblia_livros" />
+    </ViewFlipper>
 
-            <include layout="@layout/biblia_livros" />
-        </ViewFlipper>
-    </LinearLayout>
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/admob" />
 
 </LinearLayout>

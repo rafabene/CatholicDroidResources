@@ -1,9 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="oracao.reginacoeli.name">Regina Coeli</string>
+    <string name="oracao.reginacoeli">        Queen of Heaven rejoice, Alleluia
+        \n
+		For He whom thou wast worthy to bear, Alleluia
+        \n
+        \n
+		
+		Has risen as He said, Alleluia 
+        \n
+		Pray for us to God, Alleluia.
+        \n
+        \n
+		
+		Rejoice and be glad, O Virgin Mary, Alleluia. 
+        \n
+		For the Lord has truly risen, Alleluia
+        \n
+        \n
+		
+		Let us Pray.
+        \n
+		O God, who didst deign to give joy to the world by the resurrection of Your Son, Our Lord Jesus Christ Grant that through the intercession of the Virgin Mary, His Mother, we may enter into the joys of eternal life. Through Christ Our lord.
+		Amen	</string>
+    <string name="oracao.angelus.name">Angelus</string>
+    <string name="oracao.angelus">        The Angel of the Lord declared to Mary: 
+		And she conceived of the Holy Spirit. 
+        \n
+		
+		Hail Mary, full of grace, the Lord is with thee; blessed art thou among women and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of
+		our death. Amen. 
+        \n
+		
+		Behold the handmaid of the Lord: Be it done unto me according to Thy word.
+        \n
+		
+		Hail Mary, full of grace, the Lord is with thee; blessed art thou among women and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of
+		our death. Amen. 
+        \n
+
+		And the Word was made Flesh: And dwelt among us. 
+        \n
+
+		Hail Mary, full of grace, the Lord is with thee; blessed art thou among women and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of
+		our death. Amen. 
+        \n
+		
+		Pray for us, O Holy Mother of God, that we may be made worthy of the promises of Christ. 
+		Let us pray: 
+		Pour forth, we beseech Thee, O Lord, Thy grace into our hearts; that we, to whom the incarnation of Christ, Thy Son, was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection, through the same Christ Our Lord.
+        \n
+
+		Amen.  	</string>
     <string name="oracao.santoexpedito.name">Prayer to Saint Expedite</string>
-    <string name="oracao.santoexpedito">
-		My Saint Expedite of urgent and just causes, please intercede for me with Our Lord Jesus Christ.
+    <string name="oracao.santoexpedito">		My Saint Expedite of urgent and just causes, please intercede for me with Our Lord Jesus Christ.
       Succor me in this hour of affliction and despair, my Saint Expedite. You who are a Holy warrior, You who are the Saint of the afflicted, You who are the Saint of the desperate, you who are the Saint of urgent causes, Protect me, Help me, Give me Strength, Courage and Serenity.
 
       Hear my plea. ____________ (Clearly express what you want, and ask him to find a way to get it to you.)
@@ -13,22 +64,18 @@
      Amen.
     (Say one Our Father, one Holy Mary, and make the sign of the cross.)
 
-    (Be sure to provide the offering you promised if Saint Expedite grants your petition)
-	</string>
+    (Be sure to provide the offering you promised if Saint Expedite grants your petition)</string>
     <string name="oracao.meninojesusdepraga.name">Prayer to the Infant Jesus of Prague</string>
-    <string name="oracao.meninojesusdepraga">
-		O Jesus, Who said, "Ask and you shall receive, seek and you shall find, knock
+    <string name="oracao.meninojesusdepraga">		O Jesus, Who said, "Ask and you shall receive, seek and you shall find, knock
 		and it shall be opened to you," through the intercession of Mary, Your most holy Mother, I knock, I seek, I ask that my prayer be answered.  (Mention your request)
 
       O Jesus, Who said, "All that you ask of the Father in My Name He will grant you," through the intercession of Mary, Your most holy Mother, I humbly and urgently ask Your Father in Your Name that my prayer be granted.  (Mention your request.)
 
       O Jesus, Who said, "Heaven and earth will pass away, but My word shall not pass," through the intercession of Mary, Your most holy Mother, I feel confident that my prayer will be granted.  (Mention your request)
 
-      Amen
-	</string>
+      Amen</string>
     <string name="oracao.saojorge.name">Prayer of Saint George</string>
-    <string name="oracao.saojorge">
-		O Saint George, my Holy Warrior, invincible faith
+    <string name="oracao.saojorge">		O Saint George, my Holy Warrior, invincible faith
 		in God, which brings
 		your face in the hope and confidence, open my
 		ways. I will walk
@@ -49,11 +96,9 @@
 		grace I ask (request).
 		Give me courage and hope, strengthen my faith
 		and auxiliai me this
-		need.
-	</string>
+		need.</string>
     <string name="oracao.saomiguel.name">Prayer of St. Michael the Archangel</string>
-    <string name="oracao.saomiguel">
-		Saint Michael the Archangel,
+    <string name="oracao.saomiguel">		Saint Michael the Archangel,
       defend us in battle.
       Be our protection against the wickedness and snares of the devil.
       May God rebuke him, we humbly pray;
@@ -62,11 +107,9 @@
       cast into hell, satan and all the evil spirits,
       who roam throughout the world seeking the ruin of souls.
 
-      Amen. 
-	</string>
+      Amen. </string>
     <string name="oracao.almadecristo.name">Soul of Christ</string>
-    <string name="oracao.almadecristo">
-		Soul of Christ, santify me.
+    <string name="oracao.almadecristo">		Soul of Christ, santify me.
 		Body of Christ, save me.
 		Blood of Christ, inebriate me.
 		Water from the side of Christ, wash me.
@@ -80,11 +123,9 @@
 		That with your saints I may praise you
 		forever and ever.
 
-Amen.
-	</string>
+Amen.</string>
     <string name="oracao.saofrancisco.name">Prayer of St. Francis</string>
-    <string name="oracao.saofrancisco">
-		Lord, make me an instrument of your peace.
+    <string name="oracao.saofrancisco">		Lord, make me an instrument of your peace.
 		Where there is hatred, let me sow love;
 		where there is injury,pardon;
 		where there is doubt, faith;
@@ -99,11 +140,9 @@ Amen.
 		to be loved as to love.
 		For it is in giving that we receive;
 		it is in pardoning that we are pardoned;
-		and it is in dying that we are born to eternal life. Amen 
-	</string>
+		and it is in dying that we are born to eternal life. Amen </string>
     <string name="oracao.avemaria.name">Hail Mary</string>
-    <string name="oracao.avemaria">
-		Hail Mary, full of grace.
+    <string name="oracao.avemaria">		Hail Mary, full of grace.
 		Our Lord is with thee.
 		Blessed art thou among women,
 		and blessed is the fruit of thy womb,
@@ -111,11 +150,9 @@ Amen.
 		Holy Mary, Mother of God,
 		pray for us sinners,
 		now and at the hour of our death.
-		Amen. 
-	</string>
+		Amen. </string>
     <string name="oracao.painosso.name">Our Father</string>
-    <string name="oracao.painosso">
-		Our Father, Who is in heaven,
+    <string name="oracao.painosso">		Our Father, Who is in heaven,
 		Holy is Your Name;
 		Your kingdom come,
 		Your will be done,
@@ -124,15 +161,11 @@ Amen.
 		and forgive us our sins,
 		as we forgive those who sin against us;
 		and lead us not into temptation,
-		but deliver us from evil. Amen. 
-	</string>
+		but deliver us from evil. Amen. </string>
     <string name="oracao.salveRainha.name">Hail Holy Queen</string>
-    <string name="oracao.salveRainha">
-		Hail, holy Queen, Mother of mercy, hail, our life, our sweetness and our hope. To thee do we cry, poor banished children of Eve: to thee do we send up our sighs, mourning and weeping in this vale of tears. Turn then, most gracious Advocate, thine eyes of mercy toward us, and after this our exile, show unto us the blessed fruit of thy womb, Jesus, O merciful, O loving, O sweet Virgin Mary! Amen.
-	</string>
+    <string name="oracao.salveRainha">		Hail, holy Queen, Mother of mercy, hail, our life, our sweetness and our hope. To thee do we cry, poor banished children of Eve: to thee do we send up our sighs, mourning and weeping in this vale of tears. Turn then, most gracious Advocate, thine eyes of mercy toward us, and after this our exile, show unto us the blessed fruit of thy womb, Jesus, O merciful, O loving, O sweet Virgin Mary! Amen.</string>
     <string name="oracao.credo.name">The Apostles Creed</string>
-    <string name="oracao.credo">
-		I believe in God,
+    <string name="oracao.credo">		I believe in God,
 		the Father Almighty,
 		Creator of Heaven and earth.
 		
@@ -151,18 +184,14 @@ Amen.
 		the communion of saints,
 		the forgiveness of sins,
 		the resurrection of the body,
-		and life everlasting. Amen. 
-	</string>
+		and life everlasting. Amen. </string>
     <string name="oracao.gloriaPai.name">Glory be to the Father</string>
-    <string name="oracao.gloriaPai">
-		Glory be to the Father, and to the Son, and to the Holy Spirit. 
+    <string name="oracao.gloriaPai">		Glory be to the Father, and to the Son, and to the Holy Spirit. 
 		As it was in the beginning, is now, and ever shall be, world without end. 
 		
-		Amen. 
-	</string>
+		Amen. </string>
     <string name="oracao.credoNiceia.name">Nicene Creed</string>
-    <string name="oracao.credoNiceia">
-		We believe in one God,
+    <string name="oracao.credoNiceia">		We believe in one God,
 		the Father, the Almighty,
 		maker of heaven and earth,
 		of all that is, seen and unseen. 
@@ -196,11 +225,9 @@ Amen.
 		We believe in one holy catholic and apostolic Church.
 		We acknowledge one baptism for the forgiveness of sins.
 		We look for the resurrection of the dead,
-		and the life of the world to come. Amen. 
-	</string>
+		and the life of the world to come. Amen. </string>
     <string name="oracao.cantico.criaturas.name">Canticle of the Creatures</string>
-    <string name="oracao.cantico.criaturas">
-		Highest, omnipotent good Lord!
+    <string name="oracao.cantico.criaturas">		Highest, omnipotent good Lord!
 		Yours are the praises, the glory, and the honour
 		And all blessing
 		To you, alone, Most High, do they belong.
@@ -254,11 +281,9 @@ Amen.
 		The second death can do no harm to them!
 		Praise and bless my Lord
 		And give thanks
-		And serve him with great humility.
-	</string>
+		And serve him with great humility.</string>
     <string name="oracao.espirito.santo.name">Prayer to the Holy Spirit</string>
-    <string name="oracao.espirito.santo">
-		Come Holy Spirit, fill the hearts of your
+    <string name="oracao.espirito.santo">		Come Holy Spirit, fill the hearts of your
 		faithful
 		and kindle in them the fire of Your love.
 		\n
@@ -277,11 +302,9 @@ Amen.
 		And always Let us enjoy His consolation, through Christ our
 		Lord.
 		\n
-		Amen
-	</string>
+		Amen</string>
     <string name="oracao.ato.contricao.name">Act of Contrition</string>
-    <string name="oracao.ato.contricao">
-		Forgive me my sins, O Lord, forgive me my sins;
+    <string name="oracao.ato.contricao">		Forgive me my sins, O Lord, forgive me my sins;
 		the sins of my youth, the sins of my age, the sins of my soul,
 		the sins of my body; my idle sins, my serious voluntary sins;
 		the sins I know, the sins I do not know; the sins I have concealed
@@ -296,11 +319,9 @@ Amen.
 		
 		O My Jesus, forget and forgive what I have been. 
 		\n
-		Amen
-	</string>
+		Amen</string>
     <string name="oracao.padrePio.name">Prayer after Communion (Padre Pio)</string>
-    <string name="oracao.padrePio">
-		Stay with me, Lord, because your presence is required not to have 
+    <string name="oracao.padrePio">		Stay with me, Lord, because your presence is required not to have 
 		You know how easily ofender.Tu abandono.Stay with me, Lord, 
 		for I am weak and I need Your strength to not fall so vezes.Fica, 
 		Lord, with me, for You are my life and without you discouraged in 
@@ -329,11 +350,9 @@ Amen.
 		Your will, Your heart, your spirit, because I love you, and do not 
 		ask no reward besides the increase of solid and love.Practical love
 		.Love Thee with all my heart on earth, to continue to love you 
-		perfectly during all eternity. 
-	</string>
+		perfectly during all eternity. </string>
     <string name="oracao.lembraivos.name">Remember (St. Bernard)</string>
-    <string name="oracao.lembraivos">
-		Remember, O Virgin Mary, 
+    <string name="oracao.lembraivos">		Remember, O Virgin Mary, 
 		you never heard 
 		that some of those 
 		they have resorted to your protection, 
@@ -352,11 +371,9 @@ Amen.
 		conducive to hear them 
 		and achieve what I pray you.
 		\n
-		Amen.
-	</string>
+		Amen.</string>
     <string name="oracao.cincoChagas.name">Devotion to the Five Wounds Jesus Christ </string>
-    <string name="oracao.cincoChagas"> 
-		Opening Prayer 
+    <string name="oracao.cincoChagas">		Opening Prayer 
 		\n
 		While standing on his knees before your 
 		sacred image. 
@@ -484,11 +501,9 @@ Amen.
 		a heart pierced 
 		Safe Haven. 
 		\n 
-		Amen 
-	</string>
+		Amen </string>
     <string name="oracao.magnificat.name">Magnificat</string>
-    <string name="oracao.magnificat">
-		My soul doth magnify the Lord my 
+    <string name="oracao.magnificat">		My soul doth magnify the Lord my 
 		And my spirit rejoices in God my Savior! 
 		Because the lowliness of his poor servant; 
 		henceforth all generations shall call me blessed, 
@@ -505,11 +520,9 @@ Amen.
 		to Abraham and his seed for ever. 
 		Glory to the Father, the Son, and Holy Spirit. 
 		As it was in the beginning is now and ever, amen 
-		The mighty has done great things for me, and holy is his name!
-	</string>
+		The mighty has done great things for me, and holy is his name!</string>
     <string name="oracao.santoAnjo.name">Holy angel of the Lord</string>
-    <string name="oracao.santoAnjo">
-		Holy angel of the Lord 
+    <string name="oracao.santoAnjo">		Holy angel of the Lord 
 		my zealous keeper. 
 		If you entrusted me with the divine mercy, 
 		I always governs, 
@@ -517,8 +530,7 @@ Amen.
 		I rule, 
 		enlighten me. 
 		\n
-		Amen.
-	</string>
+		Amen.</string>
     <string name="oracao.ladainhaNossaSenhora.name">Litany of Our Lady</string>
     <string name="oracao.ladainhaNossaSenhora">Lord, have mercy on us. \n 
 		Jesus Christ, have mercy on us. \n 
@@ -592,11 +604,9 @@ Amen.
 		Blessed Virgin Mary, we are free from the sorrow of 
 		Let us enjoy the century and eternal joy. Through Christ our Lord. 
 		\n 
-		Amen
-	</string>
+		Amen</string>
     <string name="oracao.saobento.name">Prayer of St. Benedict</string>
-    <string name="oracao.saobento">
-            The Holy Cross be my light
+    <string name="oracao.saobento">            The Holy Cross be my light
             \n
 			Do not be my guide the Dragon
 			\n
@@ -606,6 +616,6 @@ Amen.
 			\n
 			It\'s hardly what you offer me
 			\n
-			Drink yourself of your poison
-	</string>
+			Drink yourself of your poison</string>
+
 </resources>
