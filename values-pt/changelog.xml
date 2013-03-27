@@ -2,9 +2,11 @@
 <resources>
 
     <string-array name="changelog">
-        <item>Opção de compartilhar textos</item>
-        <item>Possibilidade de ajuste do tamanho da fonte</item>
-        <item>Possibilidade de uso em modo retrato ou paisagem</item>
+        <item>Correção de traduções</item>
+        <item>Adicionado Oração do Angelus e  Regina Coeli</item>
+        <item>Importação e exportação da confissão (criptografada)</item>
+        <item>Twitter do Papa</item>
+        <item>Notícias do Vaticano</item>
     </string-array>
 
 </resources>

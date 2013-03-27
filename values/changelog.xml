@@ -2,12 +2,13 @@
 <resources>
 
     <string-array name="changelog">
+        <item>Corrected English translation for import/export</item>
         <item>Changed the default english Bible</item>
         <item>Added Angelus and Regina Coeli prayers</item>
         <item>Import/Export the confession (password cyphered)</item>
         <item>Pope\'s twitter</item>
         <item>Vatican news</item>
-        <item>Daily Reading</item>
+        <item>Daily Reading cache</item>
     </string-array>
 
 </resources>

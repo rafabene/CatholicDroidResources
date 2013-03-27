@@ -48,9 +48,9 @@
     <string name="vibrarnoterco">Vibrate on Rosary:</string>
     <string name="fontsize">Font size:</string>
     <string name="avalienoplay">Evaluate us at Google Play</string>
-    <string name="avisoexport">Seu arquivo será exportado e criptografado com a senha que você fornecer abaixo. Será necessário digar a senha novamente na hora da importação. Você poderá gerênciar os arquivos na tela de configuração</string>
-    <string name="nomearquivo">Nome do Arquivo:</string>
-    <string name="senha">Senha:</string>
+    <string name="avisoexport">You file will be exported and cyphered with the password that you provide. It will be necessary to type the password again to import the file. You can manage these files on config screen.</string>
+    <string name="nomearquivo">File name:</string>
+    <string name="senha">Password:</string>
     <string name="naovazio">Must not be empty</string>
     <string name="importadoSucesso">File Imported with success!</string>
     <string name="exportadoSucesso">File Exported with success!</string>

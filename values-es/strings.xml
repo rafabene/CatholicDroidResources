@@ -54,8 +54,8 @@
     <string name="nomearquivo">Nombre del archivo:</string>
     <string name="senha">Contraseña:</string>
     <string name="naovazio">No debe estar vacío </string>
-    <string name="importadoSucesso">Archivo mportado correctamente!</string>
-    <string name="exportadoSucesso">archivo exportado correctamente!</string>
+    <string name="importadoSucesso">Archivo importado correctamente!</string>
+    <string name="exportadoSucesso">Archivo exportado correctamente!</string>
     <string name="avisoConfissao">Ahora usted puede exportar / importar la confesión con contraseña</string>
     <string name="confissaoArquivos">Archivos Confesión</string>
     <string name="gerenciar">Administrar</string>
